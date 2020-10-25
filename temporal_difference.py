@@ -11,16 +11,16 @@ e = []
 s = []
 
 # define path for folder
-path = "sample/*.csv"
+path = "DATA/YEARLY/*.csv"
 
 # loop through csv
 for fname in glob.glob(path):
     df = pd.read_csv(fname, index_col=0)
     obj = pontiPy_Change(df)
 
-    q_value = obj.quantity()
-    e_value = obj.exchange()
-    s_value = obj.shift()
+    q_value = round(obj.quantity())
+    e_value = round(obj.exchange())
+    s_value = round(obj.shift())
 
     q.append(q_value)
     e.append(e_value)
