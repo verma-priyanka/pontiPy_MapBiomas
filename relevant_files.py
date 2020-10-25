@@ -13,10 +13,13 @@ for file in os.listdir("ALL"):
     if file.endswith(".csv"):
         file_split = str(file).replace('.csv', '')
         file_split = file_split.split(' a ')
-        print(file_split[0], file_split[1])
+        # print(file_split[0], file_split[1])
         source = os.path.join(source, file)
-        target = os.path.join(r'YEARLY')
         # check if yearly
         if int(file_split[1]) - int(file_split[0]) == 1:
-            # copy
+            target = os.path.join(r'YEARLY')
+            shutil.copy(source, target)
+    # five year intervals
+        if int(file_split[1]) - int(file_split[0]) == 5:
+            target = os.path.join(r'5_YEAR')
             shutil.copy(source, target)

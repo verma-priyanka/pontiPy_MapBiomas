@@ -328,3 +328,4 @@ TimedPromise/<@chrome://marionette/content/sync.js:244:13
 TimedPromise@chrome://marionette/content/sync.js:229:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
 webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603597572766	Marionette	INFO	Stopped listening on port 58697
