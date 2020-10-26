@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f04bad82-5798-45b7-8ec8-4c52e99d9b1b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pontiPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/pontiPy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relevant_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/relevant_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temporal_difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/temporal_difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yearly_plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/plots-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_scrape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pontiPy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/relevant_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temporal_difference.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

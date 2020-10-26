@@ -1,9 +1,6 @@
-# import pontiPy
 import pandas as pd
 from pontiPy import *
 import os
-
-# import glob
 import glob
 
 # create empty lists
@@ -31,7 +28,6 @@ for fname in glob.glob(path):
     e.append(e_value)
     s.append(s_value)
 
-
 # combine lists into df
 plot_df = pd.DataFrame(
     {'Year':y,
@@ -43,5 +39,6 @@ plot_df = pd.DataFrame(
 plot_df = plot_df[['Year', 'Quantity', 'Exchange', 'Shift']]
 print(plot_df)
 
+# save to file
 # plot_df.to_csv('DATA/final_5YR.csv')
 # plot_df.to_csv('DATA/final_Year.csv')
