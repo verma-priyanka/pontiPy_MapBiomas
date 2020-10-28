@@ -7,8 +7,8 @@ import glob
 q, e, s, y = [], [], [], []
 
 # define path for folder
-path = "DATA/YEARLY/*.csv"
-# path = "DATA/5_YEAR/*.csv"
+# path = "DATA/YEARLY/*.csv"
+path = "../DATA/5_YEAR/*.csv"
 
 # loop through csv
 for fname in glob.glob(path):
@@ -24,9 +24,9 @@ for fname in glob.glob(path):
     s_value = round(obj.shift())
 
     y.append(fname_csv)
-    q.append(q_value)
-    e.append(e_value)
-    s.append(s_value)
+    q.append(q_value/5)
+    e.append(e_value/5)
+    s.append(s_value/5)
 
 # combine lists into df
 plot_df = pd.DataFrame(
@@ -40,5 +40,5 @@ plot_df = plot_df[['Year', 'Quantity', 'Exchange', 'Shift']]
 print(plot_df)
 
 # save to file
-# plot_df.to_csv('DATA/final_5YR.csv')
+plot_df.to_csv('../DATA/QSE_5Year_div.csv')
 # plot_df.to_csv('DATA/final_Year.csv')
