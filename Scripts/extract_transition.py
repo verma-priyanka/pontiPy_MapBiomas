@@ -1,7 +1,7 @@
 """
-Creates directory for each biome
+Creates directory for each biome (Level-2 Data)
 Generates confusion matrices by biome for every 1-year and 5-year intervals
-Date: 10/01/2020
+Date: 11/01/2020
 """
 import pandas as pd
 import numpy as np

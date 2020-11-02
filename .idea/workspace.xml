@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f04bad82-5798-45b7-8ec8-4c52e99d9b1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scripts/extract_transition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/extract_transition.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
