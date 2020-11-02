@@ -3,42 +3,52 @@ from pontiPy import *
 import os
 import glob
 
-# create empty lists
-q, e, s, y = [], [], [], []
+os.chdir("../DATA/TRANSITION")
 
-# define path for folder
-# path = "DATA/YEARLY/*.csv"
-path = "../DATA/5_YEAR/*.csv"
+def biome_contingency(time_interval = 1):
+    directories = glob.glob("*")
+    # each biome subdirectory
+    for dir in directories:
+        # empty dataframe and lists
+        _quantity, _exchange, _shift, _year = [], [], [], []
+        df = pd.DataFrame(None)
+        # get all csvs for biome
+        d = dir + '/*.csv'
+        for file_name in glob.iglob(d, recursive=True):
+            # extract yearly or 5 year csvs based on function parameter
+            csv_file = str(file_name).split("\\")
+            file_split = str(csv_file[1]).replace('.csv', '')
+            file_split = file_split.split(' to ')
+            if int(file_split[1]) - int(file_split[0]) == time_interval:
+                df = pd.read_csv(file_name, index_col=0)
+                # replace nan with 0
+                df = df.fillna(0)
+                fname_csv = os.path.basename(file_name)
+                fname_csv = fname_csv.replace('.csv', '')
 
-# loop through csv
-for fname in glob.glob(path):
-    df = pd.read_csv(fname, index_col=0)
-    fname_csv = os.path.basename(fname)
-    fname_csv = fname_csv.replace(' a ',' to ')
-    fname_csv = fname_csv.replace('.csv', '')
-    # print(fname_csv)
-    obj = pontiPy_Change(df)
+                obj = pontiPy_Change(df)
+                if time_interval == 1:
+                    _year.append(fname_csv)
+                    _quantity.append(round(obj.quantity()))
+                    _exchange.append(round(obj.exchange()))
+                    _shift.append(round(obj.shift()))
+                else:
+                    _year.append(fname_csv)
+                    _quantity.append(round(obj.quantity()/time_interval))
+                    _exchange.append(round(obj.exchange()/time_interval))
+                    _shift.append(round(obj.shift()/time_interval))
 
-    q_value = round(obj.quantity())
-    e_value = round(obj.exchange())
-    s_value = round(obj.shift())
+            # combine lists into df
+            plot_df = pd.DataFrame(
+                {'Year': _year,
+                 'Quantity': _quantity,
+                 'Exchange': _exchange,
+                 'Shift': _shift
+                })
+            # rearrange columns
+            plot_df = plot_df[['Year', 'Quantity', 'Exchange', 'Shift']]
+            # save to file
+            biome_name = '../BIOME_CONTINGENCY/' + dir + '_' + str(time_interval) + 'year' + '.csv'
+            plot_df.to_csv(biome_name)
 
-    y.append(fname_csv)
-    q.append(q_value/5)
-    e.append(e_value/5)
-    s.append(s_value/5)
-
-# combine lists into df
-plot_df = pd.DataFrame(
-    {'Year':y,
-     'Quantity': q,
-     'Exchange': e,
-     'Shift': s
-    })
-# rearrange columns
-plot_df = plot_df[['Year', 'Quantity', 'Exchange', 'Shift']]
-print(plot_df)
-
-# save to file
-plot_df.to_csv('../DATA/QSE_5Year_div.csv')
-# plot_df.to_csv('DATA/final_Year.csv')
+biome_contingency(1)
