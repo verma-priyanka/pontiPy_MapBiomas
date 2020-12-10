@@ -1,0 +1,16 @@
+category1,Aquaculture,Beach and Dune,Forest Plantation,Grassland,Mining,Mosaic of Agriculture and Pasture,Natural Forest,Non Observed,Other Non Forest Natural Formation,Other Non Vegetated Area,Pasture,"River, Lake and Ocean",Rocky outcrop,Salt flat,Urban Infrastructure
+Agriculture,0.0,28.0,1.6,1894.4,0.0,14630.8,14234.6,0.0,0.0,189.0,58466.4,3.2,20.8,0.0,0.0
+Aquaculture,,9.0,0.0,0.0,0.0,0.0,54.0,41.6,0.0,0.0,0.2,0.2,20.8,20.8,0.0
+Beach and Dune,,,0.0,0.0,0.0,0.0,242.0,94.6,0.0,0.0,60.6,78.4,18.2,12.0,14.4
+Forest Plantation,,,,0.0,0.0,0.0,4.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grassland,,,,,2.0,2.0,53369.2,5.4,0.0,0.0,928.8,1259.2,1245.6,129.4,0.0
+Mining,,,,,,1.4,1.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mosaic of Agriculture and Pasture,,,,,,,762780.6,0.8,0.0,0.0,8305.6,9346.2,2502.4,14.8,1.8
+Natural Forest,,,,,,,,22.4,0.0,0.0,1651.8,20461.0,6494.0,94.6,1.6
+Non Observed,,,,,,,,,0.0,0.0,0.8,5.6,0.0,0.0,0.0
+Other Non Forest Natural Formation,,,,,,,,,,0.0,0.0,0.0,0.0,0.0,0.0
+Other Non Vegetated Area,,,,,,,,,,,9726.2,483.8,352.0,12.6,0.0
+Pasture,,,,,,,,,,,,3983.6,2937.6,0.2,0.2
+"River, Lake and Ocean",,,,,,,,,,,,,267.2,22.8,0.0
+Rocky outcrop,,,,,,,,,,,,,,2.6,0.0
+Salt flat,,,,,,,,,,,,,,,0.4

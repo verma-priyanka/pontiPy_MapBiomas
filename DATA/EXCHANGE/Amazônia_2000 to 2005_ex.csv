@@ -1,0 +1,14 @@
+category1,Beach and Dune,Forest Plantation,Grassland,Mining,Mosaic of Agriculture and Pasture,Natural Forest,Non Observed,Other Non Vegetated Area,Pasture,"River, Lake and Ocean",Salt flat,Urban Infrastructure,Wetland
+Agriculture,0.0,5.75,3004.75,0.0,0.0,3642.75,0.0,0.0,44173.5,59.0,0.0,0.25,0.0
+Beach and Dune,,0.0,0.0,0.0,0.0,0.0,5.5,0.0,0.0,2.75,8.75,0.5,0.0
+Forest Plantation,,,1096.75,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0
+Grassland,,,,19.5,0.0,0.0,29.75,29.75,49.5,57757.75,1040.5,0.0,0.0
+Mining,,,,,0.0,0.0,0.0,0.0,0.0,10.5,0.0,0.0,0.0
+Mosaic of Agriculture and Pasture,,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Natural Forest,,,,,,,94.0,78.25,98.25,172771.0,157.0,1.0,0.0
+Non Observed,,,,,,,,0.0,0.0,66.5,2.5,0.0,0.0
+Other Non Vegetated Area,,,,,,,,,142.0,27.5,0.0,0.0,0.0
+Pasture,,,,,,,,,,25169.75,5.75,1.0,0.0
+"River, Lake and Ocean",,,,,,,,,,,64.0,0.0,0.0
+Salt flat,,,,,,,,,,,,1.25,0.0
+Urban Infrastructure,,,,,,,,,,,,,0.0

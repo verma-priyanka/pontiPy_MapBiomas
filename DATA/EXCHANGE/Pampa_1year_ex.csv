@@ -1,0 +1,3571 @@
+year,category1,category2,category1_index,category2_index,exchange
+1985 to 1986,Agriculture,Aquaculture,0,1,0.0
+1985 to 1986,Agriculture,Beach and Dune,0,2,0.0
+1985 to 1986,Agriculture,Forest Plantation,0,3,24.0
+1985 to 1986,Agriculture,Grassland,0,4,6735.0
+1985 to 1986,Agriculture,Mining,0,5,0.0
+1985 to 1986,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1985 to 1986,Agriculture,Natural Forest,0,7,3221.0
+1985 to 1986,Agriculture,Non Observed,0,8,0.0
+1985 to 1986,Agriculture,Other Non Vegetated Area,0,9,277.0
+1985 to 1986,Agriculture,Pasture,0,10,0.0
+1985 to 1986,Agriculture,"River, Lake and Ocean",0,11,947.0
+1985 to 1986,Agriculture,Rocky outcrop,0,12,1.0
+1985 to 1986,Agriculture,Urban Infrastructure,0,13,0.0
+1985 to 1986,Agriculture,Wetland,0,14,103.0
+1985 to 1986,Aquaculture,Beach and Dune,1,2,0.0
+1985 to 1986,Aquaculture,Forest Plantation,1,3,0.0
+1985 to 1986,Aquaculture,Grassland,1,4,0.0
+1985 to 1986,Aquaculture,Mining,1,5,0.0
+1985 to 1986,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1985 to 1986,Aquaculture,Natural Forest,1,7,0.0
+1985 to 1986,Aquaculture,Non Observed,1,8,0.0
+1985 to 1986,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1985 to 1986,Aquaculture,Pasture,1,10,0.0
+1985 to 1986,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1985 to 1986,Aquaculture,Rocky outcrop,1,12,0.0
+1985 to 1986,Aquaculture,Urban Infrastructure,1,13,0.0
+1985 to 1986,Aquaculture,Wetland,1,14,0.0
+1985 to 1986,Beach and Dune,Forest Plantation,2,3,0.0
+1985 to 1986,Beach and Dune,Grassland,2,4,0.0
+1985 to 1986,Beach and Dune,Mining,2,5,0.0
+1985 to 1986,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1985 to 1986,Beach and Dune,Natural Forest,2,7,0.0
+1985 to 1986,Beach and Dune,Non Observed,2,8,0.0
+1985 to 1986,Beach and Dune,Other Non Vegetated Area,2,9,7.0
+1985 to 1986,Beach and Dune,Pasture,2,10,0.0
+1985 to 1986,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1985 to 1986,Beach and Dune,Rocky outcrop,2,12,0.0
+1985 to 1986,Beach and Dune,Urban Infrastructure,2,13,0.0
+1985 to 1986,Beach and Dune,Wetland,2,14,0.0
+1985 to 1986,Forest Plantation,Grassland,3,4,17.0
+1985 to 1986,Forest Plantation,Mining,3,5,0.0
+1985 to 1986,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1985 to 1986,Forest Plantation,Natural Forest,3,7,0.0
+1985 to 1986,Forest Plantation,Non Observed,3,8,0.0
+1985 to 1986,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1985 to 1986,Forest Plantation,Pasture,3,10,0.0
+1985 to 1986,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1985 to 1986,Forest Plantation,Rocky outcrop,3,12,0.0
+1985 to 1986,Forest Plantation,Urban Infrastructure,3,13,0.0
+1985 to 1986,Forest Plantation,Wetland,3,14,0.0
+1985 to 1986,Grassland,Mining,4,5,0.0
+1985 to 1986,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1985 to 1986,Grassland,Natural Forest,4,7,0.0
+1985 to 1986,Grassland,Non Observed,4,8,0.0
+1985 to 1986,Grassland,Other Non Vegetated Area,4,9,0.0
+1985 to 1986,Grassland,Pasture,4,10,0.0
+1985 to 1986,Grassland,"River, Lake and Ocean",4,11,0.0
+1985 to 1986,Grassland,Rocky outcrop,4,12,1.0
+1985 to 1986,Grassland,Urban Infrastructure,4,13,0.0
+1985 to 1986,Grassland,Wetland,4,14,0.0
+1985 to 1986,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1985 to 1986,Mining,Natural Forest,5,7,0.0
+1985 to 1986,Mining,Non Observed,5,8,0.0
+1985 to 1986,Mining,Other Non Vegetated Area,5,9,0.0
+1985 to 1986,Mining,Pasture,5,10,0.0
+1985 to 1986,Mining,"River, Lake and Ocean",5,11,0.0
+1985 to 1986,Mining,Rocky outcrop,5,12,0.0
+1985 to 1986,Mining,Urban Infrastructure,5,13,0.0
+1985 to 1986,Mining,Wetland,5,14,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1985 to 1986,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1985 to 1986,Natural Forest,Non Observed,7,8,0.0
+1985 to 1986,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1985 to 1986,Natural Forest,Pasture,7,10,0.0
+1985 to 1986,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1985 to 1986,Natural Forest,Rocky outcrop,7,12,0.0
+1985 to 1986,Natural Forest,Urban Infrastructure,7,13,0.0
+1985 to 1986,Natural Forest,Wetland,7,14,0.0
+1985 to 1986,Non Observed,Other Non Vegetated Area,8,9,4.0
+1985 to 1986,Non Observed,Pasture,8,10,0.0
+1985 to 1986,Non Observed,"River, Lake and Ocean",8,11,0.0
+1985 to 1986,Non Observed,Rocky outcrop,8,12,0.0
+1985 to 1986,Non Observed,Urban Infrastructure,8,13,0.0
+1985 to 1986,Non Observed,Wetland,8,14,0.0
+1985 to 1986,Other Non Vegetated Area,Pasture,9,10,0.0
+1985 to 1986,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1985 to 1986,Other Non Vegetated Area,Rocky outcrop,9,12,0.0
+1985 to 1986,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1985 to 1986,Other Non Vegetated Area,Wetland,9,14,0.0
+1985 to 1986,Pasture,"River, Lake and Ocean",10,11,0.0
+1985 to 1986,Pasture,Rocky outcrop,10,12,0.0
+1985 to 1986,Pasture,Urban Infrastructure,10,13,0.0
+1985 to 1986,Pasture,Wetland,10,14,0.0
+1985 to 1986,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1985 to 1986,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1985 to 1986,"River, Lake and Ocean",Wetland,11,14,0.0
+1985 to 1986,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1985 to 1986,Rocky outcrop,Wetland,12,14,0.0
+1985 to 1986,Urban Infrastructure,Wetland,13,14,0.0
+1986 to 1987,Agriculture,Aquaculture,0,1,0.0
+1986 to 1987,Agriculture,Beach and Dune,0,2,0.0
+1986 to 1987,Agriculture,Forest Plantation,0,3,3.0
+1986 to 1987,Agriculture,Grassland,0,4,142377.0
+1986 to 1987,Agriculture,Mining,0,5,0.0
+1986 to 1987,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1986 to 1987,Agriculture,Natural Forest,0,7,14750.0
+1986 to 1987,Agriculture,Non Observed,0,8,0.0
+1986 to 1987,Agriculture,Other Non Vegetated Area,0,9,754.0
+1986 to 1987,Agriculture,Pasture,0,10,0.0
+1986 to 1987,Agriculture,"River, Lake and Ocean",0,11,1710.0
+1986 to 1987,Agriculture,Rocky outcrop,0,12,3.0
+1986 to 1987,Agriculture,Urban Infrastructure,0,13,0.0
+1986 to 1987,Agriculture,Wetland,0,14,657.0
+1986 to 1987,Aquaculture,Beach and Dune,1,2,0.0
+1986 to 1987,Aquaculture,Forest Plantation,1,3,0.0
+1986 to 1987,Aquaculture,Grassland,1,4,0.0
+1986 to 1987,Aquaculture,Mining,1,5,0.0
+1986 to 1987,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1986 to 1987,Aquaculture,Natural Forest,1,7,0.0
+1986 to 1987,Aquaculture,Non Observed,1,8,0.0
+1986 to 1987,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1986 to 1987,Aquaculture,Pasture,1,10,0.0
+1986 to 1987,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1986 to 1987,Aquaculture,Rocky outcrop,1,12,0.0
+1986 to 1987,Aquaculture,Urban Infrastructure,1,13,0.0
+1986 to 1987,Aquaculture,Wetland,1,14,0.0
+1986 to 1987,Beach and Dune,Forest Plantation,2,3,0.0
+1986 to 1987,Beach and Dune,Grassland,2,4,0.0
+1986 to 1987,Beach and Dune,Mining,2,5,0.0
+1986 to 1987,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1986 to 1987,Beach and Dune,Natural Forest,2,7,0.0
+1986 to 1987,Beach and Dune,Non Observed,2,8,0.0
+1986 to 1987,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+1986 to 1987,Beach and Dune,Pasture,2,10,0.0
+1986 to 1987,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1986 to 1987,Beach and Dune,Rocky outcrop,2,12,0.0
+1986 to 1987,Beach and Dune,Urban Infrastructure,2,13,0.0
+1986 to 1987,Beach and Dune,Wetland,2,14,0.0
+1986 to 1987,Forest Plantation,Grassland,3,4,1.0
+1986 to 1987,Forest Plantation,Mining,3,5,0.0
+1986 to 1987,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1986 to 1987,Forest Plantation,Natural Forest,3,7,0.0
+1986 to 1987,Forest Plantation,Non Observed,3,8,0.0
+1986 to 1987,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1986 to 1987,Forest Plantation,Pasture,3,10,0.0
+1986 to 1987,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1986 to 1987,Forest Plantation,Rocky outcrop,3,12,0.0
+1986 to 1987,Forest Plantation,Urban Infrastructure,3,13,0.0
+1986 to 1987,Forest Plantation,Wetland,3,14,0.0
+1986 to 1987,Grassland,Mining,4,5,0.0
+1986 to 1987,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1986 to 1987,Grassland,Natural Forest,4,7,0.0
+1986 to 1987,Grassland,Non Observed,4,8,0.0
+1986 to 1987,Grassland,Other Non Vegetated Area,4,9,0.0
+1986 to 1987,Grassland,Pasture,4,10,0.0
+1986 to 1987,Grassland,"River, Lake and Ocean",4,11,0.0
+1986 to 1987,Grassland,Rocky outcrop,4,12,2.0
+1986 to 1987,Grassland,Urban Infrastructure,4,13,0.0
+1986 to 1987,Grassland,Wetland,4,14,0.0
+1986 to 1987,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1986 to 1987,Mining,Natural Forest,5,7,0.0
+1986 to 1987,Mining,Non Observed,5,8,0.0
+1986 to 1987,Mining,Other Non Vegetated Area,5,9,0.0
+1986 to 1987,Mining,Pasture,5,10,0.0
+1986 to 1987,Mining,"River, Lake and Ocean",5,11,0.0
+1986 to 1987,Mining,Rocky outcrop,5,12,0.0
+1986 to 1987,Mining,Urban Infrastructure,5,13,0.0
+1986 to 1987,Mining,Wetland,5,14,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1986 to 1987,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1986 to 1987,Natural Forest,Non Observed,7,8,0.0
+1986 to 1987,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1986 to 1987,Natural Forest,Pasture,7,10,0.0
+1986 to 1987,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1986 to 1987,Natural Forest,Rocky outcrop,7,12,0.0
+1986 to 1987,Natural Forest,Urban Infrastructure,7,13,0.0
+1986 to 1987,Natural Forest,Wetland,7,14,0.0
+1986 to 1987,Non Observed,Other Non Vegetated Area,8,9,3.0
+1986 to 1987,Non Observed,Pasture,8,10,0.0
+1986 to 1987,Non Observed,"River, Lake and Ocean",8,11,0.0
+1986 to 1987,Non Observed,Rocky outcrop,8,12,0.0
+1986 to 1987,Non Observed,Urban Infrastructure,8,13,0.0
+1986 to 1987,Non Observed,Wetland,8,14,0.0
+1986 to 1987,Other Non Vegetated Area,Pasture,9,10,0.0
+1986 to 1987,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1986 to 1987,Other Non Vegetated Area,Rocky outcrop,9,12,6.0
+1986 to 1987,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1986 to 1987,Other Non Vegetated Area,Wetland,9,14,0.0
+1986 to 1987,Pasture,"River, Lake and Ocean",10,11,0.0
+1986 to 1987,Pasture,Rocky outcrop,10,12,0.0
+1986 to 1987,Pasture,Urban Infrastructure,10,13,0.0
+1986 to 1987,Pasture,Wetland,10,14,0.0
+1986 to 1987,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1986 to 1987,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1986 to 1987,"River, Lake and Ocean",Wetland,11,14,0.0
+1986 to 1987,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1986 to 1987,Rocky outcrop,Wetland,12,14,0.0
+1986 to 1987,Urban Infrastructure,Wetland,13,14,0.0
+1987 to 1988,Agriculture,Aquaculture,0,1,0.0
+1987 to 1988,Agriculture,Beach and Dune,0,2,0.0
+1987 to 1988,Agriculture,Forest Plantation,0,3,47.0
+1987 to 1988,Agriculture,Grassland,0,4,156095.0
+1987 to 1988,Agriculture,Mining,0,5,0.0
+1987 to 1988,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1987 to 1988,Agriculture,Natural Forest,0,7,7690.0
+1987 to 1988,Agriculture,Non Observed,0,8,0.0
+1987 to 1988,Agriculture,Other Non Vegetated Area,0,9,1040.0
+1987 to 1988,Agriculture,Pasture,0,10,0.0
+1987 to 1988,Agriculture,"River, Lake and Ocean",0,11,689.0
+1987 to 1988,Agriculture,Rocky outcrop,0,12,4.0
+1987 to 1988,Agriculture,Urban Infrastructure,0,13,0.0
+1987 to 1988,Agriculture,Wetland,0,14,170.0
+1987 to 1988,Aquaculture,Beach and Dune,1,2,0.0
+1987 to 1988,Aquaculture,Forest Plantation,1,3,0.0
+1987 to 1988,Aquaculture,Grassland,1,4,0.0
+1987 to 1988,Aquaculture,Mining,1,5,0.0
+1987 to 1988,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1987 to 1988,Aquaculture,Natural Forest,1,7,0.0
+1987 to 1988,Aquaculture,Non Observed,1,8,0.0
+1987 to 1988,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1987 to 1988,Aquaculture,Pasture,1,10,0.0
+1987 to 1988,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1987 to 1988,Aquaculture,Rocky outcrop,1,12,0.0
+1987 to 1988,Aquaculture,Urban Infrastructure,1,13,0.0
+1987 to 1988,Aquaculture,Wetland,1,14,0.0
+1987 to 1988,Beach and Dune,Forest Plantation,2,3,0.0
+1987 to 1988,Beach and Dune,Grassland,2,4,0.0
+1987 to 1988,Beach and Dune,Mining,2,5,0.0
+1987 to 1988,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1987 to 1988,Beach and Dune,Natural Forest,2,7,0.0
+1987 to 1988,Beach and Dune,Non Observed,2,8,0.0
+1987 to 1988,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+1987 to 1988,Beach and Dune,Pasture,2,10,0.0
+1987 to 1988,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1987 to 1988,Beach and Dune,Rocky outcrop,2,12,0.0
+1987 to 1988,Beach and Dune,Urban Infrastructure,2,13,0.0
+1987 to 1988,Beach and Dune,Wetland,2,14,0.0
+1987 to 1988,Forest Plantation,Grassland,3,4,1.0
+1987 to 1988,Forest Plantation,Mining,3,5,0.0
+1987 to 1988,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1987 to 1988,Forest Plantation,Natural Forest,3,7,0.0
+1987 to 1988,Forest Plantation,Non Observed,3,8,0.0
+1987 to 1988,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1987 to 1988,Forest Plantation,Pasture,3,10,0.0
+1987 to 1988,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1987 to 1988,Forest Plantation,Rocky outcrop,3,12,0.0
+1987 to 1988,Forest Plantation,Urban Infrastructure,3,13,0.0
+1987 to 1988,Forest Plantation,Wetland,3,14,0.0
+1987 to 1988,Grassland,Mining,4,5,0.0
+1987 to 1988,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1987 to 1988,Grassland,Natural Forest,4,7,0.0
+1987 to 1988,Grassland,Non Observed,4,8,0.0
+1987 to 1988,Grassland,Other Non Vegetated Area,4,9,0.0
+1987 to 1988,Grassland,Pasture,4,10,0.0
+1987 to 1988,Grassland,"River, Lake and Ocean",4,11,0.0
+1987 to 1988,Grassland,Rocky outcrop,4,12,1.0
+1987 to 1988,Grassland,Urban Infrastructure,4,13,0.0
+1987 to 1988,Grassland,Wetland,4,14,0.0
+1987 to 1988,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1987 to 1988,Mining,Natural Forest,5,7,0.0
+1987 to 1988,Mining,Non Observed,5,8,0.0
+1987 to 1988,Mining,Other Non Vegetated Area,5,9,0.0
+1987 to 1988,Mining,Pasture,5,10,0.0
+1987 to 1988,Mining,"River, Lake and Ocean",5,11,0.0
+1987 to 1988,Mining,Rocky outcrop,5,12,0.0
+1987 to 1988,Mining,Urban Infrastructure,5,13,0.0
+1987 to 1988,Mining,Wetland,5,14,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1987 to 1988,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1987 to 1988,Natural Forest,Non Observed,7,8,0.0
+1987 to 1988,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1987 to 1988,Natural Forest,Pasture,7,10,0.0
+1987 to 1988,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1987 to 1988,Natural Forest,Rocky outcrop,7,12,0.0
+1987 to 1988,Natural Forest,Urban Infrastructure,7,13,0.0
+1987 to 1988,Natural Forest,Wetland,7,14,0.0
+1987 to 1988,Non Observed,Other Non Vegetated Area,8,9,2.0
+1987 to 1988,Non Observed,Pasture,8,10,0.0
+1987 to 1988,Non Observed,"River, Lake and Ocean",8,11,0.0
+1987 to 1988,Non Observed,Rocky outcrop,8,12,0.0
+1987 to 1988,Non Observed,Urban Infrastructure,8,13,0.0
+1987 to 1988,Non Observed,Wetland,8,14,0.0
+1987 to 1988,Other Non Vegetated Area,Pasture,9,10,0.0
+1987 to 1988,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1987 to 1988,Other Non Vegetated Area,Rocky outcrop,9,12,45.0
+1987 to 1988,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1987 to 1988,Other Non Vegetated Area,Wetland,9,14,0.0
+1987 to 1988,Pasture,"River, Lake and Ocean",10,11,0.0
+1987 to 1988,Pasture,Rocky outcrop,10,12,0.0
+1987 to 1988,Pasture,Urban Infrastructure,10,13,0.0
+1987 to 1988,Pasture,Wetland,10,14,0.0
+1987 to 1988,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1987 to 1988,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1987 to 1988,"River, Lake and Ocean",Wetland,11,14,0.0
+1987 to 1988,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1987 to 1988,Rocky outcrop,Wetland,12,14,0.0
+1987 to 1988,Urban Infrastructure,Wetland,13,14,0.0
+1988 to 1989,Agriculture,Aquaculture,0,1,0.0
+1988 to 1989,Agriculture,Beach and Dune,0,2,0.0
+1988 to 1989,Agriculture,Forest Plantation,0,3,88.0
+1988 to 1989,Agriculture,Grassland,0,4,150807.0
+1988 to 1989,Agriculture,Mining,0,5,0.0
+1988 to 1989,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1988 to 1989,Agriculture,Natural Forest,0,7,12078.0
+1988 to 1989,Agriculture,Non Observed,0,8,0.0
+1988 to 1989,Agriculture,Other Non Vegetated Area,0,9,1340.0
+1988 to 1989,Agriculture,Pasture,0,10,0.0
+1988 to 1989,Agriculture,"River, Lake and Ocean",0,11,1781.0
+1988 to 1989,Agriculture,Rocky outcrop,0,12,17.0
+1988 to 1989,Agriculture,Urban Infrastructure,0,13,0.0
+1988 to 1989,Agriculture,Wetland,0,14,155.0
+1988 to 1989,Aquaculture,Beach and Dune,1,2,0.0
+1988 to 1989,Aquaculture,Forest Plantation,1,3,0.0
+1988 to 1989,Aquaculture,Grassland,1,4,0.0
+1988 to 1989,Aquaculture,Mining,1,5,0.0
+1988 to 1989,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1988 to 1989,Aquaculture,Natural Forest,1,7,0.0
+1988 to 1989,Aquaculture,Non Observed,1,8,0.0
+1988 to 1989,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1988 to 1989,Aquaculture,Pasture,1,10,0.0
+1988 to 1989,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1988 to 1989,Aquaculture,Rocky outcrop,1,12,0.0
+1988 to 1989,Aquaculture,Urban Infrastructure,1,13,0.0
+1988 to 1989,Aquaculture,Wetland,1,14,0.0
+1988 to 1989,Beach and Dune,Forest Plantation,2,3,0.0
+1988 to 1989,Beach and Dune,Grassland,2,4,0.0
+1988 to 1989,Beach and Dune,Mining,2,5,0.0
+1988 to 1989,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1988 to 1989,Beach and Dune,Natural Forest,2,7,0.0
+1988 to 1989,Beach and Dune,Non Observed,2,8,0.0
+1988 to 1989,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+1988 to 1989,Beach and Dune,Pasture,2,10,0.0
+1988 to 1989,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1988 to 1989,Beach and Dune,Rocky outcrop,2,12,0.0
+1988 to 1989,Beach and Dune,Urban Infrastructure,2,13,0.0
+1988 to 1989,Beach and Dune,Wetland,2,14,0.0
+1988 to 1989,Forest Plantation,Grassland,3,4,20.0
+1988 to 1989,Forest Plantation,Mining,3,5,0.0
+1988 to 1989,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1988 to 1989,Forest Plantation,Natural Forest,3,7,0.0
+1988 to 1989,Forest Plantation,Non Observed,3,8,0.0
+1988 to 1989,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1988 to 1989,Forest Plantation,Pasture,3,10,0.0
+1988 to 1989,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1988 to 1989,Forest Plantation,Rocky outcrop,3,12,0.0
+1988 to 1989,Forest Plantation,Urban Infrastructure,3,13,0.0
+1988 to 1989,Forest Plantation,Wetland,3,14,0.0
+1988 to 1989,Grassland,Mining,4,5,1.0
+1988 to 1989,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1988 to 1989,Grassland,Natural Forest,4,7,0.0
+1988 to 1989,Grassland,Non Observed,4,8,0.0
+1988 to 1989,Grassland,Other Non Vegetated Area,4,9,0.0
+1988 to 1989,Grassland,Pasture,4,10,0.0
+1988 to 1989,Grassland,"River, Lake and Ocean",4,11,0.0
+1988 to 1989,Grassland,Rocky outcrop,4,12,7.0
+1988 to 1989,Grassland,Urban Infrastructure,4,13,0.0
+1988 to 1989,Grassland,Wetland,4,14,0.0
+1988 to 1989,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1988 to 1989,Mining,Natural Forest,5,7,0.0
+1988 to 1989,Mining,Non Observed,5,8,0.0
+1988 to 1989,Mining,Other Non Vegetated Area,5,9,0.0
+1988 to 1989,Mining,Pasture,5,10,0.0
+1988 to 1989,Mining,"River, Lake and Ocean",5,11,0.0
+1988 to 1989,Mining,Rocky outcrop,5,12,0.0
+1988 to 1989,Mining,Urban Infrastructure,5,13,0.0
+1988 to 1989,Mining,Wetland,5,14,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1988 to 1989,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1988 to 1989,Natural Forest,Non Observed,7,8,0.0
+1988 to 1989,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1988 to 1989,Natural Forest,Pasture,7,10,0.0
+1988 to 1989,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1988 to 1989,Natural Forest,Rocky outcrop,7,12,0.0
+1988 to 1989,Natural Forest,Urban Infrastructure,7,13,0.0
+1988 to 1989,Natural Forest,Wetland,7,14,0.0
+1988 to 1989,Non Observed,Other Non Vegetated Area,8,9,2.0
+1988 to 1989,Non Observed,Pasture,8,10,0.0
+1988 to 1989,Non Observed,"River, Lake and Ocean",8,11,0.0
+1988 to 1989,Non Observed,Rocky outcrop,8,12,0.0
+1988 to 1989,Non Observed,Urban Infrastructure,8,13,0.0
+1988 to 1989,Non Observed,Wetland,8,14,0.0
+1988 to 1989,Other Non Vegetated Area,Pasture,9,10,0.0
+1988 to 1989,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1988 to 1989,Other Non Vegetated Area,Rocky outcrop,9,12,8.0
+1988 to 1989,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1988 to 1989,Other Non Vegetated Area,Wetland,9,14,0.0
+1988 to 1989,Pasture,"River, Lake and Ocean",10,11,0.0
+1988 to 1989,Pasture,Rocky outcrop,10,12,0.0
+1988 to 1989,Pasture,Urban Infrastructure,10,13,0.0
+1988 to 1989,Pasture,Wetland,10,14,0.0
+1988 to 1989,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1988 to 1989,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1988 to 1989,"River, Lake and Ocean",Wetland,11,14,0.0
+1988 to 1989,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1988 to 1989,Rocky outcrop,Wetland,12,14,0.0
+1988 to 1989,Urban Infrastructure,Wetland,13,14,0.0
+1989 to 1990,Agriculture,Aquaculture,0,1,0.0
+1989 to 1990,Agriculture,Beach and Dune,0,2,0.0
+1989 to 1990,Agriculture,Forest Plantation,0,3,150.0
+1989 to 1990,Agriculture,Grassland,0,4,143028.0
+1989 to 1990,Agriculture,Mining,0,5,0.0
+1989 to 1990,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1989 to 1990,Agriculture,Natural Forest,0,7,16872.0
+1989 to 1990,Agriculture,Non Observed,0,8,0.0
+1989 to 1990,Agriculture,Other Non Vegetated Area,0,9,1291.0
+1989 to 1990,Agriculture,Pasture,0,10,0.0
+1989 to 1990,Agriculture,"River, Lake and Ocean",0,11,3645.0
+1989 to 1990,Agriculture,Rocky outcrop,0,12,12.0
+1989 to 1990,Agriculture,Urban Infrastructure,0,13,0.0
+1989 to 1990,Agriculture,Wetland,0,14,805.0
+1989 to 1990,Aquaculture,Beach and Dune,1,2,0.0
+1989 to 1990,Aquaculture,Forest Plantation,1,3,0.0
+1989 to 1990,Aquaculture,Grassland,1,4,0.0
+1989 to 1990,Aquaculture,Mining,1,5,0.0
+1989 to 1990,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1989 to 1990,Aquaculture,Natural Forest,1,7,0.0
+1989 to 1990,Aquaculture,Non Observed,1,8,0.0
+1989 to 1990,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1989 to 1990,Aquaculture,Pasture,1,10,0.0
+1989 to 1990,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1989 to 1990,Aquaculture,Rocky outcrop,1,12,0.0
+1989 to 1990,Aquaculture,Urban Infrastructure,1,13,0.0
+1989 to 1990,Aquaculture,Wetland,1,14,0.0
+1989 to 1990,Beach and Dune,Forest Plantation,2,3,0.0
+1989 to 1990,Beach and Dune,Grassland,2,4,0.0
+1989 to 1990,Beach and Dune,Mining,2,5,0.0
+1989 to 1990,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1989 to 1990,Beach and Dune,Natural Forest,2,7,0.0
+1989 to 1990,Beach and Dune,Non Observed,2,8,0.0
+1989 to 1990,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+1989 to 1990,Beach and Dune,Pasture,2,10,0.0
+1989 to 1990,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1989 to 1990,Beach and Dune,Rocky outcrop,2,12,0.0
+1989 to 1990,Beach and Dune,Urban Infrastructure,2,13,0.0
+1989 to 1990,Beach and Dune,Wetland,2,14,0.0
+1989 to 1990,Forest Plantation,Grassland,3,4,38.0
+1989 to 1990,Forest Plantation,Mining,3,5,0.0
+1989 to 1990,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1989 to 1990,Forest Plantation,Natural Forest,3,7,0.0
+1989 to 1990,Forest Plantation,Non Observed,3,8,0.0
+1989 to 1990,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1989 to 1990,Forest Plantation,Pasture,3,10,0.0
+1989 to 1990,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1989 to 1990,Forest Plantation,Rocky outcrop,3,12,0.0
+1989 to 1990,Forest Plantation,Urban Infrastructure,3,13,0.0
+1989 to 1990,Forest Plantation,Wetland,3,14,0.0
+1989 to 1990,Grassland,Mining,4,5,0.0
+1989 to 1990,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1989 to 1990,Grassland,Natural Forest,4,7,0.0
+1989 to 1990,Grassland,Non Observed,4,8,0.0
+1989 to 1990,Grassland,Other Non Vegetated Area,4,9,0.0
+1989 to 1990,Grassland,Pasture,4,10,0.0
+1989 to 1990,Grassland,"River, Lake and Ocean",4,11,0.0
+1989 to 1990,Grassland,Rocky outcrop,4,12,0.0
+1989 to 1990,Grassland,Urban Infrastructure,4,13,0.0
+1989 to 1990,Grassland,Wetland,4,14,0.0
+1989 to 1990,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1989 to 1990,Mining,Natural Forest,5,7,0.0
+1989 to 1990,Mining,Non Observed,5,8,0.0
+1989 to 1990,Mining,Other Non Vegetated Area,5,9,0.0
+1989 to 1990,Mining,Pasture,5,10,0.0
+1989 to 1990,Mining,"River, Lake and Ocean",5,11,0.0
+1989 to 1990,Mining,Rocky outcrop,5,12,0.0
+1989 to 1990,Mining,Urban Infrastructure,5,13,0.0
+1989 to 1990,Mining,Wetland,5,14,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1989 to 1990,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1989 to 1990,Natural Forest,Non Observed,7,8,0.0
+1989 to 1990,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1989 to 1990,Natural Forest,Pasture,7,10,0.0
+1989 to 1990,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1989 to 1990,Natural Forest,Rocky outcrop,7,12,0.0
+1989 to 1990,Natural Forest,Urban Infrastructure,7,13,0.0
+1989 to 1990,Natural Forest,Wetland,7,14,0.0
+1989 to 1990,Non Observed,Other Non Vegetated Area,8,9,3.0
+1989 to 1990,Non Observed,Pasture,8,10,0.0
+1989 to 1990,Non Observed,"River, Lake and Ocean",8,11,0.0
+1989 to 1990,Non Observed,Rocky outcrop,8,12,0.0
+1989 to 1990,Non Observed,Urban Infrastructure,8,13,0.0
+1989 to 1990,Non Observed,Wetland,8,14,0.0
+1989 to 1990,Other Non Vegetated Area,Pasture,9,10,0.0
+1989 to 1990,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1989 to 1990,Other Non Vegetated Area,Rocky outcrop,9,12,7.0
+1989 to 1990,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1989 to 1990,Other Non Vegetated Area,Wetland,9,14,0.0
+1989 to 1990,Pasture,"River, Lake and Ocean",10,11,0.0
+1989 to 1990,Pasture,Rocky outcrop,10,12,0.0
+1989 to 1990,Pasture,Urban Infrastructure,10,13,0.0
+1989 to 1990,Pasture,Wetland,10,14,0.0
+1989 to 1990,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1989 to 1990,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1989 to 1990,"River, Lake and Ocean",Wetland,11,14,0.0
+1989 to 1990,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1989 to 1990,Rocky outcrop,Wetland,12,14,0.0
+1989 to 1990,Urban Infrastructure,Wetland,13,14,0.0
+1990 to 1991,Agriculture,Aquaculture,0,1,0.0
+1990 to 1991,Agriculture,Beach and Dune,0,2,0.0
+1990 to 1991,Agriculture,Forest Plantation,0,3,46.0
+1990 to 1991,Agriculture,Grassland,0,4,136071.0
+1990 to 1991,Agriculture,Mining,0,5,0.0
+1990 to 1991,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1990 to 1991,Agriculture,Natural Forest,0,7,11396.0
+1990 to 1991,Agriculture,Non Observed,0,8,0.0
+1990 to 1991,Agriculture,Other Non Vegetated Area,0,9,1401.0
+1990 to 1991,Agriculture,Pasture,0,10,0.0
+1990 to 1991,Agriculture,"River, Lake and Ocean",0,11,3047.0
+1990 to 1991,Agriculture,Rocky outcrop,0,12,3.0
+1990 to 1991,Agriculture,Urban Infrastructure,0,13,0.0
+1990 to 1991,Agriculture,Wetland,0,14,635.0
+1990 to 1991,Aquaculture,Beach and Dune,1,2,0.0
+1990 to 1991,Aquaculture,Forest Plantation,1,3,0.0
+1990 to 1991,Aquaculture,Grassland,1,4,0.0
+1990 to 1991,Aquaculture,Mining,1,5,0.0
+1990 to 1991,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1990 to 1991,Aquaculture,Natural Forest,1,7,0.0
+1990 to 1991,Aquaculture,Non Observed,1,8,0.0
+1990 to 1991,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1990 to 1991,Aquaculture,Pasture,1,10,0.0
+1990 to 1991,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1990 to 1991,Aquaculture,Rocky outcrop,1,12,0.0
+1990 to 1991,Aquaculture,Urban Infrastructure,1,13,0.0
+1990 to 1991,Aquaculture,Wetland,1,14,0.0
+1990 to 1991,Beach and Dune,Forest Plantation,2,3,0.0
+1990 to 1991,Beach and Dune,Grassland,2,4,0.0
+1990 to 1991,Beach and Dune,Mining,2,5,0.0
+1990 to 1991,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1990 to 1991,Beach and Dune,Natural Forest,2,7,0.0
+1990 to 1991,Beach and Dune,Non Observed,2,8,0.0
+1990 to 1991,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+1990 to 1991,Beach and Dune,Pasture,2,10,0.0
+1990 to 1991,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1990 to 1991,Beach and Dune,Rocky outcrop,2,12,0.0
+1990 to 1991,Beach and Dune,Urban Infrastructure,2,13,0.0
+1990 to 1991,Beach and Dune,Wetland,2,14,0.0
+1990 to 1991,Forest Plantation,Grassland,3,4,35.0
+1990 to 1991,Forest Plantation,Mining,3,5,0.0
+1990 to 1991,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1990 to 1991,Forest Plantation,Natural Forest,3,7,0.0
+1990 to 1991,Forest Plantation,Non Observed,3,8,0.0
+1990 to 1991,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1990 to 1991,Forest Plantation,Pasture,3,10,0.0
+1990 to 1991,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1990 to 1991,Forest Plantation,Rocky outcrop,3,12,0.0
+1990 to 1991,Forest Plantation,Urban Infrastructure,3,13,0.0
+1990 to 1991,Forest Plantation,Wetland,3,14,0.0
+1990 to 1991,Grassland,Mining,4,5,0.0
+1990 to 1991,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1990 to 1991,Grassland,Natural Forest,4,7,0.0
+1990 to 1991,Grassland,Non Observed,4,8,0.0
+1990 to 1991,Grassland,Other Non Vegetated Area,4,9,0.0
+1990 to 1991,Grassland,Pasture,4,10,0.0
+1990 to 1991,Grassland,"River, Lake and Ocean",4,11,0.0
+1990 to 1991,Grassland,Rocky outcrop,4,12,3.0
+1990 to 1991,Grassland,Urban Infrastructure,4,13,0.0
+1990 to 1991,Grassland,Wetland,4,14,0.0
+1990 to 1991,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1990 to 1991,Mining,Natural Forest,5,7,0.0
+1990 to 1991,Mining,Non Observed,5,8,0.0
+1990 to 1991,Mining,Other Non Vegetated Area,5,9,0.0
+1990 to 1991,Mining,Pasture,5,10,0.0
+1990 to 1991,Mining,"River, Lake and Ocean",5,11,0.0
+1990 to 1991,Mining,Rocky outcrop,5,12,0.0
+1990 to 1991,Mining,Urban Infrastructure,5,13,0.0
+1990 to 1991,Mining,Wetland,5,14,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1990 to 1991,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1990 to 1991,Natural Forest,Non Observed,7,8,0.0
+1990 to 1991,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1990 to 1991,Natural Forest,Pasture,7,10,0.0
+1990 to 1991,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1990 to 1991,Natural Forest,Rocky outcrop,7,12,0.0
+1990 to 1991,Natural Forest,Urban Infrastructure,7,13,0.0
+1990 to 1991,Natural Forest,Wetland,7,14,0.0
+1990 to 1991,Non Observed,Other Non Vegetated Area,8,9,1.0
+1990 to 1991,Non Observed,Pasture,8,10,0.0
+1990 to 1991,Non Observed,"River, Lake and Ocean",8,11,0.0
+1990 to 1991,Non Observed,Rocky outcrop,8,12,0.0
+1990 to 1991,Non Observed,Urban Infrastructure,8,13,0.0
+1990 to 1991,Non Observed,Wetland,8,14,0.0
+1990 to 1991,Other Non Vegetated Area,Pasture,9,10,0.0
+1990 to 1991,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1990 to 1991,Other Non Vegetated Area,Rocky outcrop,9,12,11.0
+1990 to 1991,Other Non Vegetated Area,Urban Infrastructure,9,13,1.0
+1990 to 1991,Other Non Vegetated Area,Wetland,9,14,1.0
+1990 to 1991,Pasture,"River, Lake and Ocean",10,11,0.0
+1990 to 1991,Pasture,Rocky outcrop,10,12,0.0
+1990 to 1991,Pasture,Urban Infrastructure,10,13,0.0
+1990 to 1991,Pasture,Wetland,10,14,0.0
+1990 to 1991,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1990 to 1991,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1990 to 1991,"River, Lake and Ocean",Wetland,11,14,0.0
+1990 to 1991,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1990 to 1991,Rocky outcrop,Wetland,12,14,0.0
+1990 to 1991,Urban Infrastructure,Wetland,13,14,0.0
+1991 to 1992,Agriculture,Aquaculture,0,1,0.0
+1991 to 1992,Agriculture,Beach and Dune,0,2,0.0
+1991 to 1992,Agriculture,Forest Plantation,0,3,100.0
+1991 to 1992,Agriculture,Grassland,0,4,154849.0
+1991 to 1992,Agriculture,Mining,0,5,0.0
+1991 to 1992,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1991 to 1992,Agriculture,Natural Forest,0,7,13496.0
+1991 to 1992,Agriculture,Non Observed,0,8,0.0
+1991 to 1992,Agriculture,Other Non Vegetated Area,0,9,2031.0
+1991 to 1992,Agriculture,Pasture,0,10,0.0
+1991 to 1992,Agriculture,"River, Lake and Ocean",0,11,1555.0
+1991 to 1992,Agriculture,Rocky outcrop,0,12,20.0
+1991 to 1992,Agriculture,Urban Infrastructure,0,13,0.0
+1991 to 1992,Agriculture,Wetland,0,14,277.0
+1991 to 1992,Aquaculture,Beach and Dune,1,2,0.0
+1991 to 1992,Aquaculture,Forest Plantation,1,3,0.0
+1991 to 1992,Aquaculture,Grassland,1,4,0.0
+1991 to 1992,Aquaculture,Mining,1,5,0.0
+1991 to 1992,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1991 to 1992,Aquaculture,Natural Forest,1,7,0.0
+1991 to 1992,Aquaculture,Non Observed,1,8,0.0
+1991 to 1992,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1991 to 1992,Aquaculture,Pasture,1,10,0.0
+1991 to 1992,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1991 to 1992,Aquaculture,Rocky outcrop,1,12,0.0
+1991 to 1992,Aquaculture,Urban Infrastructure,1,13,0.0
+1991 to 1992,Aquaculture,Wetland,1,14,0.0
+1991 to 1992,Beach and Dune,Forest Plantation,2,3,0.0
+1991 to 1992,Beach and Dune,Grassland,2,4,0.0
+1991 to 1992,Beach and Dune,Mining,2,5,0.0
+1991 to 1992,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1991 to 1992,Beach and Dune,Natural Forest,2,7,0.0
+1991 to 1992,Beach and Dune,Non Observed,2,8,0.0
+1991 to 1992,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+1991 to 1992,Beach and Dune,Pasture,2,10,0.0
+1991 to 1992,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1991 to 1992,Beach and Dune,Rocky outcrop,2,12,0.0
+1991 to 1992,Beach and Dune,Urban Infrastructure,2,13,0.0
+1991 to 1992,Beach and Dune,Wetland,2,14,0.0
+1991 to 1992,Forest Plantation,Grassland,3,4,19.0
+1991 to 1992,Forest Plantation,Mining,3,5,0.0
+1991 to 1992,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1991 to 1992,Forest Plantation,Natural Forest,3,7,0.0
+1991 to 1992,Forest Plantation,Non Observed,3,8,0.0
+1991 to 1992,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1991 to 1992,Forest Plantation,Pasture,3,10,0.0
+1991 to 1992,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1991 to 1992,Forest Plantation,Rocky outcrop,3,12,0.0
+1991 to 1992,Forest Plantation,Urban Infrastructure,3,13,0.0
+1991 to 1992,Forest Plantation,Wetland,3,14,0.0
+1991 to 1992,Grassland,Mining,4,5,0.0
+1991 to 1992,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1991 to 1992,Grassland,Natural Forest,4,7,0.0
+1991 to 1992,Grassland,Non Observed,4,8,0.0
+1991 to 1992,Grassland,Other Non Vegetated Area,4,9,0.0
+1991 to 1992,Grassland,Pasture,4,10,0.0
+1991 to 1992,Grassland,"River, Lake and Ocean",4,11,0.0
+1991 to 1992,Grassland,Rocky outcrop,4,12,10.0
+1991 to 1992,Grassland,Urban Infrastructure,4,13,0.0
+1991 to 1992,Grassland,Wetland,4,14,0.0
+1991 to 1992,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1991 to 1992,Mining,Natural Forest,5,7,0.0
+1991 to 1992,Mining,Non Observed,5,8,0.0
+1991 to 1992,Mining,Other Non Vegetated Area,5,9,0.0
+1991 to 1992,Mining,Pasture,5,10,0.0
+1991 to 1992,Mining,"River, Lake and Ocean",5,11,0.0
+1991 to 1992,Mining,Rocky outcrop,5,12,0.0
+1991 to 1992,Mining,Urban Infrastructure,5,13,0.0
+1991 to 1992,Mining,Wetland,5,14,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1991 to 1992,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1991 to 1992,Natural Forest,Non Observed,7,8,0.0
+1991 to 1992,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1991 to 1992,Natural Forest,Pasture,7,10,0.0
+1991 to 1992,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1991 to 1992,Natural Forest,Rocky outcrop,7,12,0.0
+1991 to 1992,Natural Forest,Urban Infrastructure,7,13,0.0
+1991 to 1992,Natural Forest,Wetland,7,14,0.0
+1991 to 1992,Non Observed,Other Non Vegetated Area,8,9,2.0
+1991 to 1992,Non Observed,Pasture,8,10,0.0
+1991 to 1992,Non Observed,"River, Lake and Ocean",8,11,0.0
+1991 to 1992,Non Observed,Rocky outcrop,8,12,0.0
+1991 to 1992,Non Observed,Urban Infrastructure,8,13,0.0
+1991 to 1992,Non Observed,Wetland,8,14,0.0
+1991 to 1992,Other Non Vegetated Area,Pasture,9,10,0.0
+1991 to 1992,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1991 to 1992,Other Non Vegetated Area,Rocky outcrop,9,12,58.0
+1991 to 1992,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1991 to 1992,Other Non Vegetated Area,Wetland,9,14,0.0
+1991 to 1992,Pasture,"River, Lake and Ocean",10,11,0.0
+1991 to 1992,Pasture,Rocky outcrop,10,12,0.0
+1991 to 1992,Pasture,Urban Infrastructure,10,13,0.0
+1991 to 1992,Pasture,Wetland,10,14,0.0
+1991 to 1992,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1991 to 1992,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1991 to 1992,"River, Lake and Ocean",Wetland,11,14,0.0
+1991 to 1992,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1991 to 1992,Rocky outcrop,Wetland,12,14,0.0
+1991 to 1992,Urban Infrastructure,Wetland,13,14,0.0
+1992 to 1993,Agriculture,Aquaculture,0,1,0.0
+1992 to 1993,Agriculture,Beach and Dune,0,2,0.0
+1992 to 1993,Agriculture,Forest Plantation,0,3,123.0
+1992 to 1993,Agriculture,Grassland,0,4,160669.0
+1992 to 1993,Agriculture,Mining,0,5,0.0
+1992 to 1993,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1992 to 1993,Agriculture,Natural Forest,0,7,11367.0
+1992 to 1993,Agriculture,Non Observed,0,8,0.0
+1992 to 1993,Agriculture,Other Non Vegetated Area,0,9,1348.0
+1992 to 1993,Agriculture,Pasture,0,10,0.0
+1992 to 1993,Agriculture,"River, Lake and Ocean",0,11,2125.0
+1992 to 1993,Agriculture,Rocky outcrop,0,12,25.0
+1992 to 1993,Agriculture,Urban Infrastructure,0,13,0.0
+1992 to 1993,Agriculture,Wetland,0,14,149.0
+1992 to 1993,Aquaculture,Beach and Dune,1,2,0.0
+1992 to 1993,Aquaculture,Forest Plantation,1,3,0.0
+1992 to 1993,Aquaculture,Grassland,1,4,0.0
+1992 to 1993,Aquaculture,Mining,1,5,0.0
+1992 to 1993,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1992 to 1993,Aquaculture,Natural Forest,1,7,0.0
+1992 to 1993,Aquaculture,Non Observed,1,8,0.0
+1992 to 1993,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1992 to 1993,Aquaculture,Pasture,1,10,0.0
+1992 to 1993,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1992 to 1993,Aquaculture,Rocky outcrop,1,12,0.0
+1992 to 1993,Aquaculture,Urban Infrastructure,1,13,0.0
+1992 to 1993,Aquaculture,Wetland,1,14,0.0
+1992 to 1993,Beach and Dune,Forest Plantation,2,3,0.0
+1992 to 1993,Beach and Dune,Grassland,2,4,0.0
+1992 to 1993,Beach and Dune,Mining,2,5,0.0
+1992 to 1993,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1992 to 1993,Beach and Dune,Natural Forest,2,7,0.0
+1992 to 1993,Beach and Dune,Non Observed,2,8,0.0
+1992 to 1993,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+1992 to 1993,Beach and Dune,Pasture,2,10,0.0
+1992 to 1993,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1992 to 1993,Beach and Dune,Rocky outcrop,2,12,0.0
+1992 to 1993,Beach and Dune,Urban Infrastructure,2,13,0.0
+1992 to 1993,Beach and Dune,Wetland,2,14,0.0
+1992 to 1993,Forest Plantation,Grassland,3,4,27.0
+1992 to 1993,Forest Plantation,Mining,3,5,0.0
+1992 to 1993,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1992 to 1993,Forest Plantation,Natural Forest,3,7,0.0
+1992 to 1993,Forest Plantation,Non Observed,3,8,0.0
+1992 to 1993,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1992 to 1993,Forest Plantation,Pasture,3,10,0.0
+1992 to 1993,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1992 to 1993,Forest Plantation,Rocky outcrop,3,12,0.0
+1992 to 1993,Forest Plantation,Urban Infrastructure,3,13,0.0
+1992 to 1993,Forest Plantation,Wetland,3,14,0.0
+1992 to 1993,Grassland,Mining,4,5,0.0
+1992 to 1993,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1992 to 1993,Grassland,Natural Forest,4,7,0.0
+1992 to 1993,Grassland,Non Observed,4,8,0.0
+1992 to 1993,Grassland,Other Non Vegetated Area,4,9,0.0
+1992 to 1993,Grassland,Pasture,4,10,0.0
+1992 to 1993,Grassland,"River, Lake and Ocean",4,11,0.0
+1992 to 1993,Grassland,Rocky outcrop,4,12,3.0
+1992 to 1993,Grassland,Urban Infrastructure,4,13,1.0
+1992 to 1993,Grassland,Wetland,4,14,1.0
+1992 to 1993,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1992 to 1993,Mining,Natural Forest,5,7,0.0
+1992 to 1993,Mining,Non Observed,5,8,0.0
+1992 to 1993,Mining,Other Non Vegetated Area,5,9,0.0
+1992 to 1993,Mining,Pasture,5,10,0.0
+1992 to 1993,Mining,"River, Lake and Ocean",5,11,0.0
+1992 to 1993,Mining,Rocky outcrop,5,12,0.0
+1992 to 1993,Mining,Urban Infrastructure,5,13,0.0
+1992 to 1993,Mining,Wetland,5,14,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1992 to 1993,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1992 to 1993,Natural Forest,Non Observed,7,8,0.0
+1992 to 1993,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1992 to 1993,Natural Forest,Pasture,7,10,0.0
+1992 to 1993,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1992 to 1993,Natural Forest,Rocky outcrop,7,12,0.0
+1992 to 1993,Natural Forest,Urban Infrastructure,7,13,0.0
+1992 to 1993,Natural Forest,Wetland,7,14,0.0
+1992 to 1993,Non Observed,Other Non Vegetated Area,8,9,2.0
+1992 to 1993,Non Observed,Pasture,8,10,0.0
+1992 to 1993,Non Observed,"River, Lake and Ocean",8,11,0.0
+1992 to 1993,Non Observed,Rocky outcrop,8,12,0.0
+1992 to 1993,Non Observed,Urban Infrastructure,8,13,0.0
+1992 to 1993,Non Observed,Wetland,8,14,0.0
+1992 to 1993,Other Non Vegetated Area,Pasture,9,10,0.0
+1992 to 1993,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1992 to 1993,Other Non Vegetated Area,Rocky outcrop,9,12,6.0
+1992 to 1993,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1992 to 1993,Other Non Vegetated Area,Wetland,9,14,0.0
+1992 to 1993,Pasture,"River, Lake and Ocean",10,11,0.0
+1992 to 1993,Pasture,Rocky outcrop,10,12,0.0
+1992 to 1993,Pasture,Urban Infrastructure,10,13,0.0
+1992 to 1993,Pasture,Wetland,10,14,0.0
+1992 to 1993,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1992 to 1993,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1992 to 1993,"River, Lake and Ocean",Wetland,11,14,0.0
+1992 to 1993,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1992 to 1993,Rocky outcrop,Wetland,12,14,0.0
+1992 to 1993,Urban Infrastructure,Wetland,13,14,0.0
+1993 to 1994,Agriculture,Aquaculture,0,1,0.0
+1993 to 1994,Agriculture,Beach and Dune,0,2,0.0
+1993 to 1994,Agriculture,Forest Plantation,0,3,65.0
+1993 to 1994,Agriculture,Grassland,0,4,144002.0
+1993 to 1994,Agriculture,Mining,0,5,0.0
+1993 to 1994,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1993 to 1994,Agriculture,Natural Forest,0,7,12559.0
+1993 to 1994,Agriculture,Non Observed,0,8,0.0
+1993 to 1994,Agriculture,Other Non Vegetated Area,0,9,2210.0
+1993 to 1994,Agriculture,Pasture,0,10,0.0
+1993 to 1994,Agriculture,"River, Lake and Ocean",0,11,1616.0
+1993 to 1994,Agriculture,Rocky outcrop,0,12,17.0
+1993 to 1994,Agriculture,Urban Infrastructure,0,13,0.0
+1993 to 1994,Agriculture,Wetland,0,14,323.0
+1993 to 1994,Aquaculture,Beach and Dune,1,2,0.0
+1993 to 1994,Aquaculture,Forest Plantation,1,3,0.0
+1993 to 1994,Aquaculture,Grassland,1,4,0.0
+1993 to 1994,Aquaculture,Mining,1,5,0.0
+1993 to 1994,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1993 to 1994,Aquaculture,Natural Forest,1,7,0.0
+1993 to 1994,Aquaculture,Non Observed,1,8,0.0
+1993 to 1994,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1993 to 1994,Aquaculture,Pasture,1,10,0.0
+1993 to 1994,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1993 to 1994,Aquaculture,Rocky outcrop,1,12,0.0
+1993 to 1994,Aquaculture,Urban Infrastructure,1,13,0.0
+1993 to 1994,Aquaculture,Wetland,1,14,0.0
+1993 to 1994,Beach and Dune,Forest Plantation,2,3,0.0
+1993 to 1994,Beach and Dune,Grassland,2,4,0.0
+1993 to 1994,Beach and Dune,Mining,2,5,0.0
+1993 to 1994,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1993 to 1994,Beach and Dune,Natural Forest,2,7,0.0
+1993 to 1994,Beach and Dune,Non Observed,2,8,0.0
+1993 to 1994,Beach and Dune,Other Non Vegetated Area,2,9,1.0
+1993 to 1994,Beach and Dune,Pasture,2,10,0.0
+1993 to 1994,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1993 to 1994,Beach and Dune,Rocky outcrop,2,12,0.0
+1993 to 1994,Beach and Dune,Urban Infrastructure,2,13,0.0
+1993 to 1994,Beach and Dune,Wetland,2,14,0.0
+1993 to 1994,Forest Plantation,Grassland,3,4,1.0
+1993 to 1994,Forest Plantation,Mining,3,5,0.0
+1993 to 1994,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1993 to 1994,Forest Plantation,Natural Forest,3,7,0.0
+1993 to 1994,Forest Plantation,Non Observed,3,8,0.0
+1993 to 1994,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1993 to 1994,Forest Plantation,Pasture,3,10,0.0
+1993 to 1994,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1993 to 1994,Forest Plantation,Rocky outcrop,3,12,0.0
+1993 to 1994,Forest Plantation,Urban Infrastructure,3,13,0.0
+1993 to 1994,Forest Plantation,Wetland,3,14,0.0
+1993 to 1994,Grassland,Mining,4,5,0.0
+1993 to 1994,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1993 to 1994,Grassland,Natural Forest,4,7,0.0
+1993 to 1994,Grassland,Non Observed,4,8,0.0
+1993 to 1994,Grassland,Other Non Vegetated Area,4,9,0.0
+1993 to 1994,Grassland,Pasture,4,10,0.0
+1993 to 1994,Grassland,"River, Lake and Ocean",4,11,0.0
+1993 to 1994,Grassland,Rocky outcrop,4,12,12.0
+1993 to 1994,Grassland,Urban Infrastructure,4,13,0.0
+1993 to 1994,Grassland,Wetland,4,14,0.0
+1993 to 1994,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1993 to 1994,Mining,Natural Forest,5,7,0.0
+1993 to 1994,Mining,Non Observed,5,8,0.0
+1993 to 1994,Mining,Other Non Vegetated Area,5,9,0.0
+1993 to 1994,Mining,Pasture,5,10,0.0
+1993 to 1994,Mining,"River, Lake and Ocean",5,11,0.0
+1993 to 1994,Mining,Rocky outcrop,5,12,0.0
+1993 to 1994,Mining,Urban Infrastructure,5,13,0.0
+1993 to 1994,Mining,Wetland,5,14,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1993 to 1994,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1993 to 1994,Natural Forest,Non Observed,7,8,0.0
+1993 to 1994,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1993 to 1994,Natural Forest,Pasture,7,10,0.0
+1993 to 1994,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1993 to 1994,Natural Forest,Rocky outcrop,7,12,0.0
+1993 to 1994,Natural Forest,Urban Infrastructure,7,13,0.0
+1993 to 1994,Natural Forest,Wetland,7,14,0.0
+1993 to 1994,Non Observed,Other Non Vegetated Area,8,9,1.0
+1993 to 1994,Non Observed,Pasture,8,10,0.0
+1993 to 1994,Non Observed,"River, Lake and Ocean",8,11,0.0
+1993 to 1994,Non Observed,Rocky outcrop,8,12,0.0
+1993 to 1994,Non Observed,Urban Infrastructure,8,13,0.0
+1993 to 1994,Non Observed,Wetland,8,14,0.0
+1993 to 1994,Other Non Vegetated Area,Pasture,9,10,0.0
+1993 to 1994,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1993 to 1994,Other Non Vegetated Area,Rocky outcrop,9,12,18.0
+1993 to 1994,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1993 to 1994,Other Non Vegetated Area,Wetland,9,14,0.0
+1993 to 1994,Pasture,"River, Lake and Ocean",10,11,0.0
+1993 to 1994,Pasture,Rocky outcrop,10,12,0.0
+1993 to 1994,Pasture,Urban Infrastructure,10,13,0.0
+1993 to 1994,Pasture,Wetland,10,14,0.0
+1993 to 1994,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1993 to 1994,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1993 to 1994,"River, Lake and Ocean",Wetland,11,14,0.0
+1993 to 1994,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1993 to 1994,Rocky outcrop,Wetland,12,14,0.0
+1993 to 1994,Urban Infrastructure,Wetland,13,14,0.0
+1994 to 1995,Agriculture,Aquaculture,0,1,0.0
+1994 to 1995,Agriculture,Beach and Dune,0,2,0.0
+1994 to 1995,Agriculture,Forest Plantation,0,3,119.0
+1994 to 1995,Agriculture,Grassland,0,4,146972.0
+1994 to 1995,Agriculture,Mining,0,5,0.0
+1994 to 1995,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1994 to 1995,Agriculture,Natural Forest,0,7,6934.0
+1994 to 1995,Agriculture,Non Observed,0,8,0.0
+1994 to 1995,Agriculture,Other Non Vegetated Area,0,9,1651.0
+1994 to 1995,Agriculture,Pasture,0,10,0.0
+1994 to 1995,Agriculture,"River, Lake and Ocean",0,11,1350.0
+1994 to 1995,Agriculture,Rocky outcrop,0,12,3.0
+1994 to 1995,Agriculture,Urban Infrastructure,0,13,0.0
+1994 to 1995,Agriculture,Wetland,0,14,460.0
+1994 to 1995,Aquaculture,Beach and Dune,1,2,0.0
+1994 to 1995,Aquaculture,Forest Plantation,1,3,0.0
+1994 to 1995,Aquaculture,Grassland,1,4,0.0
+1994 to 1995,Aquaculture,Mining,1,5,0.0
+1994 to 1995,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1994 to 1995,Aquaculture,Natural Forest,1,7,0.0
+1994 to 1995,Aquaculture,Non Observed,1,8,0.0
+1994 to 1995,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1994 to 1995,Aquaculture,Pasture,1,10,0.0
+1994 to 1995,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1994 to 1995,Aquaculture,Rocky outcrop,1,12,0.0
+1994 to 1995,Aquaculture,Urban Infrastructure,1,13,0.0
+1994 to 1995,Aquaculture,Wetland,1,14,0.0
+1994 to 1995,Beach and Dune,Forest Plantation,2,3,0.0
+1994 to 1995,Beach and Dune,Grassland,2,4,0.0
+1994 to 1995,Beach and Dune,Mining,2,5,0.0
+1994 to 1995,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1994 to 1995,Beach and Dune,Natural Forest,2,7,0.0
+1994 to 1995,Beach and Dune,Non Observed,2,8,0.0
+1994 to 1995,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+1994 to 1995,Beach and Dune,Pasture,2,10,0.0
+1994 to 1995,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1994 to 1995,Beach and Dune,Rocky outcrop,2,12,0.0
+1994 to 1995,Beach and Dune,Urban Infrastructure,2,13,0.0
+1994 to 1995,Beach and Dune,Wetland,2,14,0.0
+1994 to 1995,Forest Plantation,Grassland,3,4,4.0
+1994 to 1995,Forest Plantation,Mining,3,5,0.0
+1994 to 1995,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1994 to 1995,Forest Plantation,Natural Forest,3,7,0.0
+1994 to 1995,Forest Plantation,Non Observed,3,8,0.0
+1994 to 1995,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1994 to 1995,Forest Plantation,Pasture,3,10,0.0
+1994 to 1995,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1994 to 1995,Forest Plantation,Rocky outcrop,3,12,0.0
+1994 to 1995,Forest Plantation,Urban Infrastructure,3,13,0.0
+1994 to 1995,Forest Plantation,Wetland,3,14,0.0
+1994 to 1995,Grassland,Mining,4,5,0.0
+1994 to 1995,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1994 to 1995,Grassland,Natural Forest,4,7,0.0
+1994 to 1995,Grassland,Non Observed,4,8,0.0
+1994 to 1995,Grassland,Other Non Vegetated Area,4,9,0.0
+1994 to 1995,Grassland,Pasture,4,10,0.0
+1994 to 1995,Grassland,"River, Lake and Ocean",4,11,0.0
+1994 to 1995,Grassland,Rocky outcrop,4,12,2.0
+1994 to 1995,Grassland,Urban Infrastructure,4,13,0.0
+1994 to 1995,Grassland,Wetland,4,14,0.0
+1994 to 1995,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1994 to 1995,Mining,Natural Forest,5,7,0.0
+1994 to 1995,Mining,Non Observed,5,8,0.0
+1994 to 1995,Mining,Other Non Vegetated Area,5,9,0.0
+1994 to 1995,Mining,Pasture,5,10,0.0
+1994 to 1995,Mining,"River, Lake and Ocean",5,11,0.0
+1994 to 1995,Mining,Rocky outcrop,5,12,0.0
+1994 to 1995,Mining,Urban Infrastructure,5,13,0.0
+1994 to 1995,Mining,Wetland,5,14,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1994 to 1995,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1994 to 1995,Natural Forest,Non Observed,7,8,0.0
+1994 to 1995,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1994 to 1995,Natural Forest,Pasture,7,10,0.0
+1994 to 1995,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1994 to 1995,Natural Forest,Rocky outcrop,7,12,0.0
+1994 to 1995,Natural Forest,Urban Infrastructure,7,13,0.0
+1994 to 1995,Natural Forest,Wetland,7,14,0.0
+1994 to 1995,Non Observed,Other Non Vegetated Area,8,9,4.0
+1994 to 1995,Non Observed,Pasture,8,10,0.0
+1994 to 1995,Non Observed,"River, Lake and Ocean",8,11,0.0
+1994 to 1995,Non Observed,Rocky outcrop,8,12,0.0
+1994 to 1995,Non Observed,Urban Infrastructure,8,13,0.0
+1994 to 1995,Non Observed,Wetland,8,14,0.0
+1994 to 1995,Other Non Vegetated Area,Pasture,9,10,0.0
+1994 to 1995,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1994 to 1995,Other Non Vegetated Area,Rocky outcrop,9,12,10.0
+1994 to 1995,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1994 to 1995,Other Non Vegetated Area,Wetland,9,14,0.0
+1994 to 1995,Pasture,"River, Lake and Ocean",10,11,0.0
+1994 to 1995,Pasture,Rocky outcrop,10,12,0.0
+1994 to 1995,Pasture,Urban Infrastructure,10,13,0.0
+1994 to 1995,Pasture,Wetland,10,14,0.0
+1994 to 1995,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1994 to 1995,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1994 to 1995,"River, Lake and Ocean",Wetland,11,14,0.0
+1994 to 1995,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1994 to 1995,Rocky outcrop,Wetland,12,14,0.0
+1994 to 1995,Urban Infrastructure,Wetland,13,14,0.0
+1995 to 1996,Agriculture,Aquaculture,0,1,0.0
+1995 to 1996,Agriculture,Beach and Dune,0,2,0.0
+1995 to 1996,Agriculture,Forest Plantation,0,3,115.0
+1995 to 1996,Agriculture,Grassland,0,4,120201.0
+1995 to 1996,Agriculture,Mining,0,5,0.0
+1995 to 1996,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1995 to 1996,Agriculture,Natural Forest,0,7,10316.0
+1995 to 1996,Agriculture,Non Observed,0,8,0.0
+1995 to 1996,Agriculture,Other Non Vegetated Area,0,9,1133.0
+1995 to 1996,Agriculture,Pasture,0,10,0.0
+1995 to 1996,Agriculture,"River, Lake and Ocean",0,11,1170.0
+1995 to 1996,Agriculture,Rocky outcrop,0,12,7.0
+1995 to 1996,Agriculture,Urban Infrastructure,0,13,0.0
+1995 to 1996,Agriculture,Wetland,0,14,373.0
+1995 to 1996,Aquaculture,Beach and Dune,1,2,0.0
+1995 to 1996,Aquaculture,Forest Plantation,1,3,0.0
+1995 to 1996,Aquaculture,Grassland,1,4,0.0
+1995 to 1996,Aquaculture,Mining,1,5,0.0
+1995 to 1996,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1995 to 1996,Aquaculture,Natural Forest,1,7,0.0
+1995 to 1996,Aquaculture,Non Observed,1,8,0.0
+1995 to 1996,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1995 to 1996,Aquaculture,Pasture,1,10,0.0
+1995 to 1996,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1995 to 1996,Aquaculture,Rocky outcrop,1,12,0.0
+1995 to 1996,Aquaculture,Urban Infrastructure,1,13,0.0
+1995 to 1996,Aquaculture,Wetland,1,14,0.0
+1995 to 1996,Beach and Dune,Forest Plantation,2,3,0.0
+1995 to 1996,Beach and Dune,Grassland,2,4,0.0
+1995 to 1996,Beach and Dune,Mining,2,5,0.0
+1995 to 1996,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1995 to 1996,Beach and Dune,Natural Forest,2,7,0.0
+1995 to 1996,Beach and Dune,Non Observed,2,8,0.0
+1995 to 1996,Beach and Dune,Other Non Vegetated Area,2,9,6.0
+1995 to 1996,Beach and Dune,Pasture,2,10,0.0
+1995 to 1996,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1995 to 1996,Beach and Dune,Rocky outcrop,2,12,0.0
+1995 to 1996,Beach and Dune,Urban Infrastructure,2,13,0.0
+1995 to 1996,Beach and Dune,Wetland,2,14,0.0
+1995 to 1996,Forest Plantation,Grassland,3,4,10.0
+1995 to 1996,Forest Plantation,Mining,3,5,0.0
+1995 to 1996,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1995 to 1996,Forest Plantation,Natural Forest,3,7,0.0
+1995 to 1996,Forest Plantation,Non Observed,3,8,0.0
+1995 to 1996,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1995 to 1996,Forest Plantation,Pasture,3,10,0.0
+1995 to 1996,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1995 to 1996,Forest Plantation,Rocky outcrop,3,12,0.0
+1995 to 1996,Forest Plantation,Urban Infrastructure,3,13,0.0
+1995 to 1996,Forest Plantation,Wetland,3,14,0.0
+1995 to 1996,Grassland,Mining,4,5,0.0
+1995 to 1996,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1995 to 1996,Grassland,Natural Forest,4,7,0.0
+1995 to 1996,Grassland,Non Observed,4,8,0.0
+1995 to 1996,Grassland,Other Non Vegetated Area,4,9,0.0
+1995 to 1996,Grassland,Pasture,4,10,0.0
+1995 to 1996,Grassland,"River, Lake and Ocean",4,11,0.0
+1995 to 1996,Grassland,Rocky outcrop,4,12,6.0
+1995 to 1996,Grassland,Urban Infrastructure,4,13,0.0
+1995 to 1996,Grassland,Wetland,4,14,0.0
+1995 to 1996,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1995 to 1996,Mining,Natural Forest,5,7,0.0
+1995 to 1996,Mining,Non Observed,5,8,0.0
+1995 to 1996,Mining,Other Non Vegetated Area,5,9,0.0
+1995 to 1996,Mining,Pasture,5,10,0.0
+1995 to 1996,Mining,"River, Lake and Ocean",5,11,0.0
+1995 to 1996,Mining,Rocky outcrop,5,12,0.0
+1995 to 1996,Mining,Urban Infrastructure,5,13,0.0
+1995 to 1996,Mining,Wetland,5,14,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1995 to 1996,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1995 to 1996,Natural Forest,Non Observed,7,8,0.0
+1995 to 1996,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1995 to 1996,Natural Forest,Pasture,7,10,0.0
+1995 to 1996,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1995 to 1996,Natural Forest,Rocky outcrop,7,12,0.0
+1995 to 1996,Natural Forest,Urban Infrastructure,7,13,0.0
+1995 to 1996,Natural Forest,Wetland,7,14,0.0
+1995 to 1996,Non Observed,Other Non Vegetated Area,8,9,5.0
+1995 to 1996,Non Observed,Pasture,8,10,0.0
+1995 to 1996,Non Observed,"River, Lake and Ocean",8,11,0.0
+1995 to 1996,Non Observed,Rocky outcrop,8,12,0.0
+1995 to 1996,Non Observed,Urban Infrastructure,8,13,0.0
+1995 to 1996,Non Observed,Wetland,8,14,0.0
+1995 to 1996,Other Non Vegetated Area,Pasture,9,10,0.0
+1995 to 1996,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1995 to 1996,Other Non Vegetated Area,Rocky outcrop,9,12,4.0
+1995 to 1996,Other Non Vegetated Area,Urban Infrastructure,9,13,1.0
+1995 to 1996,Other Non Vegetated Area,Wetland,9,14,0.0
+1995 to 1996,Pasture,"River, Lake and Ocean",10,11,0.0
+1995 to 1996,Pasture,Rocky outcrop,10,12,0.0
+1995 to 1996,Pasture,Urban Infrastructure,10,13,0.0
+1995 to 1996,Pasture,Wetland,10,14,0.0
+1995 to 1996,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1995 to 1996,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1995 to 1996,"River, Lake and Ocean",Wetland,11,14,0.0
+1995 to 1996,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1995 to 1996,Rocky outcrop,Wetland,12,14,0.0
+1995 to 1996,Urban Infrastructure,Wetland,13,14,0.0
+1996 to 1997,Agriculture,Aquaculture,0,1,0.0
+1996 to 1997,Agriculture,Beach and Dune,0,2,8.0
+1996 to 1997,Agriculture,Forest Plantation,0,3,113.0
+1996 to 1997,Agriculture,Grassland,0,4,140843.0
+1996 to 1997,Agriculture,Mining,0,5,0.0
+1996 to 1997,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1996 to 1997,Agriculture,Natural Forest,0,7,7989.0
+1996 to 1997,Agriculture,Non Observed,0,8,0.0
+1996 to 1997,Agriculture,Other Non Vegetated Area,0,9,1203.0
+1996 to 1997,Agriculture,Pasture,0,10,0.0
+1996 to 1997,Agriculture,"River, Lake and Ocean",0,11,1483.0
+1996 to 1997,Agriculture,Rocky outcrop,0,12,3.0
+1996 to 1997,Agriculture,Urban Infrastructure,0,13,0.0
+1996 to 1997,Agriculture,Wetland,0,14,194.0
+1996 to 1997,Aquaculture,Beach and Dune,1,2,0.0
+1996 to 1997,Aquaculture,Forest Plantation,1,3,0.0
+1996 to 1997,Aquaculture,Grassland,1,4,0.0
+1996 to 1997,Aquaculture,Mining,1,5,0.0
+1996 to 1997,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1996 to 1997,Aquaculture,Natural Forest,1,7,0.0
+1996 to 1997,Aquaculture,Non Observed,1,8,0.0
+1996 to 1997,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1996 to 1997,Aquaculture,Pasture,1,10,0.0
+1996 to 1997,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1996 to 1997,Aquaculture,Rocky outcrop,1,12,0.0
+1996 to 1997,Aquaculture,Urban Infrastructure,1,13,0.0
+1996 to 1997,Aquaculture,Wetland,1,14,0.0
+1996 to 1997,Beach and Dune,Forest Plantation,2,3,0.0
+1996 to 1997,Beach and Dune,Grassland,2,4,0.0
+1996 to 1997,Beach and Dune,Mining,2,5,0.0
+1996 to 1997,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1996 to 1997,Beach and Dune,Natural Forest,2,7,0.0
+1996 to 1997,Beach and Dune,Non Observed,2,8,0.0
+1996 to 1997,Beach and Dune,Other Non Vegetated Area,2,9,6.0
+1996 to 1997,Beach and Dune,Pasture,2,10,0.0
+1996 to 1997,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1996 to 1997,Beach and Dune,Rocky outcrop,2,12,0.0
+1996 to 1997,Beach and Dune,Urban Infrastructure,2,13,0.0
+1996 to 1997,Beach and Dune,Wetland,2,14,0.0
+1996 to 1997,Forest Plantation,Grassland,3,4,28.0
+1996 to 1997,Forest Plantation,Mining,3,5,0.0
+1996 to 1997,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1996 to 1997,Forest Plantation,Natural Forest,3,7,0.0
+1996 to 1997,Forest Plantation,Non Observed,3,8,0.0
+1996 to 1997,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1996 to 1997,Forest Plantation,Pasture,3,10,0.0
+1996 to 1997,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1996 to 1997,Forest Plantation,Rocky outcrop,3,12,0.0
+1996 to 1997,Forest Plantation,Urban Infrastructure,3,13,0.0
+1996 to 1997,Forest Plantation,Wetland,3,14,0.0
+1996 to 1997,Grassland,Mining,4,5,0.0
+1996 to 1997,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1996 to 1997,Grassland,Natural Forest,4,7,0.0
+1996 to 1997,Grassland,Non Observed,4,8,0.0
+1996 to 1997,Grassland,Other Non Vegetated Area,4,9,0.0
+1996 to 1997,Grassland,Pasture,4,10,0.0
+1996 to 1997,Grassland,"River, Lake and Ocean",4,11,0.0
+1996 to 1997,Grassland,Rocky outcrop,4,12,16.0
+1996 to 1997,Grassland,Urban Infrastructure,4,13,0.0
+1996 to 1997,Grassland,Wetland,4,14,0.0
+1996 to 1997,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1996 to 1997,Mining,Natural Forest,5,7,0.0
+1996 to 1997,Mining,Non Observed,5,8,0.0
+1996 to 1997,Mining,Other Non Vegetated Area,5,9,0.0
+1996 to 1997,Mining,Pasture,5,10,0.0
+1996 to 1997,Mining,"River, Lake and Ocean",5,11,0.0
+1996 to 1997,Mining,Rocky outcrop,5,12,0.0
+1996 to 1997,Mining,Urban Infrastructure,5,13,0.0
+1996 to 1997,Mining,Wetland,5,14,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1996 to 1997,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1996 to 1997,Natural Forest,Non Observed,7,8,0.0
+1996 to 1997,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1996 to 1997,Natural Forest,Pasture,7,10,0.0
+1996 to 1997,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1996 to 1997,Natural Forest,Rocky outcrop,7,12,0.0
+1996 to 1997,Natural Forest,Urban Infrastructure,7,13,0.0
+1996 to 1997,Natural Forest,Wetland,7,14,0.0
+1996 to 1997,Non Observed,Other Non Vegetated Area,8,9,4.0
+1996 to 1997,Non Observed,Pasture,8,10,0.0
+1996 to 1997,Non Observed,"River, Lake and Ocean",8,11,0.0
+1996 to 1997,Non Observed,Rocky outcrop,8,12,0.0
+1996 to 1997,Non Observed,Urban Infrastructure,8,13,0.0
+1996 to 1997,Non Observed,Wetland,8,14,0.0
+1996 to 1997,Other Non Vegetated Area,Pasture,9,10,0.0
+1996 to 1997,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1996 to 1997,Other Non Vegetated Area,Rocky outcrop,9,12,75.0
+1996 to 1997,Other Non Vegetated Area,Urban Infrastructure,9,13,1.0
+1996 to 1997,Other Non Vegetated Area,Wetland,9,14,0.0
+1996 to 1997,Pasture,"River, Lake and Ocean",10,11,0.0
+1996 to 1997,Pasture,Rocky outcrop,10,12,0.0
+1996 to 1997,Pasture,Urban Infrastructure,10,13,0.0
+1996 to 1997,Pasture,Wetland,10,14,0.0
+1996 to 1997,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1996 to 1997,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1996 to 1997,"River, Lake and Ocean",Wetland,11,14,0.0
+1996 to 1997,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1996 to 1997,Rocky outcrop,Wetland,12,14,0.0
+1996 to 1997,Urban Infrastructure,Wetland,13,14,0.0
+1997 to 1998,Agriculture,Aquaculture,0,1,0.0
+1997 to 1998,Agriculture,Beach and Dune,0,2,1.0
+1997 to 1998,Agriculture,Forest Plantation,0,3,81.0
+1997 to 1998,Agriculture,Grassland,0,4,161832.0
+1997 to 1998,Agriculture,Mining,0,5,0.0
+1997 to 1998,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1997 to 1998,Agriculture,Natural Forest,0,7,11835.0
+1997 to 1998,Agriculture,Non Observed,0,8,0.0
+1997 to 1998,Agriculture,Other Non Vegetated Area,0,9,2233.0
+1997 to 1998,Agriculture,Pasture,0,10,0.0
+1997 to 1998,Agriculture,"River, Lake and Ocean",0,11,4356.0
+1997 to 1998,Agriculture,Rocky outcrop,0,12,6.0
+1997 to 1998,Agriculture,Urban Infrastructure,0,13,0.0
+1997 to 1998,Agriculture,Wetland,0,14,888.0
+1997 to 1998,Aquaculture,Beach and Dune,1,2,0.0
+1997 to 1998,Aquaculture,Forest Plantation,1,3,0.0
+1997 to 1998,Aquaculture,Grassland,1,4,0.0
+1997 to 1998,Aquaculture,Mining,1,5,0.0
+1997 to 1998,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1997 to 1998,Aquaculture,Natural Forest,1,7,0.0
+1997 to 1998,Aquaculture,Non Observed,1,8,0.0
+1997 to 1998,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1997 to 1998,Aquaculture,Pasture,1,10,0.0
+1997 to 1998,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1997 to 1998,Aquaculture,Rocky outcrop,1,12,0.0
+1997 to 1998,Aquaculture,Urban Infrastructure,1,13,0.0
+1997 to 1998,Aquaculture,Wetland,1,14,0.0
+1997 to 1998,Beach and Dune,Forest Plantation,2,3,0.0
+1997 to 1998,Beach and Dune,Grassland,2,4,0.0
+1997 to 1998,Beach and Dune,Mining,2,5,0.0
+1997 to 1998,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1997 to 1998,Beach and Dune,Natural Forest,2,7,0.0
+1997 to 1998,Beach and Dune,Non Observed,2,8,0.0
+1997 to 1998,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+1997 to 1998,Beach and Dune,Pasture,2,10,0.0
+1997 to 1998,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1997 to 1998,Beach and Dune,Rocky outcrop,2,12,0.0
+1997 to 1998,Beach and Dune,Urban Infrastructure,2,13,0.0
+1997 to 1998,Beach and Dune,Wetland,2,14,0.0
+1997 to 1998,Forest Plantation,Grassland,3,4,21.0
+1997 to 1998,Forest Plantation,Mining,3,5,0.0
+1997 to 1998,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1997 to 1998,Forest Plantation,Natural Forest,3,7,0.0
+1997 to 1998,Forest Plantation,Non Observed,3,8,0.0
+1997 to 1998,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1997 to 1998,Forest Plantation,Pasture,3,10,0.0
+1997 to 1998,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1997 to 1998,Forest Plantation,Rocky outcrop,3,12,0.0
+1997 to 1998,Forest Plantation,Urban Infrastructure,3,13,0.0
+1997 to 1998,Forest Plantation,Wetland,3,14,0.0
+1997 to 1998,Grassland,Mining,4,5,0.0
+1997 to 1998,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1997 to 1998,Grassland,Natural Forest,4,7,0.0
+1997 to 1998,Grassland,Non Observed,4,8,0.0
+1997 to 1998,Grassland,Other Non Vegetated Area,4,9,0.0
+1997 to 1998,Grassland,Pasture,4,10,0.0
+1997 to 1998,Grassland,"River, Lake and Ocean",4,11,0.0
+1997 to 1998,Grassland,Rocky outcrop,4,12,11.0
+1997 to 1998,Grassland,Urban Infrastructure,4,13,1.0
+1997 to 1998,Grassland,Wetland,4,14,1.0
+1997 to 1998,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1997 to 1998,Mining,Natural Forest,5,7,0.0
+1997 to 1998,Mining,Non Observed,5,8,0.0
+1997 to 1998,Mining,Other Non Vegetated Area,5,9,0.0
+1997 to 1998,Mining,Pasture,5,10,0.0
+1997 to 1998,Mining,"River, Lake and Ocean",5,11,0.0
+1997 to 1998,Mining,Rocky outcrop,5,12,0.0
+1997 to 1998,Mining,Urban Infrastructure,5,13,0.0
+1997 to 1998,Mining,Wetland,5,14,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1997 to 1998,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1997 to 1998,Natural Forest,Non Observed,7,8,0.0
+1997 to 1998,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1997 to 1998,Natural Forest,Pasture,7,10,0.0
+1997 to 1998,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1997 to 1998,Natural Forest,Rocky outcrop,7,12,0.0
+1997 to 1998,Natural Forest,Urban Infrastructure,7,13,0.0
+1997 to 1998,Natural Forest,Wetland,7,14,0.0
+1997 to 1998,Non Observed,Other Non Vegetated Area,8,9,4.0
+1997 to 1998,Non Observed,Pasture,8,10,0.0
+1997 to 1998,Non Observed,"River, Lake and Ocean",8,11,0.0
+1997 to 1998,Non Observed,Rocky outcrop,8,12,0.0
+1997 to 1998,Non Observed,Urban Infrastructure,8,13,0.0
+1997 to 1998,Non Observed,Wetland,8,14,0.0
+1997 to 1998,Other Non Vegetated Area,Pasture,9,10,0.0
+1997 to 1998,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1997 to 1998,Other Non Vegetated Area,Rocky outcrop,9,12,42.0
+1997 to 1998,Other Non Vegetated Area,Urban Infrastructure,9,13,1.0
+1997 to 1998,Other Non Vegetated Area,Wetland,9,14,1.0
+1997 to 1998,Pasture,"River, Lake and Ocean",10,11,0.0
+1997 to 1998,Pasture,Rocky outcrop,10,12,0.0
+1997 to 1998,Pasture,Urban Infrastructure,10,13,0.0
+1997 to 1998,Pasture,Wetland,10,14,0.0
+1997 to 1998,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1997 to 1998,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1997 to 1998,"River, Lake and Ocean",Wetland,11,14,0.0
+1997 to 1998,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1997 to 1998,Rocky outcrop,Wetland,12,14,0.0
+1997 to 1998,Urban Infrastructure,Wetland,13,14,0.0
+1998 to 1999,Agriculture,Aquaculture,0,1,0.0
+1998 to 1999,Agriculture,Beach and Dune,0,2,0.0
+1998 to 1999,Agriculture,Forest Plantation,0,3,86.0
+1998 to 1999,Agriculture,Grassland,0,4,116187.0
+1998 to 1999,Agriculture,Mining,0,5,0.0
+1998 to 1999,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1998 to 1999,Agriculture,Natural Forest,0,7,6144.0
+1998 to 1999,Agriculture,Non Observed,0,8,0.0
+1998 to 1999,Agriculture,Other Non Vegetated Area,0,9,2124.0
+1998 to 1999,Agriculture,Pasture,0,10,0.0
+1998 to 1999,Agriculture,"River, Lake and Ocean",0,11,1643.0
+1998 to 1999,Agriculture,Rocky outcrop,0,12,17.0
+1998 to 1999,Agriculture,Urban Infrastructure,0,13,0.0
+1998 to 1999,Agriculture,Wetland,0,14,307.0
+1998 to 1999,Aquaculture,Beach and Dune,1,2,0.0
+1998 to 1999,Aquaculture,Forest Plantation,1,3,0.0
+1998 to 1999,Aquaculture,Grassland,1,4,0.0
+1998 to 1999,Aquaculture,Mining,1,5,0.0
+1998 to 1999,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1998 to 1999,Aquaculture,Natural Forest,1,7,0.0
+1998 to 1999,Aquaculture,Non Observed,1,8,0.0
+1998 to 1999,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1998 to 1999,Aquaculture,Pasture,1,10,0.0
+1998 to 1999,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1998 to 1999,Aquaculture,Rocky outcrop,1,12,0.0
+1998 to 1999,Aquaculture,Urban Infrastructure,1,13,0.0
+1998 to 1999,Aquaculture,Wetland,1,14,0.0
+1998 to 1999,Beach and Dune,Forest Plantation,2,3,0.0
+1998 to 1999,Beach and Dune,Grassland,2,4,0.0
+1998 to 1999,Beach and Dune,Mining,2,5,0.0
+1998 to 1999,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1998 to 1999,Beach and Dune,Natural Forest,2,7,0.0
+1998 to 1999,Beach and Dune,Non Observed,2,8,0.0
+1998 to 1999,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+1998 to 1999,Beach and Dune,Pasture,2,10,0.0
+1998 to 1999,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1998 to 1999,Beach and Dune,Rocky outcrop,2,12,0.0
+1998 to 1999,Beach and Dune,Urban Infrastructure,2,13,0.0
+1998 to 1999,Beach and Dune,Wetland,2,14,0.0
+1998 to 1999,Forest Plantation,Grassland,3,4,54.0
+1998 to 1999,Forest Plantation,Mining,3,5,0.0
+1998 to 1999,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1998 to 1999,Forest Plantation,Natural Forest,3,7,0.0
+1998 to 1999,Forest Plantation,Non Observed,3,8,0.0
+1998 to 1999,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1998 to 1999,Forest Plantation,Pasture,3,10,0.0
+1998 to 1999,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1998 to 1999,Forest Plantation,Rocky outcrop,3,12,0.0
+1998 to 1999,Forest Plantation,Urban Infrastructure,3,13,0.0
+1998 to 1999,Forest Plantation,Wetland,3,14,0.0
+1998 to 1999,Grassland,Mining,4,5,0.0
+1998 to 1999,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1998 to 1999,Grassland,Natural Forest,4,7,0.0
+1998 to 1999,Grassland,Non Observed,4,8,0.0
+1998 to 1999,Grassland,Other Non Vegetated Area,4,9,0.0
+1998 to 1999,Grassland,Pasture,4,10,0.0
+1998 to 1999,Grassland,"River, Lake and Ocean",4,11,0.0
+1998 to 1999,Grassland,Rocky outcrop,4,12,15.0
+1998 to 1999,Grassland,Urban Infrastructure,4,13,0.0
+1998 to 1999,Grassland,Wetland,4,14,0.0
+1998 to 1999,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1998 to 1999,Mining,Natural Forest,5,7,0.0
+1998 to 1999,Mining,Non Observed,5,8,0.0
+1998 to 1999,Mining,Other Non Vegetated Area,5,9,0.0
+1998 to 1999,Mining,Pasture,5,10,0.0
+1998 to 1999,Mining,"River, Lake and Ocean",5,11,0.0
+1998 to 1999,Mining,Rocky outcrop,5,12,0.0
+1998 to 1999,Mining,Urban Infrastructure,5,13,0.0
+1998 to 1999,Mining,Wetland,5,14,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1998 to 1999,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1998 to 1999,Natural Forest,Non Observed,7,8,0.0
+1998 to 1999,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1998 to 1999,Natural Forest,Pasture,7,10,0.0
+1998 to 1999,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1998 to 1999,Natural Forest,Rocky outcrop,7,12,0.0
+1998 to 1999,Natural Forest,Urban Infrastructure,7,13,0.0
+1998 to 1999,Natural Forest,Wetland,7,14,0.0
+1998 to 1999,Non Observed,Other Non Vegetated Area,8,9,3.0
+1998 to 1999,Non Observed,Pasture,8,10,0.0
+1998 to 1999,Non Observed,"River, Lake and Ocean",8,11,0.0
+1998 to 1999,Non Observed,Rocky outcrop,8,12,0.0
+1998 to 1999,Non Observed,Urban Infrastructure,8,13,0.0
+1998 to 1999,Non Observed,Wetland,8,14,0.0
+1998 to 1999,Other Non Vegetated Area,Pasture,9,10,0.0
+1998 to 1999,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1998 to 1999,Other Non Vegetated Area,Rocky outcrop,9,12,43.0
+1998 to 1999,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1998 to 1999,Other Non Vegetated Area,Wetland,9,14,0.0
+1998 to 1999,Pasture,"River, Lake and Ocean",10,11,0.0
+1998 to 1999,Pasture,Rocky outcrop,10,12,0.0
+1998 to 1999,Pasture,Urban Infrastructure,10,13,0.0
+1998 to 1999,Pasture,Wetland,10,14,0.0
+1998 to 1999,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1998 to 1999,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1998 to 1999,"River, Lake and Ocean",Wetland,11,14,0.0
+1998 to 1999,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1998 to 1999,Rocky outcrop,Wetland,12,14,0.0
+1998 to 1999,Urban Infrastructure,Wetland,13,14,0.0
+1999 to 2000,Agriculture,Aquaculture,0,1,0.0
+1999 to 2000,Agriculture,Beach and Dune,0,2,2.0
+1999 to 2000,Agriculture,Forest Plantation,0,3,71.0
+1999 to 2000,Agriculture,Grassland,0,4,146464.0
+1999 to 2000,Agriculture,Mining,0,5,0.0
+1999 to 2000,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+1999 to 2000,Agriculture,Natural Forest,0,7,9416.0
+1999 to 2000,Agriculture,Non Observed,0,8,0.0
+1999 to 2000,Agriculture,Other Non Vegetated Area,0,9,1226.0
+1999 to 2000,Agriculture,Pasture,0,10,0.0
+1999 to 2000,Agriculture,"River, Lake and Ocean",0,11,1734.0
+1999 to 2000,Agriculture,Rocky outcrop,0,12,30.0
+1999 to 2000,Agriculture,Urban Infrastructure,0,13,0.0
+1999 to 2000,Agriculture,Wetland,0,14,187.0
+1999 to 2000,Aquaculture,Beach and Dune,1,2,0.0
+1999 to 2000,Aquaculture,Forest Plantation,1,3,0.0
+1999 to 2000,Aquaculture,Grassland,1,4,0.0
+1999 to 2000,Aquaculture,Mining,1,5,0.0
+1999 to 2000,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+1999 to 2000,Aquaculture,Natural Forest,1,7,0.0
+1999 to 2000,Aquaculture,Non Observed,1,8,0.0
+1999 to 2000,Aquaculture,Other Non Vegetated Area,1,9,0.0
+1999 to 2000,Aquaculture,Pasture,1,10,0.0
+1999 to 2000,Aquaculture,"River, Lake and Ocean",1,11,0.0
+1999 to 2000,Aquaculture,Rocky outcrop,1,12,0.0
+1999 to 2000,Aquaculture,Urban Infrastructure,1,13,0.0
+1999 to 2000,Aquaculture,Wetland,1,14,0.0
+1999 to 2000,Beach and Dune,Forest Plantation,2,3,0.0
+1999 to 2000,Beach and Dune,Grassland,2,4,0.0
+1999 to 2000,Beach and Dune,Mining,2,5,0.0
+1999 to 2000,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+1999 to 2000,Beach and Dune,Natural Forest,2,7,0.0
+1999 to 2000,Beach and Dune,Non Observed,2,8,0.0
+1999 to 2000,Beach and Dune,Other Non Vegetated Area,2,9,6.0
+1999 to 2000,Beach and Dune,Pasture,2,10,0.0
+1999 to 2000,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+1999 to 2000,Beach and Dune,Rocky outcrop,2,12,0.0
+1999 to 2000,Beach and Dune,Urban Infrastructure,2,13,0.0
+1999 to 2000,Beach and Dune,Wetland,2,14,0.0
+1999 to 2000,Forest Plantation,Grassland,3,4,36.0
+1999 to 2000,Forest Plantation,Mining,3,5,0.0
+1999 to 2000,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+1999 to 2000,Forest Plantation,Natural Forest,3,7,0.0
+1999 to 2000,Forest Plantation,Non Observed,3,8,0.0
+1999 to 2000,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+1999 to 2000,Forest Plantation,Pasture,3,10,0.0
+1999 to 2000,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+1999 to 2000,Forest Plantation,Rocky outcrop,3,12,0.0
+1999 to 2000,Forest Plantation,Urban Infrastructure,3,13,0.0
+1999 to 2000,Forest Plantation,Wetland,3,14,0.0
+1999 to 2000,Grassland,Mining,4,5,0.0
+1999 to 2000,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+1999 to 2000,Grassland,Natural Forest,4,7,0.0
+1999 to 2000,Grassland,Non Observed,4,8,0.0
+1999 to 2000,Grassland,Other Non Vegetated Area,4,9,0.0
+1999 to 2000,Grassland,Pasture,4,10,0.0
+1999 to 2000,Grassland,"River, Lake and Ocean",4,11,0.0
+1999 to 2000,Grassland,Rocky outcrop,4,12,12.0
+1999 to 2000,Grassland,Urban Infrastructure,4,13,0.0
+1999 to 2000,Grassland,Wetland,4,14,0.0
+1999 to 2000,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+1999 to 2000,Mining,Natural Forest,5,7,0.0
+1999 to 2000,Mining,Non Observed,5,8,0.0
+1999 to 2000,Mining,Other Non Vegetated Area,5,9,0.0
+1999 to 2000,Mining,Pasture,5,10,0.0
+1999 to 2000,Mining,"River, Lake and Ocean",5,11,0.0
+1999 to 2000,Mining,Rocky outcrop,5,12,0.0
+1999 to 2000,Mining,Urban Infrastructure,5,13,0.0
+1999 to 2000,Mining,Wetland,5,14,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+1999 to 2000,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+1999 to 2000,Natural Forest,Non Observed,7,8,0.0
+1999 to 2000,Natural Forest,Other Non Vegetated Area,7,9,0.0
+1999 to 2000,Natural Forest,Pasture,7,10,0.0
+1999 to 2000,Natural Forest,"River, Lake and Ocean",7,11,0.0
+1999 to 2000,Natural Forest,Rocky outcrop,7,12,0.0
+1999 to 2000,Natural Forest,Urban Infrastructure,7,13,0.0
+1999 to 2000,Natural Forest,Wetland,7,14,0.0
+1999 to 2000,Non Observed,Other Non Vegetated Area,8,9,5.0
+1999 to 2000,Non Observed,Pasture,8,10,0.0
+1999 to 2000,Non Observed,"River, Lake and Ocean",8,11,0.0
+1999 to 2000,Non Observed,Rocky outcrop,8,12,0.0
+1999 to 2000,Non Observed,Urban Infrastructure,8,13,0.0
+1999 to 2000,Non Observed,Wetland,8,14,0.0
+1999 to 2000,Other Non Vegetated Area,Pasture,9,10,0.0
+1999 to 2000,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+1999 to 2000,Other Non Vegetated Area,Rocky outcrop,9,12,61.0
+1999 to 2000,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+1999 to 2000,Other Non Vegetated Area,Wetland,9,14,0.0
+1999 to 2000,Pasture,"River, Lake and Ocean",10,11,0.0
+1999 to 2000,Pasture,Rocky outcrop,10,12,0.0
+1999 to 2000,Pasture,Urban Infrastructure,10,13,0.0
+1999 to 2000,Pasture,Wetland,10,14,0.0
+1999 to 2000,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+1999 to 2000,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+1999 to 2000,"River, Lake and Ocean",Wetland,11,14,0.0
+1999 to 2000,Rocky outcrop,Urban Infrastructure,12,13,0.0
+1999 to 2000,Rocky outcrop,Wetland,12,14,0.0
+1999 to 2000,Urban Infrastructure,Wetland,13,14,0.0
+2000 to 2001,Agriculture,Aquaculture,0,1,0.0
+2000 to 2001,Agriculture,Beach and Dune,0,2,2.0
+2000 to 2001,Agriculture,Forest Plantation,0,3,332.0
+2000 to 2001,Agriculture,Grassland,0,4,208776.0
+2000 to 2001,Agriculture,Mining,0,5,0.0
+2000 to 2001,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2000 to 2001,Agriculture,Natural Forest,0,7,11766.0
+2000 to 2001,Agriculture,Non Observed,0,8,0.0
+2000 to 2001,Agriculture,Other Non Vegetated Area,0,9,1307.0
+2000 to 2001,Agriculture,Pasture,0,10,0.0
+2000 to 2001,Agriculture,"River, Lake and Ocean",0,11,2715.0
+2000 to 2001,Agriculture,Rocky outcrop,0,12,28.0
+2000 to 2001,Agriculture,Urban Infrastructure,0,13,0.0
+2000 to 2001,Agriculture,Wetland,0,14,255.0
+2000 to 2001,Aquaculture,Beach and Dune,1,2,0.0
+2000 to 2001,Aquaculture,Forest Plantation,1,3,0.0
+2000 to 2001,Aquaculture,Grassland,1,4,0.0
+2000 to 2001,Aquaculture,Mining,1,5,0.0
+2000 to 2001,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2000 to 2001,Aquaculture,Natural Forest,1,7,0.0
+2000 to 2001,Aquaculture,Non Observed,1,8,0.0
+2000 to 2001,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2000 to 2001,Aquaculture,Pasture,1,10,0.0
+2000 to 2001,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2000 to 2001,Aquaculture,Rocky outcrop,1,12,0.0
+2000 to 2001,Aquaculture,Urban Infrastructure,1,13,0.0
+2000 to 2001,Aquaculture,Wetland,1,14,0.0
+2000 to 2001,Beach and Dune,Forest Plantation,2,3,0.0
+2000 to 2001,Beach and Dune,Grassland,2,4,0.0
+2000 to 2001,Beach and Dune,Mining,2,5,0.0
+2000 to 2001,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2000 to 2001,Beach and Dune,Natural Forest,2,7,0.0
+2000 to 2001,Beach and Dune,Non Observed,2,8,0.0
+2000 to 2001,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+2000 to 2001,Beach and Dune,Pasture,2,10,0.0
+2000 to 2001,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2000 to 2001,Beach and Dune,Rocky outcrop,2,12,0.0
+2000 to 2001,Beach and Dune,Urban Infrastructure,2,13,0.0
+2000 to 2001,Beach and Dune,Wetland,2,14,0.0
+2000 to 2001,Forest Plantation,Grassland,3,4,45.0
+2000 to 2001,Forest Plantation,Mining,3,5,0.0
+2000 to 2001,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2000 to 2001,Forest Plantation,Natural Forest,3,7,0.0
+2000 to 2001,Forest Plantation,Non Observed,3,8,0.0
+2000 to 2001,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2000 to 2001,Forest Plantation,Pasture,3,10,0.0
+2000 to 2001,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2000 to 2001,Forest Plantation,Rocky outcrop,3,12,0.0
+2000 to 2001,Forest Plantation,Urban Infrastructure,3,13,0.0
+2000 to 2001,Forest Plantation,Wetland,3,14,0.0
+2000 to 2001,Grassland,Mining,4,5,0.0
+2000 to 2001,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2000 to 2001,Grassland,Natural Forest,4,7,0.0
+2000 to 2001,Grassland,Non Observed,4,8,0.0
+2000 to 2001,Grassland,Other Non Vegetated Area,4,9,0.0
+2000 to 2001,Grassland,Pasture,4,10,0.0
+2000 to 2001,Grassland,"River, Lake and Ocean",4,11,0.0
+2000 to 2001,Grassland,Rocky outcrop,4,12,5.0
+2000 to 2001,Grassland,Urban Infrastructure,4,13,1.0
+2000 to 2001,Grassland,Wetland,4,14,1.0
+2000 to 2001,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2000 to 2001,Mining,Natural Forest,5,7,0.0
+2000 to 2001,Mining,Non Observed,5,8,0.0
+2000 to 2001,Mining,Other Non Vegetated Area,5,9,0.0
+2000 to 2001,Mining,Pasture,5,10,0.0
+2000 to 2001,Mining,"River, Lake and Ocean",5,11,0.0
+2000 to 2001,Mining,Rocky outcrop,5,12,0.0
+2000 to 2001,Mining,Urban Infrastructure,5,13,0.0
+2000 to 2001,Mining,Wetland,5,14,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2000 to 2001,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2000 to 2001,Natural Forest,Non Observed,7,8,0.0
+2000 to 2001,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2000 to 2001,Natural Forest,Pasture,7,10,0.0
+2000 to 2001,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2000 to 2001,Natural Forest,Rocky outcrop,7,12,0.0
+2000 to 2001,Natural Forest,Urban Infrastructure,7,13,0.0
+2000 to 2001,Natural Forest,Wetland,7,14,0.0
+2000 to 2001,Non Observed,Other Non Vegetated Area,8,9,3.0
+2000 to 2001,Non Observed,Pasture,8,10,0.0
+2000 to 2001,Non Observed,"River, Lake and Ocean",8,11,0.0
+2000 to 2001,Non Observed,Rocky outcrop,8,12,0.0
+2000 to 2001,Non Observed,Urban Infrastructure,8,13,0.0
+2000 to 2001,Non Observed,Wetland,8,14,0.0
+2000 to 2001,Other Non Vegetated Area,Pasture,9,10,0.0
+2000 to 2001,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2000 to 2001,Other Non Vegetated Area,Rocky outcrop,9,12,31.0
+2000 to 2001,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2000 to 2001,Other Non Vegetated Area,Wetland,9,14,0.0
+2000 to 2001,Pasture,"River, Lake and Ocean",10,11,0.0
+2000 to 2001,Pasture,Rocky outcrop,10,12,0.0
+2000 to 2001,Pasture,Urban Infrastructure,10,13,0.0
+2000 to 2001,Pasture,Wetland,10,14,0.0
+2000 to 2001,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2000 to 2001,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2000 to 2001,"River, Lake and Ocean",Wetland,11,14,0.0
+2000 to 2001,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2000 to 2001,Rocky outcrop,Wetland,12,14,0.0
+2000 to 2001,Urban Infrastructure,Wetland,13,14,0.0
+2001 to 2002,Agriculture,Aquaculture,0,1,0.0
+2001 to 2002,Agriculture,Beach and Dune,0,2,1.0
+2001 to 2002,Agriculture,Forest Plantation,0,3,86.0
+2001 to 2002,Agriculture,Grassland,0,4,103606.0
+2001 to 2002,Agriculture,Mining,0,5,0.0
+2001 to 2002,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2001 to 2002,Agriculture,Natural Forest,0,7,8080.0
+2001 to 2002,Agriculture,Non Observed,0,8,0.0
+2001 to 2002,Agriculture,Other Non Vegetated Area,0,9,844.0
+2001 to 2002,Agriculture,Pasture,0,10,0.0
+2001 to 2002,Agriculture,"River, Lake and Ocean",0,11,2161.0
+2001 to 2002,Agriculture,Rocky outcrop,0,12,17.0
+2001 to 2002,Agriculture,Urban Infrastructure,0,13,0.0
+2001 to 2002,Agriculture,Wetland,0,14,309.0
+2001 to 2002,Aquaculture,Beach and Dune,1,2,0.0
+2001 to 2002,Aquaculture,Forest Plantation,1,3,0.0
+2001 to 2002,Aquaculture,Grassland,1,4,0.0
+2001 to 2002,Aquaculture,Mining,1,5,0.0
+2001 to 2002,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2001 to 2002,Aquaculture,Natural Forest,1,7,0.0
+2001 to 2002,Aquaculture,Non Observed,1,8,0.0
+2001 to 2002,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2001 to 2002,Aquaculture,Pasture,1,10,0.0
+2001 to 2002,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2001 to 2002,Aquaculture,Rocky outcrop,1,12,0.0
+2001 to 2002,Aquaculture,Urban Infrastructure,1,13,0.0
+2001 to 2002,Aquaculture,Wetland,1,14,0.0
+2001 to 2002,Beach and Dune,Forest Plantation,2,3,0.0
+2001 to 2002,Beach and Dune,Grassland,2,4,0.0
+2001 to 2002,Beach and Dune,Mining,2,5,0.0
+2001 to 2002,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2001 to 2002,Beach and Dune,Natural Forest,2,7,0.0
+2001 to 2002,Beach and Dune,Non Observed,2,8,0.0
+2001 to 2002,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+2001 to 2002,Beach and Dune,Pasture,2,10,0.0
+2001 to 2002,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2001 to 2002,Beach and Dune,Rocky outcrop,2,12,0.0
+2001 to 2002,Beach and Dune,Urban Infrastructure,2,13,0.0
+2001 to 2002,Beach and Dune,Wetland,2,14,0.0
+2001 to 2002,Forest Plantation,Grassland,3,4,43.0
+2001 to 2002,Forest Plantation,Mining,3,5,0.0
+2001 to 2002,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2001 to 2002,Forest Plantation,Natural Forest,3,7,0.0
+2001 to 2002,Forest Plantation,Non Observed,3,8,0.0
+2001 to 2002,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2001 to 2002,Forest Plantation,Pasture,3,10,0.0
+2001 to 2002,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2001 to 2002,Forest Plantation,Rocky outcrop,3,12,0.0
+2001 to 2002,Forest Plantation,Urban Infrastructure,3,13,0.0
+2001 to 2002,Forest Plantation,Wetland,3,14,0.0
+2001 to 2002,Grassland,Mining,4,5,0.0
+2001 to 2002,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2001 to 2002,Grassland,Natural Forest,4,7,0.0
+2001 to 2002,Grassland,Non Observed,4,8,0.0
+2001 to 2002,Grassland,Other Non Vegetated Area,4,9,0.0
+2001 to 2002,Grassland,Pasture,4,10,0.0
+2001 to 2002,Grassland,"River, Lake and Ocean",4,11,0.0
+2001 to 2002,Grassland,Rocky outcrop,4,12,23.0
+2001 to 2002,Grassland,Urban Infrastructure,4,13,1.0
+2001 to 2002,Grassland,Wetland,4,14,1.0
+2001 to 2002,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2001 to 2002,Mining,Natural Forest,5,7,0.0
+2001 to 2002,Mining,Non Observed,5,8,0.0
+2001 to 2002,Mining,Other Non Vegetated Area,5,9,0.0
+2001 to 2002,Mining,Pasture,5,10,0.0
+2001 to 2002,Mining,"River, Lake and Ocean",5,11,0.0
+2001 to 2002,Mining,Rocky outcrop,5,12,0.0
+2001 to 2002,Mining,Urban Infrastructure,5,13,0.0
+2001 to 2002,Mining,Wetland,5,14,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2001 to 2002,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2001 to 2002,Natural Forest,Non Observed,7,8,0.0
+2001 to 2002,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2001 to 2002,Natural Forest,Pasture,7,10,0.0
+2001 to 2002,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2001 to 2002,Natural Forest,Rocky outcrop,7,12,0.0
+2001 to 2002,Natural Forest,Urban Infrastructure,7,13,0.0
+2001 to 2002,Natural Forest,Wetland,7,14,0.0
+2001 to 2002,Non Observed,Other Non Vegetated Area,8,9,1.0
+2001 to 2002,Non Observed,Pasture,8,10,0.0
+2001 to 2002,Non Observed,"River, Lake and Ocean",8,11,0.0
+2001 to 2002,Non Observed,Rocky outcrop,8,12,0.0
+2001 to 2002,Non Observed,Urban Infrastructure,8,13,0.0
+2001 to 2002,Non Observed,Wetland,8,14,0.0
+2001 to 2002,Other Non Vegetated Area,Pasture,9,10,0.0
+2001 to 2002,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2001 to 2002,Other Non Vegetated Area,Rocky outcrop,9,12,11.0
+2001 to 2002,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2001 to 2002,Other Non Vegetated Area,Wetland,9,14,0.0
+2001 to 2002,Pasture,"River, Lake and Ocean",10,11,0.0
+2001 to 2002,Pasture,Rocky outcrop,10,12,0.0
+2001 to 2002,Pasture,Urban Infrastructure,10,13,0.0
+2001 to 2002,Pasture,Wetland,10,14,0.0
+2001 to 2002,"River, Lake and Ocean",Rocky outcrop,11,12,1.0
+2001 to 2002,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2001 to 2002,"River, Lake and Ocean",Wetland,11,14,0.0
+2001 to 2002,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2001 to 2002,Rocky outcrop,Wetland,12,14,0.0
+2001 to 2002,Urban Infrastructure,Wetland,13,14,0.0
+2002 to 2003,Agriculture,Aquaculture,0,1,0.0
+2002 to 2003,Agriculture,Beach and Dune,0,2,0.0
+2002 to 2003,Agriculture,Forest Plantation,0,3,152.0
+2002 to 2003,Agriculture,Grassland,0,4,125972.0
+2002 to 2003,Agriculture,Mining,0,5,0.0
+2002 to 2003,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2002 to 2003,Agriculture,Natural Forest,0,7,11866.0
+2002 to 2003,Agriculture,Non Observed,0,8,0.0
+2002 to 2003,Agriculture,Other Non Vegetated Area,0,9,1235.0
+2002 to 2003,Agriculture,Pasture,0,10,0.0
+2002 to 2003,Agriculture,"River, Lake and Ocean",0,11,2374.0
+2002 to 2003,Agriculture,Rocky outcrop,0,12,6.0
+2002 to 2003,Agriculture,Urban Infrastructure,0,13,0.0
+2002 to 2003,Agriculture,Wetland,0,14,272.0
+2002 to 2003,Aquaculture,Beach and Dune,1,2,0.0
+2002 to 2003,Aquaculture,Forest Plantation,1,3,0.0
+2002 to 2003,Aquaculture,Grassland,1,4,0.0
+2002 to 2003,Aquaculture,Mining,1,5,0.0
+2002 to 2003,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2002 to 2003,Aquaculture,Natural Forest,1,7,0.0
+2002 to 2003,Aquaculture,Non Observed,1,8,0.0
+2002 to 2003,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2002 to 2003,Aquaculture,Pasture,1,10,0.0
+2002 to 2003,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2002 to 2003,Aquaculture,Rocky outcrop,1,12,0.0
+2002 to 2003,Aquaculture,Urban Infrastructure,1,13,0.0
+2002 to 2003,Aquaculture,Wetland,1,14,0.0
+2002 to 2003,Beach and Dune,Forest Plantation,2,3,0.0
+2002 to 2003,Beach and Dune,Grassland,2,4,0.0
+2002 to 2003,Beach and Dune,Mining,2,5,0.0
+2002 to 2003,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2002 to 2003,Beach and Dune,Natural Forest,2,7,0.0
+2002 to 2003,Beach and Dune,Non Observed,2,8,0.0
+2002 to 2003,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2002 to 2003,Beach and Dune,Pasture,2,10,0.0
+2002 to 2003,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2002 to 2003,Beach and Dune,Rocky outcrop,2,12,0.0
+2002 to 2003,Beach and Dune,Urban Infrastructure,2,13,0.0
+2002 to 2003,Beach and Dune,Wetland,2,14,0.0
+2002 to 2003,Forest Plantation,Grassland,3,4,25.0
+2002 to 2003,Forest Plantation,Mining,3,5,0.0
+2002 to 2003,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2002 to 2003,Forest Plantation,Natural Forest,3,7,0.0
+2002 to 2003,Forest Plantation,Non Observed,3,8,0.0
+2002 to 2003,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2002 to 2003,Forest Plantation,Pasture,3,10,0.0
+2002 to 2003,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2002 to 2003,Forest Plantation,Rocky outcrop,3,12,0.0
+2002 to 2003,Forest Plantation,Urban Infrastructure,3,13,0.0
+2002 to 2003,Forest Plantation,Wetland,3,14,0.0
+2002 to 2003,Grassland,Mining,4,5,0.0
+2002 to 2003,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2002 to 2003,Grassland,Natural Forest,4,7,0.0
+2002 to 2003,Grassland,Non Observed,4,8,0.0
+2002 to 2003,Grassland,Other Non Vegetated Area,4,9,0.0
+2002 to 2003,Grassland,Pasture,4,10,0.0
+2002 to 2003,Grassland,"River, Lake and Ocean",4,11,0.0
+2002 to 2003,Grassland,Rocky outcrop,4,12,9.0
+2002 to 2003,Grassland,Urban Infrastructure,4,13,0.0
+2002 to 2003,Grassland,Wetland,4,14,0.0
+2002 to 2003,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2002 to 2003,Mining,Natural Forest,5,7,0.0
+2002 to 2003,Mining,Non Observed,5,8,0.0
+2002 to 2003,Mining,Other Non Vegetated Area,5,9,0.0
+2002 to 2003,Mining,Pasture,5,10,0.0
+2002 to 2003,Mining,"River, Lake and Ocean",5,11,0.0
+2002 to 2003,Mining,Rocky outcrop,5,12,0.0
+2002 to 2003,Mining,Urban Infrastructure,5,13,0.0
+2002 to 2003,Mining,Wetland,5,14,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2002 to 2003,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2002 to 2003,Natural Forest,Non Observed,7,8,0.0
+2002 to 2003,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2002 to 2003,Natural Forest,Pasture,7,10,0.0
+2002 to 2003,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2002 to 2003,Natural Forest,Rocky outcrop,7,12,0.0
+2002 to 2003,Natural Forest,Urban Infrastructure,7,13,0.0
+2002 to 2003,Natural Forest,Wetland,7,14,0.0
+2002 to 2003,Non Observed,Other Non Vegetated Area,8,9,4.0
+2002 to 2003,Non Observed,Pasture,8,10,0.0
+2002 to 2003,Non Observed,"River, Lake and Ocean",8,11,0.0
+2002 to 2003,Non Observed,Rocky outcrop,8,12,0.0
+2002 to 2003,Non Observed,Urban Infrastructure,8,13,0.0
+2002 to 2003,Non Observed,Wetland,8,14,0.0
+2002 to 2003,Other Non Vegetated Area,Pasture,9,10,0.0
+2002 to 2003,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2002 to 2003,Other Non Vegetated Area,Rocky outcrop,9,12,13.0
+2002 to 2003,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2002 to 2003,Other Non Vegetated Area,Wetland,9,14,0.0
+2002 to 2003,Pasture,"River, Lake and Ocean",10,11,0.0
+2002 to 2003,Pasture,Rocky outcrop,10,12,0.0
+2002 to 2003,Pasture,Urban Infrastructure,10,13,0.0
+2002 to 2003,Pasture,Wetland,10,14,0.0
+2002 to 2003,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2002 to 2003,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2002 to 2003,"River, Lake and Ocean",Wetland,11,14,0.0
+2002 to 2003,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2002 to 2003,Rocky outcrop,Wetland,12,14,0.0
+2002 to 2003,Urban Infrastructure,Wetland,13,14,0.0
+2003 to 2004,Agriculture,Aquaculture,0,1,0.0
+2003 to 2004,Agriculture,Beach and Dune,0,2,0.0
+2003 to 2004,Agriculture,Forest Plantation,0,3,274.0
+2003 to 2004,Agriculture,Grassland,0,4,112305.0
+2003 to 2004,Agriculture,Mining,0,5,0.0
+2003 to 2004,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2003 to 2004,Agriculture,Natural Forest,0,7,7997.0
+2003 to 2004,Agriculture,Non Observed,0,8,0.0
+2003 to 2004,Agriculture,Other Non Vegetated Area,0,9,2216.0
+2003 to 2004,Agriculture,Pasture,0,10,0.0
+2003 to 2004,Agriculture,"River, Lake and Ocean",0,11,1472.0
+2003 to 2004,Agriculture,Rocky outcrop,0,12,0.0
+2003 to 2004,Agriculture,Urban Infrastructure,0,13,0.0
+2003 to 2004,Agriculture,Wetland,0,14,291.0
+2003 to 2004,Aquaculture,Beach and Dune,1,2,0.0
+2003 to 2004,Aquaculture,Forest Plantation,1,3,0.0
+2003 to 2004,Aquaculture,Grassland,1,4,0.0
+2003 to 2004,Aquaculture,Mining,1,5,0.0
+2003 to 2004,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2003 to 2004,Aquaculture,Natural Forest,1,7,0.0
+2003 to 2004,Aquaculture,Non Observed,1,8,0.0
+2003 to 2004,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2003 to 2004,Aquaculture,Pasture,1,10,0.0
+2003 to 2004,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2003 to 2004,Aquaculture,Rocky outcrop,1,12,0.0
+2003 to 2004,Aquaculture,Urban Infrastructure,1,13,0.0
+2003 to 2004,Aquaculture,Wetland,1,14,0.0
+2003 to 2004,Beach and Dune,Forest Plantation,2,3,0.0
+2003 to 2004,Beach and Dune,Grassland,2,4,0.0
+2003 to 2004,Beach and Dune,Mining,2,5,0.0
+2003 to 2004,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2003 to 2004,Beach and Dune,Natural Forest,2,7,0.0
+2003 to 2004,Beach and Dune,Non Observed,2,8,0.0
+2003 to 2004,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2003 to 2004,Beach and Dune,Pasture,2,10,0.0
+2003 to 2004,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2003 to 2004,Beach and Dune,Rocky outcrop,2,12,0.0
+2003 to 2004,Beach and Dune,Urban Infrastructure,2,13,0.0
+2003 to 2004,Beach and Dune,Wetland,2,14,0.0
+2003 to 2004,Forest Plantation,Grassland,3,4,46.0
+2003 to 2004,Forest Plantation,Mining,3,5,0.0
+2003 to 2004,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2003 to 2004,Forest Plantation,Natural Forest,3,7,0.0
+2003 to 2004,Forest Plantation,Non Observed,3,8,0.0
+2003 to 2004,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2003 to 2004,Forest Plantation,Pasture,3,10,0.0
+2003 to 2004,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2003 to 2004,Forest Plantation,Rocky outcrop,3,12,0.0
+2003 to 2004,Forest Plantation,Urban Infrastructure,3,13,0.0
+2003 to 2004,Forest Plantation,Wetland,3,14,0.0
+2003 to 2004,Grassland,Mining,4,5,0.0
+2003 to 2004,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2003 to 2004,Grassland,Natural Forest,4,7,0.0
+2003 to 2004,Grassland,Non Observed,4,8,0.0
+2003 to 2004,Grassland,Other Non Vegetated Area,4,9,0.0
+2003 to 2004,Grassland,Pasture,4,10,0.0
+2003 to 2004,Grassland,"River, Lake and Ocean",4,11,0.0
+2003 to 2004,Grassland,Rocky outcrop,4,12,1.0
+2003 to 2004,Grassland,Urban Infrastructure,4,13,1.0
+2003 to 2004,Grassland,Wetland,4,14,1.0
+2003 to 2004,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2003 to 2004,Mining,Natural Forest,5,7,0.0
+2003 to 2004,Mining,Non Observed,5,8,0.0
+2003 to 2004,Mining,Other Non Vegetated Area,5,9,0.0
+2003 to 2004,Mining,Pasture,5,10,0.0
+2003 to 2004,Mining,"River, Lake and Ocean",5,11,0.0
+2003 to 2004,Mining,Rocky outcrop,5,12,0.0
+2003 to 2004,Mining,Urban Infrastructure,5,13,0.0
+2003 to 2004,Mining,Wetland,5,14,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2003 to 2004,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2003 to 2004,Natural Forest,Non Observed,7,8,0.0
+2003 to 2004,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2003 to 2004,Natural Forest,Pasture,7,10,0.0
+2003 to 2004,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2003 to 2004,Natural Forest,Rocky outcrop,7,12,0.0
+2003 to 2004,Natural Forest,Urban Infrastructure,7,13,0.0
+2003 to 2004,Natural Forest,Wetland,7,14,0.0
+2003 to 2004,Non Observed,Other Non Vegetated Area,8,9,6.0
+2003 to 2004,Non Observed,Pasture,8,10,0.0
+2003 to 2004,Non Observed,"River, Lake and Ocean",8,11,0.0
+2003 to 2004,Non Observed,Rocky outcrop,8,12,0.0
+2003 to 2004,Non Observed,Urban Infrastructure,8,13,0.0
+2003 to 2004,Non Observed,Wetland,8,14,0.0
+2003 to 2004,Other Non Vegetated Area,Pasture,9,10,0.0
+2003 to 2004,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2003 to 2004,Other Non Vegetated Area,Rocky outcrop,9,12,33.0
+2003 to 2004,Other Non Vegetated Area,Urban Infrastructure,9,13,1.0
+2003 to 2004,Other Non Vegetated Area,Wetland,9,14,1.0
+2003 to 2004,Pasture,"River, Lake and Ocean",10,11,0.0
+2003 to 2004,Pasture,Rocky outcrop,10,12,0.0
+2003 to 2004,Pasture,Urban Infrastructure,10,13,0.0
+2003 to 2004,Pasture,Wetland,10,14,0.0
+2003 to 2004,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2003 to 2004,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2003 to 2004,"River, Lake and Ocean",Wetland,11,14,0.0
+2003 to 2004,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2003 to 2004,Rocky outcrop,Wetland,12,14,0.0
+2003 to 2004,Urban Infrastructure,Wetland,13,14,0.0
+2004 to 2005,Agriculture,Aquaculture,0,1,0.0
+2004 to 2005,Agriculture,Beach and Dune,0,2,0.0
+2004 to 2005,Agriculture,Forest Plantation,0,3,334.0
+2004 to 2005,Agriculture,Grassland,0,4,106017.0
+2004 to 2005,Agriculture,Mining,0,5,0.0
+2004 to 2005,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2004 to 2005,Agriculture,Natural Forest,0,7,8554.0
+2004 to 2005,Agriculture,Non Observed,0,8,0.0
+2004 to 2005,Agriculture,Other Non Vegetated Area,0,9,1070.0
+2004 to 2005,Agriculture,Pasture,0,10,0.0
+2004 to 2005,Agriculture,"River, Lake and Ocean",0,11,1121.0
+2004 to 2005,Agriculture,Rocky outcrop,0,12,3.0
+2004 to 2005,Agriculture,Urban Infrastructure,0,13,0.0
+2004 to 2005,Agriculture,Wetland,0,14,251.0
+2004 to 2005,Aquaculture,Beach and Dune,1,2,0.0
+2004 to 2005,Aquaculture,Forest Plantation,1,3,0.0
+2004 to 2005,Aquaculture,Grassland,1,4,0.0
+2004 to 2005,Aquaculture,Mining,1,5,0.0
+2004 to 2005,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2004 to 2005,Aquaculture,Natural Forest,1,7,0.0
+2004 to 2005,Aquaculture,Non Observed,1,8,0.0
+2004 to 2005,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2004 to 2005,Aquaculture,Pasture,1,10,0.0
+2004 to 2005,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2004 to 2005,Aquaculture,Rocky outcrop,1,12,0.0
+2004 to 2005,Aquaculture,Urban Infrastructure,1,13,0.0
+2004 to 2005,Aquaculture,Wetland,1,14,0.0
+2004 to 2005,Beach and Dune,Forest Plantation,2,3,0.0
+2004 to 2005,Beach and Dune,Grassland,2,4,0.0
+2004 to 2005,Beach and Dune,Mining,2,5,0.0
+2004 to 2005,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2004 to 2005,Beach and Dune,Natural Forest,2,7,0.0
+2004 to 2005,Beach and Dune,Non Observed,2,8,0.0
+2004 to 2005,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2004 to 2005,Beach and Dune,Pasture,2,10,0.0
+2004 to 2005,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2004 to 2005,Beach and Dune,Rocky outcrop,2,12,0.0
+2004 to 2005,Beach and Dune,Urban Infrastructure,2,13,0.0
+2004 to 2005,Beach and Dune,Wetland,2,14,0.0
+2004 to 2005,Forest Plantation,Grassland,3,4,23.0
+2004 to 2005,Forest Plantation,Mining,3,5,0.0
+2004 to 2005,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2004 to 2005,Forest Plantation,Natural Forest,3,7,0.0
+2004 to 2005,Forest Plantation,Non Observed,3,8,0.0
+2004 to 2005,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2004 to 2005,Forest Plantation,Pasture,3,10,0.0
+2004 to 2005,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2004 to 2005,Forest Plantation,Rocky outcrop,3,12,0.0
+2004 to 2005,Forest Plantation,Urban Infrastructure,3,13,0.0
+2004 to 2005,Forest Plantation,Wetland,3,14,0.0
+2004 to 2005,Grassland,Mining,4,5,0.0
+2004 to 2005,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2004 to 2005,Grassland,Natural Forest,4,7,0.0
+2004 to 2005,Grassland,Non Observed,4,8,0.0
+2004 to 2005,Grassland,Other Non Vegetated Area,4,9,0.0
+2004 to 2005,Grassland,Pasture,4,10,0.0
+2004 to 2005,Grassland,"River, Lake and Ocean",4,11,0.0
+2004 to 2005,Grassland,Rocky outcrop,4,12,12.0
+2004 to 2005,Grassland,Urban Infrastructure,4,13,0.0
+2004 to 2005,Grassland,Wetland,4,14,0.0
+2004 to 2005,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2004 to 2005,Mining,Natural Forest,5,7,0.0
+2004 to 2005,Mining,Non Observed,5,8,0.0
+2004 to 2005,Mining,Other Non Vegetated Area,5,9,0.0
+2004 to 2005,Mining,Pasture,5,10,0.0
+2004 to 2005,Mining,"River, Lake and Ocean",5,11,0.0
+2004 to 2005,Mining,Rocky outcrop,5,12,0.0
+2004 to 2005,Mining,Urban Infrastructure,5,13,0.0
+2004 to 2005,Mining,Wetland,5,14,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2004 to 2005,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2004 to 2005,Natural Forest,Non Observed,7,8,0.0
+2004 to 2005,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2004 to 2005,Natural Forest,Pasture,7,10,0.0
+2004 to 2005,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2004 to 2005,Natural Forest,Rocky outcrop,7,12,0.0
+2004 to 2005,Natural Forest,Urban Infrastructure,7,13,0.0
+2004 to 2005,Natural Forest,Wetland,7,14,0.0
+2004 to 2005,Non Observed,Other Non Vegetated Area,8,9,8.0
+2004 to 2005,Non Observed,Pasture,8,10,0.0
+2004 to 2005,Non Observed,"River, Lake and Ocean",8,11,0.0
+2004 to 2005,Non Observed,Rocky outcrop,8,12,0.0
+2004 to 2005,Non Observed,Urban Infrastructure,8,13,0.0
+2004 to 2005,Non Observed,Wetland,8,14,0.0
+2004 to 2005,Other Non Vegetated Area,Pasture,9,10,0.0
+2004 to 2005,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2004 to 2005,Other Non Vegetated Area,Rocky outcrop,9,12,42.0
+2004 to 2005,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2004 to 2005,Other Non Vegetated Area,Wetland,9,14,0.0
+2004 to 2005,Pasture,"River, Lake and Ocean",10,11,0.0
+2004 to 2005,Pasture,Rocky outcrop,10,12,0.0
+2004 to 2005,Pasture,Urban Infrastructure,10,13,0.0
+2004 to 2005,Pasture,Wetland,10,14,0.0
+2004 to 2005,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2004 to 2005,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2004 to 2005,"River, Lake and Ocean",Wetland,11,14,0.0
+2004 to 2005,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2004 to 2005,Rocky outcrop,Wetland,12,14,0.0
+2004 to 2005,Urban Infrastructure,Wetland,13,14,0.0
+2005 to 2006,Agriculture,Aquaculture,0,1,0.0
+2005 to 2006,Agriculture,Beach and Dune,0,2,0.0
+2005 to 2006,Agriculture,Forest Plantation,0,3,1556.0
+2005 to 2006,Agriculture,Grassland,0,4,146059.0
+2005 to 2006,Agriculture,Mining,0,5,0.0
+2005 to 2006,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2005 to 2006,Agriculture,Natural Forest,0,7,14805.0
+2005 to 2006,Agriculture,Non Observed,0,8,0.0
+2005 to 2006,Agriculture,Other Non Vegetated Area,0,9,1570.0
+2005 to 2006,Agriculture,Pasture,0,10,0.0
+2005 to 2006,Agriculture,"River, Lake and Ocean",0,11,2140.0
+2005 to 2006,Agriculture,Rocky outcrop,0,12,1.0
+2005 to 2006,Agriculture,Urban Infrastructure,0,13,0.0
+2005 to 2006,Agriculture,Wetland,0,14,180.0
+2005 to 2006,Aquaculture,Beach and Dune,1,2,0.0
+2005 to 2006,Aquaculture,Forest Plantation,1,3,0.0
+2005 to 2006,Aquaculture,Grassland,1,4,0.0
+2005 to 2006,Aquaculture,Mining,1,5,0.0
+2005 to 2006,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2005 to 2006,Aquaculture,Natural Forest,1,7,0.0
+2005 to 2006,Aquaculture,Non Observed,1,8,0.0
+2005 to 2006,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2005 to 2006,Aquaculture,Pasture,1,10,0.0
+2005 to 2006,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2005 to 2006,Aquaculture,Rocky outcrop,1,12,0.0
+2005 to 2006,Aquaculture,Urban Infrastructure,1,13,0.0
+2005 to 2006,Aquaculture,Wetland,1,14,0.0
+2005 to 2006,Beach and Dune,Forest Plantation,2,3,0.0
+2005 to 2006,Beach and Dune,Grassland,2,4,0.0
+2005 to 2006,Beach and Dune,Mining,2,5,0.0
+2005 to 2006,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2005 to 2006,Beach and Dune,Natural Forest,2,7,0.0
+2005 to 2006,Beach and Dune,Non Observed,2,8,0.0
+2005 to 2006,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+2005 to 2006,Beach and Dune,Pasture,2,10,0.0
+2005 to 2006,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2005 to 2006,Beach and Dune,Rocky outcrop,2,12,0.0
+2005 to 2006,Beach and Dune,Urban Infrastructure,2,13,0.0
+2005 to 2006,Beach and Dune,Wetland,2,14,0.0
+2005 to 2006,Forest Plantation,Grassland,3,4,15.0
+2005 to 2006,Forest Plantation,Mining,3,5,0.0
+2005 to 2006,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2005 to 2006,Forest Plantation,Natural Forest,3,7,0.0
+2005 to 2006,Forest Plantation,Non Observed,3,8,0.0
+2005 to 2006,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2005 to 2006,Forest Plantation,Pasture,3,10,0.0
+2005 to 2006,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2005 to 2006,Forest Plantation,Rocky outcrop,3,12,0.0
+2005 to 2006,Forest Plantation,Urban Infrastructure,3,13,0.0
+2005 to 2006,Forest Plantation,Wetland,3,14,0.0
+2005 to 2006,Grassland,Mining,4,5,0.0
+2005 to 2006,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2005 to 2006,Grassland,Natural Forest,4,7,0.0
+2005 to 2006,Grassland,Non Observed,4,8,0.0
+2005 to 2006,Grassland,Other Non Vegetated Area,4,9,0.0
+2005 to 2006,Grassland,Pasture,4,10,0.0
+2005 to 2006,Grassland,"River, Lake and Ocean",4,11,0.0
+2005 to 2006,Grassland,Rocky outcrop,4,12,7.0
+2005 to 2006,Grassland,Urban Infrastructure,4,13,0.0
+2005 to 2006,Grassland,Wetland,4,14,0.0
+2005 to 2006,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2005 to 2006,Mining,Natural Forest,5,7,0.0
+2005 to 2006,Mining,Non Observed,5,8,0.0
+2005 to 2006,Mining,Other Non Vegetated Area,5,9,0.0
+2005 to 2006,Mining,Pasture,5,10,0.0
+2005 to 2006,Mining,"River, Lake and Ocean",5,11,0.0
+2005 to 2006,Mining,Rocky outcrop,5,12,0.0
+2005 to 2006,Mining,Urban Infrastructure,5,13,0.0
+2005 to 2006,Mining,Wetland,5,14,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2005 to 2006,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2005 to 2006,Natural Forest,Non Observed,7,8,0.0
+2005 to 2006,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2005 to 2006,Natural Forest,Pasture,7,10,0.0
+2005 to 2006,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2005 to 2006,Natural Forest,Rocky outcrop,7,12,0.0
+2005 to 2006,Natural Forest,Urban Infrastructure,7,13,0.0
+2005 to 2006,Natural Forest,Wetland,7,14,0.0
+2005 to 2006,Non Observed,Other Non Vegetated Area,8,9,5.0
+2005 to 2006,Non Observed,Pasture,8,10,0.0
+2005 to 2006,Non Observed,"River, Lake and Ocean",8,11,0.0
+2005 to 2006,Non Observed,Rocky outcrop,8,12,0.0
+2005 to 2006,Non Observed,Urban Infrastructure,8,13,0.0
+2005 to 2006,Non Observed,Wetland,8,14,0.0
+2005 to 2006,Other Non Vegetated Area,Pasture,9,10,0.0
+2005 to 2006,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2005 to 2006,Other Non Vegetated Area,Rocky outcrop,9,12,79.0
+2005 to 2006,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2005 to 2006,Other Non Vegetated Area,Wetland,9,14,0.0
+2005 to 2006,Pasture,"River, Lake and Ocean",10,11,0.0
+2005 to 2006,Pasture,Rocky outcrop,10,12,0.0
+2005 to 2006,Pasture,Urban Infrastructure,10,13,0.0
+2005 to 2006,Pasture,Wetland,10,14,0.0
+2005 to 2006,"River, Lake and Ocean",Rocky outcrop,11,12,1.0
+2005 to 2006,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2005 to 2006,"River, Lake and Ocean",Wetland,11,14,0.0
+2005 to 2006,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2005 to 2006,Rocky outcrop,Wetland,12,14,0.0
+2005 to 2006,Urban Infrastructure,Wetland,13,14,0.0
+2006 to 2007,Agriculture,Aquaculture,0,1,0.0
+2006 to 2007,Agriculture,Beach and Dune,0,2,0.0
+2006 to 2007,Agriculture,Forest Plantation,0,3,278.0
+2006 to 2007,Agriculture,Grassland,0,4,83533.0
+2006 to 2007,Agriculture,Mining,0,5,0.0
+2006 to 2007,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2006 to 2007,Agriculture,Natural Forest,0,7,7541.0
+2006 to 2007,Agriculture,Non Observed,0,8,0.0
+2006 to 2007,Agriculture,Other Non Vegetated Area,0,9,1565.0
+2006 to 2007,Agriculture,Pasture,0,10,0.0
+2006 to 2007,Agriculture,"River, Lake and Ocean",0,11,960.0
+2006 to 2007,Agriculture,Rocky outcrop,0,12,2.0
+2006 to 2007,Agriculture,Urban Infrastructure,0,13,0.0
+2006 to 2007,Agriculture,Wetland,0,14,591.0
+2006 to 2007,Aquaculture,Beach and Dune,1,2,0.0
+2006 to 2007,Aquaculture,Forest Plantation,1,3,0.0
+2006 to 2007,Aquaculture,Grassland,1,4,0.0
+2006 to 2007,Aquaculture,Mining,1,5,0.0
+2006 to 2007,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2006 to 2007,Aquaculture,Natural Forest,1,7,0.0
+2006 to 2007,Aquaculture,Non Observed,1,8,0.0
+2006 to 2007,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2006 to 2007,Aquaculture,Pasture,1,10,0.0
+2006 to 2007,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2006 to 2007,Aquaculture,Rocky outcrop,1,12,0.0
+2006 to 2007,Aquaculture,Urban Infrastructure,1,13,0.0
+2006 to 2007,Aquaculture,Wetland,1,14,0.0
+2006 to 2007,Beach and Dune,Forest Plantation,2,3,0.0
+2006 to 2007,Beach and Dune,Grassland,2,4,0.0
+2006 to 2007,Beach and Dune,Mining,2,5,0.0
+2006 to 2007,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2006 to 2007,Beach and Dune,Natural Forest,2,7,0.0
+2006 to 2007,Beach and Dune,Non Observed,2,8,0.0
+2006 to 2007,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2006 to 2007,Beach and Dune,Pasture,2,10,0.0
+2006 to 2007,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2006 to 2007,Beach and Dune,Rocky outcrop,2,12,0.0
+2006 to 2007,Beach and Dune,Urban Infrastructure,2,13,0.0
+2006 to 2007,Beach and Dune,Wetland,2,14,0.0
+2006 to 2007,Forest Plantation,Grassland,3,4,15.0
+2006 to 2007,Forest Plantation,Mining,3,5,0.0
+2006 to 2007,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2006 to 2007,Forest Plantation,Natural Forest,3,7,0.0
+2006 to 2007,Forest Plantation,Non Observed,3,8,0.0
+2006 to 2007,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2006 to 2007,Forest Plantation,Pasture,3,10,0.0
+2006 to 2007,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2006 to 2007,Forest Plantation,Rocky outcrop,3,12,0.0
+2006 to 2007,Forest Plantation,Urban Infrastructure,3,13,0.0
+2006 to 2007,Forest Plantation,Wetland,3,14,0.0
+2006 to 2007,Grassland,Mining,4,5,0.0
+2006 to 2007,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2006 to 2007,Grassland,Natural Forest,4,7,0.0
+2006 to 2007,Grassland,Non Observed,4,8,0.0
+2006 to 2007,Grassland,Other Non Vegetated Area,4,9,0.0
+2006 to 2007,Grassland,Pasture,4,10,0.0
+2006 to 2007,Grassland,"River, Lake and Ocean",4,11,0.0
+2006 to 2007,Grassland,Rocky outcrop,4,12,1.0
+2006 to 2007,Grassland,Urban Infrastructure,4,13,1.0
+2006 to 2007,Grassland,Wetland,4,14,1.0
+2006 to 2007,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2006 to 2007,Mining,Natural Forest,5,7,0.0
+2006 to 2007,Mining,Non Observed,5,8,0.0
+2006 to 2007,Mining,Other Non Vegetated Area,5,9,0.0
+2006 to 2007,Mining,Pasture,5,10,0.0
+2006 to 2007,Mining,"River, Lake and Ocean",5,11,0.0
+2006 to 2007,Mining,Rocky outcrop,5,12,0.0
+2006 to 2007,Mining,Urban Infrastructure,5,13,0.0
+2006 to 2007,Mining,Wetland,5,14,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2006 to 2007,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2006 to 2007,Natural Forest,Non Observed,7,8,0.0
+2006 to 2007,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2006 to 2007,Natural Forest,Pasture,7,10,0.0
+2006 to 2007,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2006 to 2007,Natural Forest,Rocky outcrop,7,12,0.0
+2006 to 2007,Natural Forest,Urban Infrastructure,7,13,0.0
+2006 to 2007,Natural Forest,Wetland,7,14,0.0
+2006 to 2007,Non Observed,Other Non Vegetated Area,8,9,10.0
+2006 to 2007,Non Observed,Pasture,8,10,0.0
+2006 to 2007,Non Observed,"River, Lake and Ocean",8,11,0.0
+2006 to 2007,Non Observed,Rocky outcrop,8,12,0.0
+2006 to 2007,Non Observed,Urban Infrastructure,8,13,0.0
+2006 to 2007,Non Observed,Wetland,8,14,0.0
+2006 to 2007,Other Non Vegetated Area,Pasture,9,10,0.0
+2006 to 2007,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2006 to 2007,Other Non Vegetated Area,Rocky outcrop,9,12,6.0
+2006 to 2007,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2006 to 2007,Other Non Vegetated Area,Wetland,9,14,0.0
+2006 to 2007,Pasture,"River, Lake and Ocean",10,11,0.0
+2006 to 2007,Pasture,Rocky outcrop,10,12,0.0
+2006 to 2007,Pasture,Urban Infrastructure,10,13,0.0
+2006 to 2007,Pasture,Wetland,10,14,0.0
+2006 to 2007,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2006 to 2007,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2006 to 2007,"River, Lake and Ocean",Wetland,11,14,0.0
+2006 to 2007,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2006 to 2007,Rocky outcrop,Wetland,12,14,0.0
+2006 to 2007,Urban Infrastructure,Wetland,13,14,0.0
+2007 to 2008,Agriculture,Aquaculture,0,1,0.0
+2007 to 2008,Agriculture,Beach and Dune,0,2,0.0
+2007 to 2008,Agriculture,Forest Plantation,0,3,580.0
+2007 to 2008,Agriculture,Grassland,0,4,101501.0
+2007 to 2008,Agriculture,Mining,0,5,0.0
+2007 to 2008,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2007 to 2008,Agriculture,Natural Forest,0,7,7263.0
+2007 to 2008,Agriculture,Non Observed,0,8,0.0
+2007 to 2008,Agriculture,Other Non Vegetated Area,0,9,1738.0
+2007 to 2008,Agriculture,Pasture,0,10,0.0
+2007 to 2008,Agriculture,"River, Lake and Ocean",0,11,1332.0
+2007 to 2008,Agriculture,Rocky outcrop,0,12,2.0
+2007 to 2008,Agriculture,Urban Infrastructure,0,13,0.0
+2007 to 2008,Agriculture,Wetland,0,14,440.0
+2007 to 2008,Aquaculture,Beach and Dune,1,2,0.0
+2007 to 2008,Aquaculture,Forest Plantation,1,3,0.0
+2007 to 2008,Aquaculture,Grassland,1,4,0.0
+2007 to 2008,Aquaculture,Mining,1,5,0.0
+2007 to 2008,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2007 to 2008,Aquaculture,Natural Forest,1,7,0.0
+2007 to 2008,Aquaculture,Non Observed,1,8,0.0
+2007 to 2008,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2007 to 2008,Aquaculture,Pasture,1,10,0.0
+2007 to 2008,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2007 to 2008,Aquaculture,Rocky outcrop,1,12,0.0
+2007 to 2008,Aquaculture,Urban Infrastructure,1,13,0.0
+2007 to 2008,Aquaculture,Wetland,1,14,0.0
+2007 to 2008,Beach and Dune,Forest Plantation,2,3,0.0
+2007 to 2008,Beach and Dune,Grassland,2,4,0.0
+2007 to 2008,Beach and Dune,Mining,2,5,0.0
+2007 to 2008,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2007 to 2008,Beach and Dune,Natural Forest,2,7,0.0
+2007 to 2008,Beach and Dune,Non Observed,2,8,0.0
+2007 to 2008,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2007 to 2008,Beach and Dune,Pasture,2,10,0.0
+2007 to 2008,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2007 to 2008,Beach and Dune,Rocky outcrop,2,12,0.0
+2007 to 2008,Beach and Dune,Urban Infrastructure,2,13,0.0
+2007 to 2008,Beach and Dune,Wetland,2,14,0.0
+2007 to 2008,Forest Plantation,Grassland,3,4,54.0
+2007 to 2008,Forest Plantation,Mining,3,5,0.0
+2007 to 2008,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2007 to 2008,Forest Plantation,Natural Forest,3,7,0.0
+2007 to 2008,Forest Plantation,Non Observed,3,8,0.0
+2007 to 2008,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2007 to 2008,Forest Plantation,Pasture,3,10,0.0
+2007 to 2008,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2007 to 2008,Forest Plantation,Rocky outcrop,3,12,0.0
+2007 to 2008,Forest Plantation,Urban Infrastructure,3,13,0.0
+2007 to 2008,Forest Plantation,Wetland,3,14,0.0
+2007 to 2008,Grassland,Mining,4,5,0.0
+2007 to 2008,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2007 to 2008,Grassland,Natural Forest,4,7,0.0
+2007 to 2008,Grassland,Non Observed,4,8,0.0
+2007 to 2008,Grassland,Other Non Vegetated Area,4,9,0.0
+2007 to 2008,Grassland,Pasture,4,10,0.0
+2007 to 2008,Grassland,"River, Lake and Ocean",4,11,0.0
+2007 to 2008,Grassland,Rocky outcrop,4,12,1.0
+2007 to 2008,Grassland,Urban Infrastructure,4,13,1.0
+2007 to 2008,Grassland,Wetland,4,14,1.0
+2007 to 2008,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2007 to 2008,Mining,Natural Forest,5,7,0.0
+2007 to 2008,Mining,Non Observed,5,8,0.0
+2007 to 2008,Mining,Other Non Vegetated Area,5,9,0.0
+2007 to 2008,Mining,Pasture,5,10,0.0
+2007 to 2008,Mining,"River, Lake and Ocean",5,11,0.0
+2007 to 2008,Mining,Rocky outcrop,5,12,0.0
+2007 to 2008,Mining,Urban Infrastructure,5,13,0.0
+2007 to 2008,Mining,Wetland,5,14,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2007 to 2008,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2007 to 2008,Natural Forest,Non Observed,7,8,0.0
+2007 to 2008,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2007 to 2008,Natural Forest,Pasture,7,10,0.0
+2007 to 2008,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2007 to 2008,Natural Forest,Rocky outcrop,7,12,0.0
+2007 to 2008,Natural Forest,Urban Infrastructure,7,13,0.0
+2007 to 2008,Natural Forest,Wetland,7,14,0.0
+2007 to 2008,Non Observed,Other Non Vegetated Area,8,9,4.0
+2007 to 2008,Non Observed,Pasture,8,10,0.0
+2007 to 2008,Non Observed,"River, Lake and Ocean",8,11,0.0
+2007 to 2008,Non Observed,Rocky outcrop,8,12,0.0
+2007 to 2008,Non Observed,Urban Infrastructure,8,13,0.0
+2007 to 2008,Non Observed,Wetland,8,14,0.0
+2007 to 2008,Other Non Vegetated Area,Pasture,9,10,0.0
+2007 to 2008,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2007 to 2008,Other Non Vegetated Area,Rocky outcrop,9,12,9.0
+2007 to 2008,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2007 to 2008,Other Non Vegetated Area,Wetland,9,14,0.0
+2007 to 2008,Pasture,"River, Lake and Ocean",10,11,0.0
+2007 to 2008,Pasture,Rocky outcrop,10,12,0.0
+2007 to 2008,Pasture,Urban Infrastructure,10,13,0.0
+2007 to 2008,Pasture,Wetland,10,14,0.0
+2007 to 2008,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2007 to 2008,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2007 to 2008,"River, Lake and Ocean",Wetland,11,14,0.0
+2007 to 2008,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2007 to 2008,Rocky outcrop,Wetland,12,14,0.0
+2007 to 2008,Urban Infrastructure,Wetland,13,14,0.0
+2008 to 2009,Agriculture,Aquaculture,0,1,0.0
+2008 to 2009,Agriculture,Beach and Dune,0,2,16.0
+2008 to 2009,Agriculture,Forest Plantation,0,3,626.0
+2008 to 2009,Agriculture,Grassland,0,4,112168.0
+2008 to 2009,Agriculture,Mining,0,5,0.0
+2008 to 2009,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2008 to 2009,Agriculture,Natural Forest,0,7,8829.0
+2008 to 2009,Agriculture,Non Observed,0,8,0.0
+2008 to 2009,Agriculture,Other Non Vegetated Area,0,9,784.0
+2008 to 2009,Agriculture,Pasture,0,10,0.0
+2008 to 2009,Agriculture,"River, Lake and Ocean",0,11,1148.0
+2008 to 2009,Agriculture,Rocky outcrop,0,12,22.0
+2008 to 2009,Agriculture,Urban Infrastructure,0,13,0.0
+2008 to 2009,Agriculture,Wetland,0,14,303.0
+2008 to 2009,Aquaculture,Beach and Dune,1,2,0.0
+2008 to 2009,Aquaculture,Forest Plantation,1,3,0.0
+2008 to 2009,Aquaculture,Grassland,1,4,0.0
+2008 to 2009,Aquaculture,Mining,1,5,0.0
+2008 to 2009,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2008 to 2009,Aquaculture,Natural Forest,1,7,0.0
+2008 to 2009,Aquaculture,Non Observed,1,8,0.0
+2008 to 2009,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2008 to 2009,Aquaculture,Pasture,1,10,0.0
+2008 to 2009,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2008 to 2009,Aquaculture,Rocky outcrop,1,12,0.0
+2008 to 2009,Aquaculture,Urban Infrastructure,1,13,0.0
+2008 to 2009,Aquaculture,Wetland,1,14,0.0
+2008 to 2009,Beach and Dune,Forest Plantation,2,3,0.0
+2008 to 2009,Beach and Dune,Grassland,2,4,0.0
+2008 to 2009,Beach and Dune,Mining,2,5,0.0
+2008 to 2009,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2008 to 2009,Beach and Dune,Natural Forest,2,7,0.0
+2008 to 2009,Beach and Dune,Non Observed,2,8,0.0
+2008 to 2009,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+2008 to 2009,Beach and Dune,Pasture,2,10,0.0
+2008 to 2009,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2008 to 2009,Beach and Dune,Rocky outcrop,2,12,0.0
+2008 to 2009,Beach and Dune,Urban Infrastructure,2,13,0.0
+2008 to 2009,Beach and Dune,Wetland,2,14,0.0
+2008 to 2009,Forest Plantation,Grassland,3,4,106.0
+2008 to 2009,Forest Plantation,Mining,3,5,0.0
+2008 to 2009,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2008 to 2009,Forest Plantation,Natural Forest,3,7,0.0
+2008 to 2009,Forest Plantation,Non Observed,3,8,0.0
+2008 to 2009,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2008 to 2009,Forest Plantation,Pasture,3,10,0.0
+2008 to 2009,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2008 to 2009,Forest Plantation,Rocky outcrop,3,12,0.0
+2008 to 2009,Forest Plantation,Urban Infrastructure,3,13,0.0
+2008 to 2009,Forest Plantation,Wetland,3,14,0.0
+2008 to 2009,Grassland,Mining,4,5,0.0
+2008 to 2009,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2008 to 2009,Grassland,Natural Forest,4,7,0.0
+2008 to 2009,Grassland,Non Observed,4,8,0.0
+2008 to 2009,Grassland,Other Non Vegetated Area,4,9,0.0
+2008 to 2009,Grassland,Pasture,4,10,0.0
+2008 to 2009,Grassland,"River, Lake and Ocean",4,11,0.0
+2008 to 2009,Grassland,Rocky outcrop,4,12,24.0
+2008 to 2009,Grassland,Urban Infrastructure,4,13,0.0
+2008 to 2009,Grassland,Wetland,4,14,0.0
+2008 to 2009,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2008 to 2009,Mining,Natural Forest,5,7,0.0
+2008 to 2009,Mining,Non Observed,5,8,0.0
+2008 to 2009,Mining,Other Non Vegetated Area,5,9,0.0
+2008 to 2009,Mining,Pasture,5,10,0.0
+2008 to 2009,Mining,"River, Lake and Ocean",5,11,0.0
+2008 to 2009,Mining,Rocky outcrop,5,12,0.0
+2008 to 2009,Mining,Urban Infrastructure,5,13,0.0
+2008 to 2009,Mining,Wetland,5,14,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2008 to 2009,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2008 to 2009,Natural Forest,Non Observed,7,8,0.0
+2008 to 2009,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2008 to 2009,Natural Forest,Pasture,7,10,0.0
+2008 to 2009,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2008 to 2009,Natural Forest,Rocky outcrop,7,12,0.0
+2008 to 2009,Natural Forest,Urban Infrastructure,7,13,0.0
+2008 to 2009,Natural Forest,Wetland,7,14,0.0
+2008 to 2009,Non Observed,Other Non Vegetated Area,8,9,10.0
+2008 to 2009,Non Observed,Pasture,8,10,0.0
+2008 to 2009,Non Observed,"River, Lake and Ocean",8,11,0.0
+2008 to 2009,Non Observed,Rocky outcrop,8,12,0.0
+2008 to 2009,Non Observed,Urban Infrastructure,8,13,0.0
+2008 to 2009,Non Observed,Wetland,8,14,0.0
+2008 to 2009,Other Non Vegetated Area,Pasture,9,10,0.0
+2008 to 2009,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2008 to 2009,Other Non Vegetated Area,Rocky outcrop,9,12,28.0
+2008 to 2009,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2008 to 2009,Other Non Vegetated Area,Wetland,9,14,0.0
+2008 to 2009,Pasture,"River, Lake and Ocean",10,11,0.0
+2008 to 2009,Pasture,Rocky outcrop,10,12,0.0
+2008 to 2009,Pasture,Urban Infrastructure,10,13,0.0
+2008 to 2009,Pasture,Wetland,10,14,0.0
+2008 to 2009,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2008 to 2009,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2008 to 2009,"River, Lake and Ocean",Wetland,11,14,0.0
+2008 to 2009,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2008 to 2009,Rocky outcrop,Wetland,12,14,0.0
+2008 to 2009,Urban Infrastructure,Wetland,13,14,0.0
+2009 to 2010,Agriculture,Aquaculture,0,1,0.0
+2009 to 2010,Agriculture,Beach and Dune,0,2,0.0
+2009 to 2010,Agriculture,Forest Plantation,0,3,183.0
+2009 to 2010,Agriculture,Grassland,0,4,85083.0
+2009 to 2010,Agriculture,Mining,0,5,0.0
+2009 to 2010,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2009 to 2010,Agriculture,Natural Forest,0,7,6986.0
+2009 to 2010,Agriculture,Non Observed,0,8,0.0
+2009 to 2010,Agriculture,Other Non Vegetated Area,0,9,614.0
+2009 to 2010,Agriculture,Pasture,0,10,0.0
+2009 to 2010,Agriculture,"River, Lake and Ocean",0,11,1909.0
+2009 to 2010,Agriculture,Rocky outcrop,0,12,2.0
+2009 to 2010,Agriculture,Urban Infrastructure,0,13,0.0
+2009 to 2010,Agriculture,Wetland,0,14,223.0
+2009 to 2010,Aquaculture,Beach and Dune,1,2,0.0
+2009 to 2010,Aquaculture,Forest Plantation,1,3,0.0
+2009 to 2010,Aquaculture,Grassland,1,4,0.0
+2009 to 2010,Aquaculture,Mining,1,5,0.0
+2009 to 2010,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2009 to 2010,Aquaculture,Natural Forest,1,7,0.0
+2009 to 2010,Aquaculture,Non Observed,1,8,0.0
+2009 to 2010,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2009 to 2010,Aquaculture,Pasture,1,10,0.0
+2009 to 2010,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2009 to 2010,Aquaculture,Rocky outcrop,1,12,0.0
+2009 to 2010,Aquaculture,Urban Infrastructure,1,13,0.0
+2009 to 2010,Aquaculture,Wetland,1,14,0.0
+2009 to 2010,Beach and Dune,Forest Plantation,2,3,0.0
+2009 to 2010,Beach and Dune,Grassland,2,4,0.0
+2009 to 2010,Beach and Dune,Mining,2,5,0.0
+2009 to 2010,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2009 to 2010,Beach and Dune,Natural Forest,2,7,0.0
+2009 to 2010,Beach and Dune,Non Observed,2,8,0.0
+2009 to 2010,Beach and Dune,Other Non Vegetated Area,2,9,5.0
+2009 to 2010,Beach and Dune,Pasture,2,10,0.0
+2009 to 2010,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2009 to 2010,Beach and Dune,Rocky outcrop,2,12,0.0
+2009 to 2010,Beach and Dune,Urban Infrastructure,2,13,0.0
+2009 to 2010,Beach and Dune,Wetland,2,14,0.0
+2009 to 2010,Forest Plantation,Grassland,3,4,27.0
+2009 to 2010,Forest Plantation,Mining,3,5,0.0
+2009 to 2010,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2009 to 2010,Forest Plantation,Natural Forest,3,7,0.0
+2009 to 2010,Forest Plantation,Non Observed,3,8,0.0
+2009 to 2010,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2009 to 2010,Forest Plantation,Pasture,3,10,0.0
+2009 to 2010,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2009 to 2010,Forest Plantation,Rocky outcrop,3,12,0.0
+2009 to 2010,Forest Plantation,Urban Infrastructure,3,13,0.0
+2009 to 2010,Forest Plantation,Wetland,3,14,0.0
+2009 to 2010,Grassland,Mining,4,5,0.0
+2009 to 2010,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2009 to 2010,Grassland,Natural Forest,4,7,0.0
+2009 to 2010,Grassland,Non Observed,4,8,0.0
+2009 to 2010,Grassland,Other Non Vegetated Area,4,9,0.0
+2009 to 2010,Grassland,Pasture,4,10,0.0
+2009 to 2010,Grassland,"River, Lake and Ocean",4,11,0.0
+2009 to 2010,Grassland,Rocky outcrop,4,12,5.0
+2009 to 2010,Grassland,Urban Infrastructure,4,13,1.0
+2009 to 2010,Grassland,Wetland,4,14,1.0
+2009 to 2010,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2009 to 2010,Mining,Natural Forest,5,7,0.0
+2009 to 2010,Mining,Non Observed,5,8,0.0
+2009 to 2010,Mining,Other Non Vegetated Area,5,9,0.0
+2009 to 2010,Mining,Pasture,5,10,0.0
+2009 to 2010,Mining,"River, Lake and Ocean",5,11,0.0
+2009 to 2010,Mining,Rocky outcrop,5,12,0.0
+2009 to 2010,Mining,Urban Infrastructure,5,13,0.0
+2009 to 2010,Mining,Wetland,5,14,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2009 to 2010,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2009 to 2010,Natural Forest,Non Observed,7,8,0.0
+2009 to 2010,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2009 to 2010,Natural Forest,Pasture,7,10,0.0
+2009 to 2010,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2009 to 2010,Natural Forest,Rocky outcrop,7,12,0.0
+2009 to 2010,Natural Forest,Urban Infrastructure,7,13,0.0
+2009 to 2010,Natural Forest,Wetland,7,14,0.0
+2009 to 2010,Non Observed,Other Non Vegetated Area,8,9,7.0
+2009 to 2010,Non Observed,Pasture,8,10,0.0
+2009 to 2010,Non Observed,"River, Lake and Ocean",8,11,0.0
+2009 to 2010,Non Observed,Rocky outcrop,8,12,0.0
+2009 to 2010,Non Observed,Urban Infrastructure,8,13,0.0
+2009 to 2010,Non Observed,Wetland,8,14,0.0
+2009 to 2010,Other Non Vegetated Area,Pasture,9,10,0.0
+2009 to 2010,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2009 to 2010,Other Non Vegetated Area,Rocky outcrop,9,12,28.0
+2009 to 2010,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2009 to 2010,Other Non Vegetated Area,Wetland,9,14,0.0
+2009 to 2010,Pasture,"River, Lake and Ocean",10,11,0.0
+2009 to 2010,Pasture,Rocky outcrop,10,12,0.0
+2009 to 2010,Pasture,Urban Infrastructure,10,13,0.0
+2009 to 2010,Pasture,Wetland,10,14,0.0
+2009 to 2010,"River, Lake and Ocean",Rocky outcrop,11,12,1.0
+2009 to 2010,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2009 to 2010,"River, Lake and Ocean",Wetland,11,14,0.0
+2009 to 2010,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2009 to 2010,Rocky outcrop,Wetland,12,14,0.0
+2009 to 2010,Urban Infrastructure,Wetland,13,14,0.0
+2010 to 2011,Agriculture,Aquaculture,0,1,0.0
+2010 to 2011,Agriculture,Beach and Dune,0,2,0.0
+2010 to 2011,Agriculture,Forest Plantation,0,3,271.0
+2010 to 2011,Agriculture,Grassland,0,4,122806.0
+2010 to 2011,Agriculture,Mining,0,5,0.0
+2010 to 2011,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2010 to 2011,Agriculture,Natural Forest,0,7,7079.0
+2010 to 2011,Agriculture,Non Observed,0,8,0.0
+2010 to 2011,Agriculture,Other Non Vegetated Area,0,9,1828.0
+2010 to 2011,Agriculture,Pasture,0,10,0.0
+2010 to 2011,Agriculture,"River, Lake and Ocean",0,11,1127.0
+2010 to 2011,Agriculture,Rocky outcrop,0,12,2.0
+2010 to 2011,Agriculture,Urban Infrastructure,0,13,0.0
+2010 to 2011,Agriculture,Wetland,0,14,436.0
+2010 to 2011,Aquaculture,Beach and Dune,1,2,0.0
+2010 to 2011,Aquaculture,Forest Plantation,1,3,0.0
+2010 to 2011,Aquaculture,Grassland,1,4,0.0
+2010 to 2011,Aquaculture,Mining,1,5,0.0
+2010 to 2011,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2010 to 2011,Aquaculture,Natural Forest,1,7,0.0
+2010 to 2011,Aquaculture,Non Observed,1,8,0.0
+2010 to 2011,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2010 to 2011,Aquaculture,Pasture,1,10,0.0
+2010 to 2011,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2010 to 2011,Aquaculture,Rocky outcrop,1,12,0.0
+2010 to 2011,Aquaculture,Urban Infrastructure,1,13,0.0
+2010 to 2011,Aquaculture,Wetland,1,14,0.0
+2010 to 2011,Beach and Dune,Forest Plantation,2,3,0.0
+2010 to 2011,Beach and Dune,Grassland,2,4,0.0
+2010 to 2011,Beach and Dune,Mining,2,5,0.0
+2010 to 2011,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2010 to 2011,Beach and Dune,Natural Forest,2,7,0.0
+2010 to 2011,Beach and Dune,Non Observed,2,8,0.0
+2010 to 2011,Beach and Dune,Other Non Vegetated Area,2,9,5.0
+2010 to 2011,Beach and Dune,Pasture,2,10,0.0
+2010 to 2011,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2010 to 2011,Beach and Dune,Rocky outcrop,2,12,0.0
+2010 to 2011,Beach and Dune,Urban Infrastructure,2,13,0.0
+2010 to 2011,Beach and Dune,Wetland,2,14,0.0
+2010 to 2011,Forest Plantation,Grassland,3,4,26.0
+2010 to 2011,Forest Plantation,Mining,3,5,0.0
+2010 to 2011,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2010 to 2011,Forest Plantation,Natural Forest,3,7,0.0
+2010 to 2011,Forest Plantation,Non Observed,3,8,0.0
+2010 to 2011,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2010 to 2011,Forest Plantation,Pasture,3,10,0.0
+2010 to 2011,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2010 to 2011,Forest Plantation,Rocky outcrop,3,12,0.0
+2010 to 2011,Forest Plantation,Urban Infrastructure,3,13,0.0
+2010 to 2011,Forest Plantation,Wetland,3,14,0.0
+2010 to 2011,Grassland,Mining,4,5,0.0
+2010 to 2011,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2010 to 2011,Grassland,Natural Forest,4,7,0.0
+2010 to 2011,Grassland,Non Observed,4,8,0.0
+2010 to 2011,Grassland,Other Non Vegetated Area,4,9,0.0
+2010 to 2011,Grassland,Pasture,4,10,0.0
+2010 to 2011,Grassland,"River, Lake and Ocean",4,11,0.0
+2010 to 2011,Grassland,Rocky outcrop,4,12,4.0
+2010 to 2011,Grassland,Urban Infrastructure,4,13,1.0
+2010 to 2011,Grassland,Wetland,4,14,1.0
+2010 to 2011,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2010 to 2011,Mining,Natural Forest,5,7,0.0
+2010 to 2011,Mining,Non Observed,5,8,0.0
+2010 to 2011,Mining,Other Non Vegetated Area,5,9,0.0
+2010 to 2011,Mining,Pasture,5,10,0.0
+2010 to 2011,Mining,"River, Lake and Ocean",5,11,0.0
+2010 to 2011,Mining,Rocky outcrop,5,12,0.0
+2010 to 2011,Mining,Urban Infrastructure,5,13,0.0
+2010 to 2011,Mining,Wetland,5,14,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2010 to 2011,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2010 to 2011,Natural Forest,Non Observed,7,8,0.0
+2010 to 2011,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2010 to 2011,Natural Forest,Pasture,7,10,0.0
+2010 to 2011,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2010 to 2011,Natural Forest,Rocky outcrop,7,12,0.0
+2010 to 2011,Natural Forest,Urban Infrastructure,7,13,0.0
+2010 to 2011,Natural Forest,Wetland,7,14,0.0
+2010 to 2011,Non Observed,Other Non Vegetated Area,8,9,7.0
+2010 to 2011,Non Observed,Pasture,8,10,0.0
+2010 to 2011,Non Observed,"River, Lake and Ocean",8,11,0.0
+2010 to 2011,Non Observed,Rocky outcrop,8,12,0.0
+2010 to 2011,Non Observed,Urban Infrastructure,8,13,0.0
+2010 to 2011,Non Observed,Wetland,8,14,0.0
+2010 to 2011,Other Non Vegetated Area,Pasture,9,10,0.0
+2010 to 2011,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2010 to 2011,Other Non Vegetated Area,Rocky outcrop,9,12,14.0
+2010 to 2011,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2010 to 2011,Other Non Vegetated Area,Wetland,9,14,0.0
+2010 to 2011,Pasture,"River, Lake and Ocean",10,11,0.0
+2010 to 2011,Pasture,Rocky outcrop,10,12,0.0
+2010 to 2011,Pasture,Urban Infrastructure,10,13,0.0
+2010 to 2011,Pasture,Wetland,10,14,0.0
+2010 to 2011,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2010 to 2011,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2010 to 2011,"River, Lake and Ocean",Wetland,11,14,0.0
+2010 to 2011,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2010 to 2011,Rocky outcrop,Wetland,12,14,0.0
+2010 to 2011,Urban Infrastructure,Wetland,13,14,0.0
+2011 to 2012,Agriculture,Aquaculture,0,1,0.0
+2011 to 2012,Agriculture,Beach and Dune,0,2,0.0
+2011 to 2012,Agriculture,Forest Plantation,0,3,281.0
+2011 to 2012,Agriculture,Grassland,0,4,126184.0
+2011 to 2012,Agriculture,Mining,0,5,0.0
+2011 to 2012,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2011 to 2012,Agriculture,Natural Forest,0,7,4864.0
+2011 to 2012,Agriculture,Non Observed,0,8,0.0
+2011 to 2012,Agriculture,Other Non Vegetated Area,0,9,1187.0
+2011 to 2012,Agriculture,Pasture,0,10,0.0
+2011 to 2012,Agriculture,"River, Lake and Ocean",0,11,1521.0
+2011 to 2012,Agriculture,Rocky outcrop,0,12,12.0
+2011 to 2012,Agriculture,Urban Infrastructure,0,13,0.0
+2011 to 2012,Agriculture,Wetland,0,14,284.0
+2011 to 2012,Aquaculture,Beach and Dune,1,2,0.0
+2011 to 2012,Aquaculture,Forest Plantation,1,3,0.0
+2011 to 2012,Aquaculture,Grassland,1,4,0.0
+2011 to 2012,Aquaculture,Mining,1,5,0.0
+2011 to 2012,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2011 to 2012,Aquaculture,Natural Forest,1,7,0.0
+2011 to 2012,Aquaculture,Non Observed,1,8,0.0
+2011 to 2012,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2011 to 2012,Aquaculture,Pasture,1,10,0.0
+2011 to 2012,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2011 to 2012,Aquaculture,Rocky outcrop,1,12,0.0
+2011 to 2012,Aquaculture,Urban Infrastructure,1,13,0.0
+2011 to 2012,Aquaculture,Wetland,1,14,0.0
+2011 to 2012,Beach and Dune,Forest Plantation,2,3,0.0
+2011 to 2012,Beach and Dune,Grassland,2,4,0.0
+2011 to 2012,Beach and Dune,Mining,2,5,0.0
+2011 to 2012,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2011 to 2012,Beach and Dune,Natural Forest,2,7,0.0
+2011 to 2012,Beach and Dune,Non Observed,2,8,0.0
+2011 to 2012,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2011 to 2012,Beach and Dune,Pasture,2,10,0.0
+2011 to 2012,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2011 to 2012,Beach and Dune,Rocky outcrop,2,12,0.0
+2011 to 2012,Beach and Dune,Urban Infrastructure,2,13,0.0
+2011 to 2012,Beach and Dune,Wetland,2,14,0.0
+2011 to 2012,Forest Plantation,Grassland,3,4,150.0
+2011 to 2012,Forest Plantation,Mining,3,5,0.0
+2011 to 2012,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2011 to 2012,Forest Plantation,Natural Forest,3,7,0.0
+2011 to 2012,Forest Plantation,Non Observed,3,8,0.0
+2011 to 2012,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2011 to 2012,Forest Plantation,Pasture,3,10,0.0
+2011 to 2012,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2011 to 2012,Forest Plantation,Rocky outcrop,3,12,0.0
+2011 to 2012,Forest Plantation,Urban Infrastructure,3,13,0.0
+2011 to 2012,Forest Plantation,Wetland,3,14,0.0
+2011 to 2012,Grassland,Mining,4,5,0.0
+2011 to 2012,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2011 to 2012,Grassland,Natural Forest,4,7,0.0
+2011 to 2012,Grassland,Non Observed,4,8,0.0
+2011 to 2012,Grassland,Other Non Vegetated Area,4,9,0.0
+2011 to 2012,Grassland,Pasture,4,10,0.0
+2011 to 2012,Grassland,"River, Lake and Ocean",4,11,0.0
+2011 to 2012,Grassland,Rocky outcrop,4,12,13.0
+2011 to 2012,Grassland,Urban Infrastructure,4,13,1.0
+2011 to 2012,Grassland,Wetland,4,14,1.0
+2011 to 2012,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2011 to 2012,Mining,Natural Forest,5,7,0.0
+2011 to 2012,Mining,Non Observed,5,8,0.0
+2011 to 2012,Mining,Other Non Vegetated Area,5,9,0.0
+2011 to 2012,Mining,Pasture,5,10,0.0
+2011 to 2012,Mining,"River, Lake and Ocean",5,11,0.0
+2011 to 2012,Mining,Rocky outcrop,5,12,0.0
+2011 to 2012,Mining,Urban Infrastructure,5,13,0.0
+2011 to 2012,Mining,Wetland,5,14,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2011 to 2012,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2011 to 2012,Natural Forest,Non Observed,7,8,0.0
+2011 to 2012,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2011 to 2012,Natural Forest,Pasture,7,10,0.0
+2011 to 2012,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2011 to 2012,Natural Forest,Rocky outcrop,7,12,0.0
+2011 to 2012,Natural Forest,Urban Infrastructure,7,13,0.0
+2011 to 2012,Natural Forest,Wetland,7,14,0.0
+2011 to 2012,Non Observed,Other Non Vegetated Area,8,9,8.0
+2011 to 2012,Non Observed,Pasture,8,10,0.0
+2011 to 2012,Non Observed,"River, Lake and Ocean",8,11,0.0
+2011 to 2012,Non Observed,Rocky outcrop,8,12,0.0
+2011 to 2012,Non Observed,Urban Infrastructure,8,13,0.0
+2011 to 2012,Non Observed,Wetland,8,14,0.0
+2011 to 2012,Other Non Vegetated Area,Pasture,9,10,0.0
+2011 to 2012,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2011 to 2012,Other Non Vegetated Area,Rocky outcrop,9,12,13.0
+2011 to 2012,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2011 to 2012,Other Non Vegetated Area,Wetland,9,14,0.0
+2011 to 2012,Pasture,"River, Lake and Ocean",10,11,0.0
+2011 to 2012,Pasture,Rocky outcrop,10,12,0.0
+2011 to 2012,Pasture,Urban Infrastructure,10,13,0.0
+2011 to 2012,Pasture,Wetland,10,14,0.0
+2011 to 2012,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2011 to 2012,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2011 to 2012,"River, Lake and Ocean",Wetland,11,14,0.0
+2011 to 2012,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2011 to 2012,Rocky outcrop,Wetland,12,14,0.0
+2011 to 2012,Urban Infrastructure,Wetland,13,14,0.0
+2012 to 2013,Agriculture,Aquaculture,0,1,0.0
+2012 to 2013,Agriculture,Beach and Dune,0,2,0.0
+2012 to 2013,Agriculture,Forest Plantation,0,3,118.0
+2012 to 2013,Agriculture,Grassland,0,4,102367.0
+2012 to 2013,Agriculture,Mining,0,5,0.0
+2012 to 2013,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2012 to 2013,Agriculture,Natural Forest,0,7,5573.0
+2012 to 2013,Agriculture,Non Observed,0,8,0.0
+2012 to 2013,Agriculture,Other Non Vegetated Area,0,9,598.0
+2012 to 2013,Agriculture,Pasture,0,10,0.0
+2012 to 2013,Agriculture,"River, Lake and Ocean",0,11,2327.0
+2012 to 2013,Agriculture,Rocky outcrop,0,12,15.0
+2012 to 2013,Agriculture,Urban Infrastructure,0,13,0.0
+2012 to 2013,Agriculture,Wetland,0,14,118.0
+2012 to 2013,Aquaculture,Beach and Dune,1,2,0.0
+2012 to 2013,Aquaculture,Forest Plantation,1,3,0.0
+2012 to 2013,Aquaculture,Grassland,1,4,0.0
+2012 to 2013,Aquaculture,Mining,1,5,0.0
+2012 to 2013,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2012 to 2013,Aquaculture,Natural Forest,1,7,0.0
+2012 to 2013,Aquaculture,Non Observed,1,8,0.0
+2012 to 2013,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2012 to 2013,Aquaculture,Pasture,1,10,0.0
+2012 to 2013,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2012 to 2013,Aquaculture,Rocky outcrop,1,12,0.0
+2012 to 2013,Aquaculture,Urban Infrastructure,1,13,0.0
+2012 to 2013,Aquaculture,Wetland,1,14,0.0
+2012 to 2013,Beach and Dune,Forest Plantation,2,3,0.0
+2012 to 2013,Beach and Dune,Grassland,2,4,0.0
+2012 to 2013,Beach and Dune,Mining,2,5,0.0
+2012 to 2013,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2012 to 2013,Beach and Dune,Natural Forest,2,7,0.0
+2012 to 2013,Beach and Dune,Non Observed,2,8,0.0
+2012 to 2013,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+2012 to 2013,Beach and Dune,Pasture,2,10,0.0
+2012 to 2013,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2012 to 2013,Beach and Dune,Rocky outcrop,2,12,0.0
+2012 to 2013,Beach and Dune,Urban Infrastructure,2,13,0.0
+2012 to 2013,Beach and Dune,Wetland,2,14,0.0
+2012 to 2013,Forest Plantation,Grassland,3,4,165.0
+2012 to 2013,Forest Plantation,Mining,3,5,0.0
+2012 to 2013,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2012 to 2013,Forest Plantation,Natural Forest,3,7,0.0
+2012 to 2013,Forest Plantation,Non Observed,3,8,0.0
+2012 to 2013,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2012 to 2013,Forest Plantation,Pasture,3,10,0.0
+2012 to 2013,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2012 to 2013,Forest Plantation,Rocky outcrop,3,12,0.0
+2012 to 2013,Forest Plantation,Urban Infrastructure,3,13,0.0
+2012 to 2013,Forest Plantation,Wetland,3,14,0.0
+2012 to 2013,Grassland,Mining,4,5,0.0
+2012 to 2013,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2012 to 2013,Grassland,Natural Forest,4,7,0.0
+2012 to 2013,Grassland,Non Observed,4,8,0.0
+2012 to 2013,Grassland,Other Non Vegetated Area,4,9,0.0
+2012 to 2013,Grassland,Pasture,4,10,0.0
+2012 to 2013,Grassland,"River, Lake and Ocean",4,11,0.0
+2012 to 2013,Grassland,Rocky outcrop,4,12,22.0
+2012 to 2013,Grassland,Urban Infrastructure,4,13,1.0
+2012 to 2013,Grassland,Wetland,4,14,1.0
+2012 to 2013,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2012 to 2013,Mining,Natural Forest,5,7,0.0
+2012 to 2013,Mining,Non Observed,5,8,0.0
+2012 to 2013,Mining,Other Non Vegetated Area,5,9,0.0
+2012 to 2013,Mining,Pasture,5,10,0.0
+2012 to 2013,Mining,"River, Lake and Ocean",5,11,0.0
+2012 to 2013,Mining,Rocky outcrop,5,12,0.0
+2012 to 2013,Mining,Urban Infrastructure,5,13,0.0
+2012 to 2013,Mining,Wetland,5,14,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2012 to 2013,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2012 to 2013,Natural Forest,Non Observed,7,8,0.0
+2012 to 2013,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2012 to 2013,Natural Forest,Pasture,7,10,0.0
+2012 to 2013,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2012 to 2013,Natural Forest,Rocky outcrop,7,12,0.0
+2012 to 2013,Natural Forest,Urban Infrastructure,7,13,0.0
+2012 to 2013,Natural Forest,Wetland,7,14,0.0
+2012 to 2013,Non Observed,Other Non Vegetated Area,8,9,2.0
+2012 to 2013,Non Observed,Pasture,8,10,0.0
+2012 to 2013,Non Observed,"River, Lake and Ocean",8,11,0.0
+2012 to 2013,Non Observed,Rocky outcrop,8,12,0.0
+2012 to 2013,Non Observed,Urban Infrastructure,8,13,0.0
+2012 to 2013,Non Observed,Wetland,8,14,0.0
+2012 to 2013,Other Non Vegetated Area,Pasture,9,10,0.0
+2012 to 2013,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2012 to 2013,Other Non Vegetated Area,Rocky outcrop,9,12,4.0
+2012 to 2013,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2012 to 2013,Other Non Vegetated Area,Wetland,9,14,0.0
+2012 to 2013,Pasture,"River, Lake and Ocean",10,11,0.0
+2012 to 2013,Pasture,Rocky outcrop,10,12,0.0
+2012 to 2013,Pasture,Urban Infrastructure,10,13,0.0
+2012 to 2013,Pasture,Wetland,10,14,0.0
+2012 to 2013,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2012 to 2013,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2012 to 2013,"River, Lake and Ocean",Wetland,11,14,0.0
+2012 to 2013,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2012 to 2013,Rocky outcrop,Wetland,12,14,0.0
+2012 to 2013,Urban Infrastructure,Wetland,13,14,0.0
+2013 to 2014,Agriculture,Aquaculture,0,1,0.0
+2013 to 2014,Agriculture,Beach and Dune,0,2,0.0
+2013 to 2014,Agriculture,Forest Plantation,0,3,239.0
+2013 to 2014,Agriculture,Grassland,0,4,94040.0
+2013 to 2014,Agriculture,Mining,0,5,0.0
+2013 to 2014,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2013 to 2014,Agriculture,Natural Forest,0,7,5262.0
+2013 to 2014,Agriculture,Non Observed,0,8,0.0
+2013 to 2014,Agriculture,Other Non Vegetated Area,0,9,548.0
+2013 to 2014,Agriculture,Pasture,0,10,0.0
+2013 to 2014,Agriculture,"River, Lake and Ocean",0,11,2559.0
+2013 to 2014,Agriculture,Rocky outcrop,0,12,16.0
+2013 to 2014,Agriculture,Urban Infrastructure,0,13,0.0
+2013 to 2014,Agriculture,Wetland,0,14,401.0
+2013 to 2014,Aquaculture,Beach and Dune,1,2,0.0
+2013 to 2014,Aquaculture,Forest Plantation,1,3,0.0
+2013 to 2014,Aquaculture,Grassland,1,4,0.0
+2013 to 2014,Aquaculture,Mining,1,5,0.0
+2013 to 2014,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2013 to 2014,Aquaculture,Natural Forest,1,7,0.0
+2013 to 2014,Aquaculture,Non Observed,1,8,0.0
+2013 to 2014,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2013 to 2014,Aquaculture,Pasture,1,10,0.0
+2013 to 2014,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2013 to 2014,Aquaculture,Rocky outcrop,1,12,0.0
+2013 to 2014,Aquaculture,Urban Infrastructure,1,13,0.0
+2013 to 2014,Aquaculture,Wetland,1,14,0.0
+2013 to 2014,Beach and Dune,Forest Plantation,2,3,0.0
+2013 to 2014,Beach and Dune,Grassland,2,4,0.0
+2013 to 2014,Beach and Dune,Mining,2,5,0.0
+2013 to 2014,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2013 to 2014,Beach and Dune,Natural Forest,2,7,0.0
+2013 to 2014,Beach and Dune,Non Observed,2,8,0.0
+2013 to 2014,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+2013 to 2014,Beach and Dune,Pasture,2,10,0.0
+2013 to 2014,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2013 to 2014,Beach and Dune,Rocky outcrop,2,12,0.0
+2013 to 2014,Beach and Dune,Urban Infrastructure,2,13,0.0
+2013 to 2014,Beach and Dune,Wetland,2,14,0.0
+2013 to 2014,Forest Plantation,Grassland,3,4,95.0
+2013 to 2014,Forest Plantation,Mining,3,5,0.0
+2013 to 2014,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2013 to 2014,Forest Plantation,Natural Forest,3,7,0.0
+2013 to 2014,Forest Plantation,Non Observed,3,8,0.0
+2013 to 2014,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2013 to 2014,Forest Plantation,Pasture,3,10,0.0
+2013 to 2014,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2013 to 2014,Forest Plantation,Rocky outcrop,3,12,0.0
+2013 to 2014,Forest Plantation,Urban Infrastructure,3,13,0.0
+2013 to 2014,Forest Plantation,Wetland,3,14,0.0
+2013 to 2014,Grassland,Mining,4,5,0.0
+2013 to 2014,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2013 to 2014,Grassland,Natural Forest,4,7,0.0
+2013 to 2014,Grassland,Non Observed,4,8,0.0
+2013 to 2014,Grassland,Other Non Vegetated Area,4,9,0.0
+2013 to 2014,Grassland,Pasture,4,10,0.0
+2013 to 2014,Grassland,"River, Lake and Ocean",4,11,0.0
+2013 to 2014,Grassland,Rocky outcrop,4,12,5.0
+2013 to 2014,Grassland,Urban Infrastructure,4,13,0.0
+2013 to 2014,Grassland,Wetland,4,14,0.0
+2013 to 2014,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2013 to 2014,Mining,Natural Forest,5,7,0.0
+2013 to 2014,Mining,Non Observed,5,8,0.0
+2013 to 2014,Mining,Other Non Vegetated Area,5,9,0.0
+2013 to 2014,Mining,Pasture,5,10,0.0
+2013 to 2014,Mining,"River, Lake and Ocean",5,11,0.0
+2013 to 2014,Mining,Rocky outcrop,5,12,0.0
+2013 to 2014,Mining,Urban Infrastructure,5,13,0.0
+2013 to 2014,Mining,Wetland,5,14,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2013 to 2014,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2013 to 2014,Natural Forest,Non Observed,7,8,0.0
+2013 to 2014,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2013 to 2014,Natural Forest,Pasture,7,10,0.0
+2013 to 2014,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2013 to 2014,Natural Forest,Rocky outcrop,7,12,0.0
+2013 to 2014,Natural Forest,Urban Infrastructure,7,13,0.0
+2013 to 2014,Natural Forest,Wetland,7,14,0.0
+2013 to 2014,Non Observed,Other Non Vegetated Area,8,9,7.0
+2013 to 2014,Non Observed,Pasture,8,10,0.0
+2013 to 2014,Non Observed,"River, Lake and Ocean",8,11,0.0
+2013 to 2014,Non Observed,Rocky outcrop,8,12,0.0
+2013 to 2014,Non Observed,Urban Infrastructure,8,13,0.0
+2013 to 2014,Non Observed,Wetland,8,14,0.0
+2013 to 2014,Other Non Vegetated Area,Pasture,9,10,0.0
+2013 to 2014,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2013 to 2014,Other Non Vegetated Area,Rocky outcrop,9,12,1.0
+2013 to 2014,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2013 to 2014,Other Non Vegetated Area,Wetland,9,14,0.0
+2013 to 2014,Pasture,"River, Lake and Ocean",10,11,0.0
+2013 to 2014,Pasture,Rocky outcrop,10,12,0.0
+2013 to 2014,Pasture,Urban Infrastructure,10,13,0.0
+2013 to 2014,Pasture,Wetland,10,14,0.0
+2013 to 2014,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2013 to 2014,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2013 to 2014,"River, Lake and Ocean",Wetland,11,14,0.0
+2013 to 2014,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2013 to 2014,Rocky outcrop,Wetland,12,14,0.0
+2013 to 2014,Urban Infrastructure,Wetland,13,14,0.0
+2014 to 2015,Agriculture,Aquaculture,0,1,0.0
+2014 to 2015,Agriculture,Beach and Dune,0,2,1.0
+2014 to 2015,Agriculture,Forest Plantation,0,3,84.0
+2014 to 2015,Agriculture,Grassland,0,4,72473.0
+2014 to 2015,Agriculture,Mining,0,5,0.0
+2014 to 2015,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2014 to 2015,Agriculture,Natural Forest,0,7,5585.0
+2014 to 2015,Agriculture,Non Observed,0,8,0.0
+2014 to 2015,Agriculture,Other Non Vegetated Area,0,9,492.0
+2014 to 2015,Agriculture,Pasture,0,10,0.0
+2014 to 2015,Agriculture,"River, Lake and Ocean",0,11,947.0
+2014 to 2015,Agriculture,Rocky outcrop,0,12,8.0
+2014 to 2015,Agriculture,Urban Infrastructure,0,13,0.0
+2014 to 2015,Agriculture,Wetland,0,14,178.0
+2014 to 2015,Aquaculture,Beach and Dune,1,2,0.0
+2014 to 2015,Aquaculture,Forest Plantation,1,3,0.0
+2014 to 2015,Aquaculture,Grassland,1,4,0.0
+2014 to 2015,Aquaculture,Mining,1,5,0.0
+2014 to 2015,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2014 to 2015,Aquaculture,Natural Forest,1,7,0.0
+2014 to 2015,Aquaculture,Non Observed,1,8,0.0
+2014 to 2015,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2014 to 2015,Aquaculture,Pasture,1,10,0.0
+2014 to 2015,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2014 to 2015,Aquaculture,Rocky outcrop,1,12,0.0
+2014 to 2015,Aquaculture,Urban Infrastructure,1,13,0.0
+2014 to 2015,Aquaculture,Wetland,1,14,0.0
+2014 to 2015,Beach and Dune,Forest Plantation,2,3,0.0
+2014 to 2015,Beach and Dune,Grassland,2,4,0.0
+2014 to 2015,Beach and Dune,Mining,2,5,0.0
+2014 to 2015,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2014 to 2015,Beach and Dune,Natural Forest,2,7,0.0
+2014 to 2015,Beach and Dune,Non Observed,2,8,0.0
+2014 to 2015,Beach and Dune,Other Non Vegetated Area,2,9,2.0
+2014 to 2015,Beach and Dune,Pasture,2,10,0.0
+2014 to 2015,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2014 to 2015,Beach and Dune,Rocky outcrop,2,12,0.0
+2014 to 2015,Beach and Dune,Urban Infrastructure,2,13,0.0
+2014 to 2015,Beach and Dune,Wetland,2,14,0.0
+2014 to 2015,Forest Plantation,Grassland,3,4,19.0
+2014 to 2015,Forest Plantation,Mining,3,5,0.0
+2014 to 2015,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2014 to 2015,Forest Plantation,Natural Forest,3,7,0.0
+2014 to 2015,Forest Plantation,Non Observed,3,8,0.0
+2014 to 2015,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2014 to 2015,Forest Plantation,Pasture,3,10,0.0
+2014 to 2015,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2014 to 2015,Forest Plantation,Rocky outcrop,3,12,0.0
+2014 to 2015,Forest Plantation,Urban Infrastructure,3,13,0.0
+2014 to 2015,Forest Plantation,Wetland,3,14,0.0
+2014 to 2015,Grassland,Mining,4,5,0.0
+2014 to 2015,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2014 to 2015,Grassland,Natural Forest,4,7,0.0
+2014 to 2015,Grassland,Non Observed,4,8,0.0
+2014 to 2015,Grassland,Other Non Vegetated Area,4,9,0.0
+2014 to 2015,Grassland,Pasture,4,10,0.0
+2014 to 2015,Grassland,"River, Lake and Ocean",4,11,0.0
+2014 to 2015,Grassland,Rocky outcrop,4,12,8.0
+2014 to 2015,Grassland,Urban Infrastructure,4,13,0.0
+2014 to 2015,Grassland,Wetland,4,14,0.0
+2014 to 2015,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2014 to 2015,Mining,Natural Forest,5,7,0.0
+2014 to 2015,Mining,Non Observed,5,8,0.0
+2014 to 2015,Mining,Other Non Vegetated Area,5,9,0.0
+2014 to 2015,Mining,Pasture,5,10,0.0
+2014 to 2015,Mining,"River, Lake and Ocean",5,11,0.0
+2014 to 2015,Mining,Rocky outcrop,5,12,0.0
+2014 to 2015,Mining,Urban Infrastructure,5,13,1.0
+2014 to 2015,Mining,Wetland,5,14,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2014 to 2015,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2014 to 2015,Natural Forest,Non Observed,7,8,0.0
+2014 to 2015,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2014 to 2015,Natural Forest,Pasture,7,10,0.0
+2014 to 2015,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2014 to 2015,Natural Forest,Rocky outcrop,7,12,0.0
+2014 to 2015,Natural Forest,Urban Infrastructure,7,13,0.0
+2014 to 2015,Natural Forest,Wetland,7,14,0.0
+2014 to 2015,Non Observed,Other Non Vegetated Area,8,9,4.0
+2014 to 2015,Non Observed,Pasture,8,10,0.0
+2014 to 2015,Non Observed,"River, Lake and Ocean",8,11,0.0
+2014 to 2015,Non Observed,Rocky outcrop,8,12,0.0
+2014 to 2015,Non Observed,Urban Infrastructure,8,13,0.0
+2014 to 2015,Non Observed,Wetland,8,14,0.0
+2014 to 2015,Other Non Vegetated Area,Pasture,9,10,0.0
+2014 to 2015,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2014 to 2015,Other Non Vegetated Area,Rocky outcrop,9,12,0.0
+2014 to 2015,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2014 to 2015,Other Non Vegetated Area,Wetland,9,14,0.0
+2014 to 2015,Pasture,"River, Lake and Ocean",10,11,0.0
+2014 to 2015,Pasture,Rocky outcrop,10,12,0.0
+2014 to 2015,Pasture,Urban Infrastructure,10,13,0.0
+2014 to 2015,Pasture,Wetland,10,14,0.0
+2014 to 2015,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2014 to 2015,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2014 to 2015,"River, Lake and Ocean",Wetland,11,14,0.0
+2014 to 2015,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2014 to 2015,Rocky outcrop,Wetland,12,14,0.0
+2014 to 2015,Urban Infrastructure,Wetland,13,14,0.0
+2015 to 2016,Agriculture,Aquaculture,0,1,0.0
+2015 to 2016,Agriculture,Beach and Dune,0,2,1.0
+2015 to 2016,Agriculture,Forest Plantation,0,3,2136.0
+2015 to 2016,Agriculture,Grassland,0,4,153413.0
+2015 to 2016,Agriculture,Mining,0,5,0.0
+2015 to 2016,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2015 to 2016,Agriculture,Natural Forest,0,7,5527.0
+2015 to 2016,Agriculture,Non Observed,0,8,0.0
+2015 to 2016,Agriculture,Other Non Vegetated Area,0,9,960.0
+2015 to 2016,Agriculture,Pasture,0,10,0.0
+2015 to 2016,Agriculture,"River, Lake and Ocean",0,11,3023.0
+2015 to 2016,Agriculture,Rocky outcrop,0,12,2.0
+2015 to 2016,Agriculture,Urban Infrastructure,0,13,0.0
+2015 to 2016,Agriculture,Wetland,0,14,392.0
+2015 to 2016,Aquaculture,Beach and Dune,1,2,0.0
+2015 to 2016,Aquaculture,Forest Plantation,1,3,0.0
+2015 to 2016,Aquaculture,Grassland,1,4,0.0
+2015 to 2016,Aquaculture,Mining,1,5,0.0
+2015 to 2016,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2015 to 2016,Aquaculture,Natural Forest,1,7,0.0
+2015 to 2016,Aquaculture,Non Observed,1,8,0.0
+2015 to 2016,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2015 to 2016,Aquaculture,Pasture,1,10,0.0
+2015 to 2016,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2015 to 2016,Aquaculture,Rocky outcrop,1,12,0.0
+2015 to 2016,Aquaculture,Urban Infrastructure,1,13,0.0
+2015 to 2016,Aquaculture,Wetland,1,14,0.0
+2015 to 2016,Beach and Dune,Forest Plantation,2,3,0.0
+2015 to 2016,Beach and Dune,Grassland,2,4,0.0
+2015 to 2016,Beach and Dune,Mining,2,5,0.0
+2015 to 2016,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2015 to 2016,Beach and Dune,Natural Forest,2,7,0.0
+2015 to 2016,Beach and Dune,Non Observed,2,8,0.0
+2015 to 2016,Beach and Dune,Other Non Vegetated Area,2,9,4.0
+2015 to 2016,Beach and Dune,Pasture,2,10,0.0
+2015 to 2016,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2015 to 2016,Beach and Dune,Rocky outcrop,2,12,0.0
+2015 to 2016,Beach and Dune,Urban Infrastructure,2,13,0.0
+2015 to 2016,Beach and Dune,Wetland,2,14,0.0
+2015 to 2016,Forest Plantation,Grassland,3,4,37.0
+2015 to 2016,Forest Plantation,Mining,3,5,0.0
+2015 to 2016,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2015 to 2016,Forest Plantation,Natural Forest,3,7,0.0
+2015 to 2016,Forest Plantation,Non Observed,3,8,0.0
+2015 to 2016,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2015 to 2016,Forest Plantation,Pasture,3,10,0.0
+2015 to 2016,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2015 to 2016,Forest Plantation,Rocky outcrop,3,12,0.0
+2015 to 2016,Forest Plantation,Urban Infrastructure,3,13,0.0
+2015 to 2016,Forest Plantation,Wetland,3,14,0.0
+2015 to 2016,Grassland,Mining,4,5,1.0
+2015 to 2016,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2015 to 2016,Grassland,Natural Forest,4,7,0.0
+2015 to 2016,Grassland,Non Observed,4,8,0.0
+2015 to 2016,Grassland,Other Non Vegetated Area,4,9,0.0
+2015 to 2016,Grassland,Pasture,4,10,0.0
+2015 to 2016,Grassland,"River, Lake and Ocean",4,11,0.0
+2015 to 2016,Grassland,Rocky outcrop,4,12,24.0
+2015 to 2016,Grassland,Urban Infrastructure,4,13,0.0
+2015 to 2016,Grassland,Wetland,4,14,0.0
+2015 to 2016,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2015 to 2016,Mining,Natural Forest,5,7,0.0
+2015 to 2016,Mining,Non Observed,5,8,0.0
+2015 to 2016,Mining,Other Non Vegetated Area,5,9,0.0
+2015 to 2016,Mining,Pasture,5,10,0.0
+2015 to 2016,Mining,"River, Lake and Ocean",5,11,0.0
+2015 to 2016,Mining,Rocky outcrop,5,12,0.0
+2015 to 2016,Mining,Urban Infrastructure,5,13,1.0
+2015 to 2016,Mining,Wetland,5,14,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2015 to 2016,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2015 to 2016,Natural Forest,Non Observed,7,8,0.0
+2015 to 2016,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2015 to 2016,Natural Forest,Pasture,7,10,0.0
+2015 to 2016,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2015 to 2016,Natural Forest,Rocky outcrop,7,12,0.0
+2015 to 2016,Natural Forest,Urban Infrastructure,7,13,0.0
+2015 to 2016,Natural Forest,Wetland,7,14,0.0
+2015 to 2016,Non Observed,Other Non Vegetated Area,8,9,5.0
+2015 to 2016,Non Observed,Pasture,8,10,0.0
+2015 to 2016,Non Observed,"River, Lake and Ocean",8,11,0.0
+2015 to 2016,Non Observed,Rocky outcrop,8,12,0.0
+2015 to 2016,Non Observed,Urban Infrastructure,8,13,0.0
+2015 to 2016,Non Observed,Wetland,8,14,0.0
+2015 to 2016,Other Non Vegetated Area,Pasture,9,10,0.0
+2015 to 2016,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2015 to 2016,Other Non Vegetated Area,Rocky outcrop,9,12,2.0
+2015 to 2016,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2015 to 2016,Other Non Vegetated Area,Wetland,9,14,0.0
+2015 to 2016,Pasture,"River, Lake and Ocean",10,11,0.0
+2015 to 2016,Pasture,Rocky outcrop,10,12,0.0
+2015 to 2016,Pasture,Urban Infrastructure,10,13,0.0
+2015 to 2016,Pasture,Wetland,10,14,0.0
+2015 to 2016,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2015 to 2016,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2015 to 2016,"River, Lake and Ocean",Wetland,11,14,0.0
+2015 to 2016,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2015 to 2016,Rocky outcrop,Wetland,12,14,0.0
+2015 to 2016,Urban Infrastructure,Wetland,13,14,0.0
+2016 to 2017,Agriculture,Aquaculture,0,1,0.0
+2016 to 2017,Agriculture,Beach and Dune,0,2,0.0
+2016 to 2017,Agriculture,Forest Plantation,0,3,56.0
+2016 to 2017,Agriculture,Grassland,0,4,59415.0
+2016 to 2017,Agriculture,Mining,0,5,0.0
+2016 to 2017,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2016 to 2017,Agriculture,Natural Forest,0,7,3656.0
+2016 to 2017,Agriculture,Non Observed,0,8,0.0
+2016 to 2017,Agriculture,Other Non Vegetated Area,0,9,288.0
+2016 to 2017,Agriculture,Pasture,0,10,0.0
+2016 to 2017,Agriculture,"River, Lake and Ocean",0,11,677.0
+2016 to 2017,Agriculture,Rocky outcrop,0,12,11.0
+2016 to 2017,Agriculture,Urban Infrastructure,0,13,0.0
+2016 to 2017,Agriculture,Wetland,0,14,233.0
+2016 to 2017,Aquaculture,Beach and Dune,1,2,0.0
+2016 to 2017,Aquaculture,Forest Plantation,1,3,0.0
+2016 to 2017,Aquaculture,Grassland,1,4,0.0
+2016 to 2017,Aquaculture,Mining,1,5,0.0
+2016 to 2017,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2016 to 2017,Aquaculture,Natural Forest,1,7,0.0
+2016 to 2017,Aquaculture,Non Observed,1,8,0.0
+2016 to 2017,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2016 to 2017,Aquaculture,Pasture,1,10,0.0
+2016 to 2017,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2016 to 2017,Aquaculture,Rocky outcrop,1,12,0.0
+2016 to 2017,Aquaculture,Urban Infrastructure,1,13,0.0
+2016 to 2017,Aquaculture,Wetland,1,14,0.0
+2016 to 2017,Beach and Dune,Forest Plantation,2,3,0.0
+2016 to 2017,Beach and Dune,Grassland,2,4,0.0
+2016 to 2017,Beach and Dune,Mining,2,5,0.0
+2016 to 2017,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2016 to 2017,Beach and Dune,Natural Forest,2,7,0.0
+2016 to 2017,Beach and Dune,Non Observed,2,8,0.0
+2016 to 2017,Beach and Dune,Other Non Vegetated Area,2,9,5.0
+2016 to 2017,Beach and Dune,Pasture,2,10,0.0
+2016 to 2017,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2016 to 2017,Beach and Dune,Rocky outcrop,2,12,0.0
+2016 to 2017,Beach and Dune,Urban Infrastructure,2,13,0.0
+2016 to 2017,Beach and Dune,Wetland,2,14,0.0
+2016 to 2017,Forest Plantation,Grassland,3,4,16.0
+2016 to 2017,Forest Plantation,Mining,3,5,0.0
+2016 to 2017,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2016 to 2017,Forest Plantation,Natural Forest,3,7,0.0
+2016 to 2017,Forest Plantation,Non Observed,3,8,0.0
+2016 to 2017,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2016 to 2017,Forest Plantation,Pasture,3,10,0.0
+2016 to 2017,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2016 to 2017,Forest Plantation,Rocky outcrop,3,12,0.0
+2016 to 2017,Forest Plantation,Urban Infrastructure,3,13,0.0
+2016 to 2017,Forest Plantation,Wetland,3,14,0.0
+2016 to 2017,Grassland,Mining,4,5,0.0
+2016 to 2017,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2016 to 2017,Grassland,Natural Forest,4,7,0.0
+2016 to 2017,Grassland,Non Observed,4,8,0.0
+2016 to 2017,Grassland,Other Non Vegetated Area,4,9,0.0
+2016 to 2017,Grassland,Pasture,4,10,0.0
+2016 to 2017,Grassland,"River, Lake and Ocean",4,11,0.0
+2016 to 2017,Grassland,Rocky outcrop,4,12,23.0
+2016 to 2017,Grassland,Urban Infrastructure,4,13,0.0
+2016 to 2017,Grassland,Wetland,4,14,0.0
+2016 to 2017,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2016 to 2017,Mining,Natural Forest,5,7,0.0
+2016 to 2017,Mining,Non Observed,5,8,0.0
+2016 to 2017,Mining,Other Non Vegetated Area,5,9,0.0
+2016 to 2017,Mining,Pasture,5,10,0.0
+2016 to 2017,Mining,"River, Lake and Ocean",5,11,0.0
+2016 to 2017,Mining,Rocky outcrop,5,12,0.0
+2016 to 2017,Mining,Urban Infrastructure,5,13,0.0
+2016 to 2017,Mining,Wetland,5,14,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2016 to 2017,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2016 to 2017,Natural Forest,Non Observed,7,8,0.0
+2016 to 2017,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2016 to 2017,Natural Forest,Pasture,7,10,0.0
+2016 to 2017,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2016 to 2017,Natural Forest,Rocky outcrop,7,12,0.0
+2016 to 2017,Natural Forest,Urban Infrastructure,7,13,0.0
+2016 to 2017,Natural Forest,Wetland,7,14,0.0
+2016 to 2017,Non Observed,Other Non Vegetated Area,8,9,7.0
+2016 to 2017,Non Observed,Pasture,8,10,0.0
+2016 to 2017,Non Observed,"River, Lake and Ocean",8,11,0.0
+2016 to 2017,Non Observed,Rocky outcrop,8,12,0.0
+2016 to 2017,Non Observed,Urban Infrastructure,8,13,0.0
+2016 to 2017,Non Observed,Wetland,8,14,0.0
+2016 to 2017,Other Non Vegetated Area,Pasture,9,10,0.0
+2016 to 2017,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2016 to 2017,Other Non Vegetated Area,Rocky outcrop,9,12,2.0
+2016 to 2017,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2016 to 2017,Other Non Vegetated Area,Wetland,9,14,0.0
+2016 to 2017,Pasture,"River, Lake and Ocean",10,11,0.0
+2016 to 2017,Pasture,Rocky outcrop,10,12,0.0
+2016 to 2017,Pasture,Urban Infrastructure,10,13,0.0
+2016 to 2017,Pasture,Wetland,10,14,0.0
+2016 to 2017,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2016 to 2017,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2016 to 2017,"River, Lake and Ocean",Wetland,11,14,0.0
+2016 to 2017,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2016 to 2017,Rocky outcrop,Wetland,12,14,0.0
+2016 to 2017,Urban Infrastructure,Wetland,13,14,0.0
+2017 to 2018,Agriculture,Aquaculture,0,1,0.0
+2017 to 2018,Agriculture,Beach and Dune,0,2,0.0
+2017 to 2018,Agriculture,Forest Plantation,0,3,13.0
+2017 to 2018,Agriculture,Grassland,0,4,67737.0
+2017 to 2018,Agriculture,Mining,0,5,0.0
+2017 to 2018,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2017 to 2018,Agriculture,Natural Forest,0,7,2292.0
+2017 to 2018,Agriculture,Non Observed,0,8,0.0
+2017 to 2018,Agriculture,Other Non Vegetated Area,0,9,322.0
+2017 to 2018,Agriculture,Pasture,0,10,0.0
+2017 to 2018,Agriculture,"River, Lake and Ocean",0,11,748.0
+2017 to 2018,Agriculture,Rocky outcrop,0,12,8.0
+2017 to 2018,Agriculture,Urban Infrastructure,0,13,0.0
+2017 to 2018,Agriculture,Wetland,0,14,261.0
+2017 to 2018,Aquaculture,Beach and Dune,1,2,0.0
+2017 to 2018,Aquaculture,Forest Plantation,1,3,0.0
+2017 to 2018,Aquaculture,Grassland,1,4,0.0
+2017 to 2018,Aquaculture,Mining,1,5,0.0
+2017 to 2018,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2017 to 2018,Aquaculture,Natural Forest,1,7,0.0
+2017 to 2018,Aquaculture,Non Observed,1,8,0.0
+2017 to 2018,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2017 to 2018,Aquaculture,Pasture,1,10,0.0
+2017 to 2018,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2017 to 2018,Aquaculture,Rocky outcrop,1,12,0.0
+2017 to 2018,Aquaculture,Urban Infrastructure,1,13,0.0
+2017 to 2018,Aquaculture,Wetland,1,14,0.0
+2017 to 2018,Beach and Dune,Forest Plantation,2,3,0.0
+2017 to 2018,Beach and Dune,Grassland,2,4,0.0
+2017 to 2018,Beach and Dune,Mining,2,5,0.0
+2017 to 2018,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2017 to 2018,Beach and Dune,Natural Forest,2,7,0.0
+2017 to 2018,Beach and Dune,Non Observed,2,8,0.0
+2017 to 2018,Beach and Dune,Other Non Vegetated Area,2,9,0.0
+2017 to 2018,Beach and Dune,Pasture,2,10,0.0
+2017 to 2018,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2017 to 2018,Beach and Dune,Rocky outcrop,2,12,0.0
+2017 to 2018,Beach and Dune,Urban Infrastructure,2,13,0.0
+2017 to 2018,Beach and Dune,Wetland,2,14,0.0
+2017 to 2018,Forest Plantation,Grassland,3,4,18.0
+2017 to 2018,Forest Plantation,Mining,3,5,0.0
+2017 to 2018,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2017 to 2018,Forest Plantation,Natural Forest,3,7,0.0
+2017 to 2018,Forest Plantation,Non Observed,3,8,0.0
+2017 to 2018,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2017 to 2018,Forest Plantation,Pasture,3,10,0.0
+2017 to 2018,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2017 to 2018,Forest Plantation,Rocky outcrop,3,12,0.0
+2017 to 2018,Forest Plantation,Urban Infrastructure,3,13,0.0
+2017 to 2018,Forest Plantation,Wetland,3,14,0.0
+2017 to 2018,Grassland,Mining,4,5,0.0
+2017 to 2018,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2017 to 2018,Grassland,Natural Forest,4,7,0.0
+2017 to 2018,Grassland,Non Observed,4,8,0.0
+2017 to 2018,Grassland,Other Non Vegetated Area,4,9,0.0
+2017 to 2018,Grassland,Pasture,4,10,0.0
+2017 to 2018,Grassland,"River, Lake and Ocean",4,11,0.0
+2017 to 2018,Grassland,Rocky outcrop,4,12,13.0
+2017 to 2018,Grassland,Urban Infrastructure,4,13,1.0
+2017 to 2018,Grassland,Wetland,4,14,1.0
+2017 to 2018,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2017 to 2018,Mining,Natural Forest,5,7,0.0
+2017 to 2018,Mining,Non Observed,5,8,0.0
+2017 to 2018,Mining,Other Non Vegetated Area,5,9,0.0
+2017 to 2018,Mining,Pasture,5,10,0.0
+2017 to 2018,Mining,"River, Lake and Ocean",5,11,0.0
+2017 to 2018,Mining,Rocky outcrop,5,12,0.0
+2017 to 2018,Mining,Urban Infrastructure,5,13,0.0
+2017 to 2018,Mining,Wetland,5,14,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2017 to 2018,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2017 to 2018,Natural Forest,Non Observed,7,8,0.0
+2017 to 2018,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2017 to 2018,Natural Forest,Pasture,7,10,0.0
+2017 to 2018,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2017 to 2018,Natural Forest,Rocky outcrop,7,12,0.0
+2017 to 2018,Natural Forest,Urban Infrastructure,7,13,0.0
+2017 to 2018,Natural Forest,Wetland,7,14,0.0
+2017 to 2018,Non Observed,Other Non Vegetated Area,8,9,1.0
+2017 to 2018,Non Observed,Pasture,8,10,0.0
+2017 to 2018,Non Observed,"River, Lake and Ocean",8,11,0.0
+2017 to 2018,Non Observed,Rocky outcrop,8,12,0.0
+2017 to 2018,Non Observed,Urban Infrastructure,8,13,0.0
+2017 to 2018,Non Observed,Wetland,8,14,0.0
+2017 to 2018,Other Non Vegetated Area,Pasture,9,10,0.0
+2017 to 2018,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2017 to 2018,Other Non Vegetated Area,Rocky outcrop,9,12,1.0
+2017 to 2018,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2017 to 2018,Other Non Vegetated Area,Wetland,9,14,0.0
+2017 to 2018,Pasture,"River, Lake and Ocean",10,11,0.0
+2017 to 2018,Pasture,Rocky outcrop,10,12,0.0
+2017 to 2018,Pasture,Urban Infrastructure,10,13,0.0
+2017 to 2018,Pasture,Wetland,10,14,0.0
+2017 to 2018,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2017 to 2018,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2017 to 2018,"River, Lake and Ocean",Wetland,11,14,0.0
+2017 to 2018,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2017 to 2018,Rocky outcrop,Wetland,12,14,0.0
+2017 to 2018,Urban Infrastructure,Wetland,13,14,0.0
+2018 to 2019,Agriculture,Aquaculture,0,1,0.0
+2018 to 2019,Agriculture,Beach and Dune,0,2,0.0
+2018 to 2019,Agriculture,Forest Plantation,0,3,123.0
+2018 to 2019,Agriculture,Grassland,0,4,5213.0
+2018 to 2019,Agriculture,Mining,0,5,0.0
+2018 to 2019,Agriculture,Mosaic of Agriculture and Pasture,0,6,0.0
+2018 to 2019,Agriculture,Natural Forest,0,7,1190.0
+2018 to 2019,Agriculture,Non Observed,0,8,0.0
+2018 to 2019,Agriculture,Other Non Vegetated Area,0,9,271.0
+2018 to 2019,Agriculture,Pasture,0,10,0.0
+2018 to 2019,Agriculture,"River, Lake and Ocean",0,11,659.0
+2018 to 2019,Agriculture,Rocky outcrop,0,12,1.0
+2018 to 2019,Agriculture,Urban Infrastructure,0,13,0.0
+2018 to 2019,Agriculture,Wetland,0,14,172.0
+2018 to 2019,Aquaculture,Beach and Dune,1,2,0.0
+2018 to 2019,Aquaculture,Forest Plantation,1,3,0.0
+2018 to 2019,Aquaculture,Grassland,1,4,0.0
+2018 to 2019,Aquaculture,Mining,1,5,0.0
+2018 to 2019,Aquaculture,Mosaic of Agriculture and Pasture,1,6,0.0
+2018 to 2019,Aquaculture,Natural Forest,1,7,0.0
+2018 to 2019,Aquaculture,Non Observed,1,8,0.0
+2018 to 2019,Aquaculture,Other Non Vegetated Area,1,9,0.0
+2018 to 2019,Aquaculture,Pasture,1,10,0.0
+2018 to 2019,Aquaculture,"River, Lake and Ocean",1,11,0.0
+2018 to 2019,Aquaculture,Rocky outcrop,1,12,0.0
+2018 to 2019,Aquaculture,Urban Infrastructure,1,13,0.0
+2018 to 2019,Aquaculture,Wetland,1,14,0.0
+2018 to 2019,Beach and Dune,Forest Plantation,2,3,0.0
+2018 to 2019,Beach and Dune,Grassland,2,4,0.0
+2018 to 2019,Beach and Dune,Mining,2,5,0.0
+2018 to 2019,Beach and Dune,Mosaic of Agriculture and Pasture,2,6,0.0
+2018 to 2019,Beach and Dune,Natural Forest,2,7,0.0
+2018 to 2019,Beach and Dune,Non Observed,2,8,0.0
+2018 to 2019,Beach and Dune,Other Non Vegetated Area,2,9,3.0
+2018 to 2019,Beach and Dune,Pasture,2,10,0.0
+2018 to 2019,Beach and Dune,"River, Lake and Ocean",2,11,0.0
+2018 to 2019,Beach and Dune,Rocky outcrop,2,12,0.0
+2018 to 2019,Beach and Dune,Urban Infrastructure,2,13,0.0
+2018 to 2019,Beach and Dune,Wetland,2,14,0.0
+2018 to 2019,Forest Plantation,Grassland,3,4,11.0
+2018 to 2019,Forest Plantation,Mining,3,5,0.0
+2018 to 2019,Forest Plantation,Mosaic of Agriculture and Pasture,3,6,0.0
+2018 to 2019,Forest Plantation,Natural Forest,3,7,0.0
+2018 to 2019,Forest Plantation,Non Observed,3,8,0.0
+2018 to 2019,Forest Plantation,Other Non Vegetated Area,3,9,0.0
+2018 to 2019,Forest Plantation,Pasture,3,10,0.0
+2018 to 2019,Forest Plantation,"River, Lake and Ocean",3,11,0.0
+2018 to 2019,Forest Plantation,Rocky outcrop,3,12,0.0
+2018 to 2019,Forest Plantation,Urban Infrastructure,3,13,0.0
+2018 to 2019,Forest Plantation,Wetland,3,14,0.0
+2018 to 2019,Grassland,Mining,4,5,0.0
+2018 to 2019,Grassland,Mosaic of Agriculture and Pasture,4,6,0.0
+2018 to 2019,Grassland,Natural Forest,4,7,0.0
+2018 to 2019,Grassland,Non Observed,4,8,0.0
+2018 to 2019,Grassland,Other Non Vegetated Area,4,9,0.0
+2018 to 2019,Grassland,Pasture,4,10,0.0
+2018 to 2019,Grassland,"River, Lake and Ocean",4,11,0.0
+2018 to 2019,Grassland,Rocky outcrop,4,12,26.0
+2018 to 2019,Grassland,Urban Infrastructure,4,13,1.0
+2018 to 2019,Grassland,Wetland,4,14,1.0
+2018 to 2019,Mining,Mosaic of Agriculture and Pasture,5,6,0.0
+2018 to 2019,Mining,Natural Forest,5,7,0.0
+2018 to 2019,Mining,Non Observed,5,8,0.0
+2018 to 2019,Mining,Other Non Vegetated Area,5,9,0.0
+2018 to 2019,Mining,Pasture,5,10,0.0
+2018 to 2019,Mining,"River, Lake and Ocean",5,11,0.0
+2018 to 2019,Mining,Rocky outcrop,5,12,0.0
+2018 to 2019,Mining,Urban Infrastructure,5,13,0.0
+2018 to 2019,Mining,Wetland,5,14,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Natural Forest,6,7,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Non Observed,6,8,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Other Non Vegetated Area,6,9,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Pasture,6,10,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,"River, Lake and Ocean",6,11,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Rocky outcrop,6,12,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Urban Infrastructure,6,13,0.0
+2018 to 2019,Mosaic of Agriculture and Pasture,Wetland,6,14,0.0
+2018 to 2019,Natural Forest,Non Observed,7,8,0.0
+2018 to 2019,Natural Forest,Other Non Vegetated Area,7,9,0.0
+2018 to 2019,Natural Forest,Pasture,7,10,0.0
+2018 to 2019,Natural Forest,"River, Lake and Ocean",7,11,0.0
+2018 to 2019,Natural Forest,Rocky outcrop,7,12,0.0
+2018 to 2019,Natural Forest,Urban Infrastructure,7,13,0.0
+2018 to 2019,Natural Forest,Wetland,7,14,0.0
+2018 to 2019,Non Observed,Other Non Vegetated Area,8,9,7.0
+2018 to 2019,Non Observed,Pasture,8,10,0.0
+2018 to 2019,Non Observed,"River, Lake and Ocean",8,11,0.0
+2018 to 2019,Non Observed,Rocky outcrop,8,12,0.0
+2018 to 2019,Non Observed,Urban Infrastructure,8,13,0.0
+2018 to 2019,Non Observed,Wetland,8,14,0.0
+2018 to 2019,Other Non Vegetated Area,Pasture,9,10,0.0
+2018 to 2019,Other Non Vegetated Area,"River, Lake and Ocean",9,11,0.0
+2018 to 2019,Other Non Vegetated Area,Rocky outcrop,9,12,1.0
+2018 to 2019,Other Non Vegetated Area,Urban Infrastructure,9,13,0.0
+2018 to 2019,Other Non Vegetated Area,Wetland,9,14,0.0
+2018 to 2019,Pasture,"River, Lake and Ocean",10,11,0.0
+2018 to 2019,Pasture,Rocky outcrop,10,12,0.0
+2018 to 2019,Pasture,Urban Infrastructure,10,13,0.0
+2018 to 2019,Pasture,Wetland,10,14,0.0
+2018 to 2019,"River, Lake and Ocean",Rocky outcrop,11,12,0.0
+2018 to 2019,"River, Lake and Ocean",Urban Infrastructure,11,13,0.0
+2018 to 2019,"River, Lake and Ocean",Wetland,11,14,0.0
+2018 to 2019,Rocky outcrop,Urban Infrastructure,12,13,0.0
+2018 to 2019,Rocky outcrop,Wetland,12,14,0.0
+2018 to 2019,Urban Infrastructure,Wetland,13,14,0.0
