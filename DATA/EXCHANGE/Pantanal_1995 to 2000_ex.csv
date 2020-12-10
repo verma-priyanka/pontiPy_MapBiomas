@@ -1,0 +1,12 @@
+category1,Forest Plantation,Grassland,Mining,Mosaic of Agriculture and Pasture,Natural Forest,Non Observed,Other Non Vegetated Area,Pasture,"River, Lake and Ocean",Urban Infrastructure,Wetland
+Agriculture,0.0,64.0,0.0,0.0,1.3333333333333333,0.3333333333333333,0.0,547.0,2.6666666666666665,0.0,3.0
+Forest Plantation,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Grassland,,,0.6666666666666666,0.0,0.0,13.0,0.0,0.0,814.0,0.0,0.0
+Mining,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Mosaic of Agriculture and Pasture,,,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Natural Forest,,,,,,2.0,0.0,0.0,63.333333333333336,0.0,0.0
+Non Observed,,,,,,,0.0,0.0,1.0,0.0,0.0
+Other Non Vegetated Area,,,,,,,,0.3333333333333333,0.0,0.0,0.0
+Pasture,,,,,,,,,59.0,0.0,0.0
+"River, Lake and Ocean",,,,,,,,,,0.0,0.0
+Urban Infrastructure,,,,,,,,,,,0.0

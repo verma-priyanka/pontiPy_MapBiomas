@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f04bad82-5798-45b7-8ec8-4c52e99d9b1b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/BIOME_CONTINGENCY/CATEGORY/Amazônia_1year.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/BIOME_CONTINGENCY/CATEGORY/Amazônia_1year.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/BIOME_CONTINGENCY/CATEGORY/Caatinga_1year.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DATA/BIOME_CONTINGENCY/CATEGORY/Caatinga_1year.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/QSE_biome_category.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/QSE_biome_category.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/plots.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/plots.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +29,7 @@
   </component>
   <component name="ProjectId" id="1jLpZYu2MgWcBgESSMvJYh4sr5i" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pontiPy" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -48,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.temporal_difference (1)">
+  <component name="RunManager" selected="Python.chord_plot_exchange">
     <configuration name="QSE_biome_category" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MapBioMass" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +66,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="chord_plot_exchange" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MapBioMass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/chord_plot_exchange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="extract_transition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MapBioMass" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,27 +100,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scripts/extract_transition.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="relevant_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MapBioMass" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relevant_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chord_plot_exchange" />
         <item itemvalue="Python.temporal_difference (1)" />
         <item itemvalue="Python.QSE_biome_category" />
         <item itemvalue="Python.extract_transition" />
         <item itemvalue="Python.temporal_difference" />
-        <item itemvalue="Python.relevant_files" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +187,15 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Scripts/chord_plot_exchange.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="_shift" language="Python" />
